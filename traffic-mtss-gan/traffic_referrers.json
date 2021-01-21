@@ -1,0 +1,32 @@
+[
+  {
+    "referrer": "github.com",
+    "count": 30,
+    "uniques": 23
+  },
+  {
+    "referrer": "Google",
+    "count": 27,
+    "uniques": 22
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 8,
+    "uniques": 6
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "referrer": "linkedin.com",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "referrer": "lnkd.in",
+    "count": 1,
+    "uniques": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "referrer": "github.com",
+    "count": 42,
+    "uniques": 24
+  },
+  {
+    "referrer": "Google",
+    "count": 27,
+    "uniques": 24
+  },
+  {
+    "referrer": "awesomeopensource.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "edestek3.kocaeli.edu.tr",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "googleapis.com",
+    "count": 1,
+    "uniques": 1
+  }
+]

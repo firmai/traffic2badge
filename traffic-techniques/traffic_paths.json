@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/firmai/techniques",
+    "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
+    "count": 9,
+    "uniques": 8
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference",
+    "title": "techniques/Causal Inference at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · fir...",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/py-causal-development",
+    "title": "techniques/Causal Inference/Experiments/py-causal-development at 0b15fd6f4240...",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/py-causal-development/example",
+    "title": "techniques/Causal Inference/Experiments/py-causal-development/example at 0b15...",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
+    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/py-causal-development/example/py-causal%20-%20RFCI%20Continuous%20in%20Action.ipynb",
+    "title": "techniques/py-causal - RFCI Continuous in Action.ipynb at 0b15fd6f424074e369c...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/py-causal-development/example/py-causal%20-%20RFCI%20Mixed%20in%20Action.ipynb",
+    "title": "techniques/py-causal - RFCI Mixed in Action.ipynb at 0b15fd6f424074e369c03e0e...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/causal-inference-tutorial-master",
+    "title": "techniques/Causal Inference/causal-inference-tutorial-master at 0b15fd6f42407...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master",
+    "title": "techniques/Causal Inference/Udacity-Project---AB-testing-master at 0b15fd6f42...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/causal-inference-tutorial-master/causal_inference_extended_tutorial.pptx",
+    "title": "techniques/causal_inference_extended_tutorial.pptx at 0b15fd6f424074e369c03e0...",
+    "count": 2,
+    "uniques": 1
+  }
+]

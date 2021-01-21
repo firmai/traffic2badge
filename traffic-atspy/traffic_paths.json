@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/firmai/atspy",
+    "title": "GitHub - firmai/atspy: AtsPy: Automated Time Series Models in Python (by @fir...",
+    "count": 220,
+    "uniques": 143
+  },
+  {
+    "path": "/firmai/atspy/issues/12",
+    "title": "\"ERROR: Could not find a version that satisfies the requirement dataclasses==...",
+    "count": 77,
+    "uniques": 65
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy",
+    "title": "atspy/atspy at master · firmai/atspy · GitHub",
+    "count": 30,
+    "uniques": 16
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy/TS",
+    "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
+    "count": 24,
+    "uniques": 9
+  },
+  {
+    "path": "/firmai/atspy/issues",
+    "title": "Issues · firmai/atspy · GitHub",
+    "count": 16,
+    "uniques": 8
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy_files",
+    "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
+    "count": 11,
+    "uniques": 10
+  },
+  {
+    "path": "/firmai/atspy/issues/7",
+    "title": "Installation issue · Issue #7 · firmai/atspy · GitHub",
+    "count": 10,
+    "uniques": 7
+  },
+  {
+    "path": "/firmai/atspy/blob/master/requirements.txt",
+    "title": "atspy/requirements.txt at master · firmai/atspy · GitHub",
+    "count": 10,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/atspy/blob/master/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf",
+    "title": "atspy/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf at master · firma...",
+    "count": 7,
+    "uniques": 7
+  },
+  {
+    "path": "/firmai/atspy/blob/master/atspy/ssa.py",
+    "title": "atspy/ssa.py at master · firmai/atspy · GitHub",
+    "count": 7,
+    "uniques": 5
+  }
+]

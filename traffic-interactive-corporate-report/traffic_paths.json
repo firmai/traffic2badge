@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/firmai/interactive-corporate-report",
+    "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
+    "count": 100,
+    "uniques": 55
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/data",
+    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/functionality",
+    "title": "interactive-corporate-report/functionality at master · firmai/interactive-cor...",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/Dockerfile",
+    "title": "interactive-corporate-report/Dockerfile at master · firmai/interactive-corpor...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/main.py",
+    "title": "interactive-corporate-report/main.py at master · firmai/interactive-corporate...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/runtime.txt",
+    "title": "interactive-corporate-report/runtime.txt at master · firmai/interactive-corpo...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/setup.py",
+    "title": "interactive-corporate-report/setup.py at master · firmai/interactive-corporat...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/functionality/instagram",
+    "title": "interactive-corporate-report/functionality/instagram at master · firmai/inter...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/issues",
+    "title": "Issues · firmai/interactive-corporate-report · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/pulls",
+    "title": "Pull requests · firmai/interactive-corporate-report · GitHub",
+    "count": 2,
+    "uniques": 2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "referrer": "Google",
+    "count": 783,
+    "uniques": 452
+  },
+  {
+    "referrer": "github.com",
+    "count": 213,
+    "uniques": 97
+  },
+  {
+    "referrer": "kaggle.com",
+    "count": 128,
+    "uniques": 77
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 11,
+    "uniques": 7
+  },
+  {
+    "referrer": "m.facebook.com",
+    "count": 8,
+    "uniques": 2
+  },
+  {
+    "referrer": "firmai.org",
+    "count": 7,
+    "uniques": 6
+  },
+  {
+    "referrer": "cn.bing.com",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "referrer": "Bing",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "referrer": "sys.4channel.org",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "referrer": "StartPage",
+    "count": 5,
+    "uniques": 1
+  }
+]

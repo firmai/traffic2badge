@@ -1,0 +1,37 @@
+[
+  {
+    "referrer": "github.com",
+    "count": 55,
+    "uniques": 47
+  },
+  {
+    "referrer": "Google",
+    "count": 11,
+    "uniques": 11
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "awesomeopensource.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "Baidu",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "news.ycombinator.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "infoq.cn",
+    "count": 1,
+    "uniques": 1
+  }
+]

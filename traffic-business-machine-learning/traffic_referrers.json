@@ -1,0 +1,37 @@
+[
+  {
+    "referrer": "Google",
+    "count": 75,
+    "uniques": 40
+  },
+  {
+    "referrer": "github.com",
+    "count": 38,
+    "uniques": 14
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 10,
+    "uniques": 7
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "medium.com",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "youtube.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "l.facebook.com",
+    "count": 1,
+    "uniques": 1
+  }
+]

@@ -1,901 +1,1561 @@
 ## ⚡️ Generate by [Traffic to Badge - GitHub Action](https://github.com/marketplace/actions/traffic-to-badge)
 
-### 📚 [Application-Lists](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Application-Lists)
+### 📚 [admin](https://github.com/firmai/traffic2badge/tree/traffic/traffic-admin)
 
-### 📷 Badge of Application-Lists without link
+### 📷 Badge of admin without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/clones_per_week.svg)
 ```
 
-### 🔗 Badge of Application-Lists with link
+### 🔗 Badge of admin with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Application-Lists)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Application-Lists)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Application-Lists)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Application-Lists)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-admin)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-admin)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-admin)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-admin)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Application-Lists)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Application-Lists)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Application-Lists)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Application-Lists/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Application-Lists)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-admin)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-admin)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-admin)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-admin/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-admin)
 ```
 
-### 📚 [awesome-python3-webapp](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-awesome-python3-webapp)
+### 📚 [atspy](https://github.com/firmai/traffic2badge/tree/traffic/traffic-atspy)
 
-### 📷 Badge of awesome-python3-webapp without link
+### 📷 Badge of atspy without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/clones_per_week.svg)
 ```
 
-### 🔗 Badge of awesome-python3-webapp with link
+### 🔗 Badge of atspy with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-awesome-python3-webapp)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-awesome-python3-webapp)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-awesome-python3-webapp)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-awesome-python3-webapp)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-atspy)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-atspy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-atspy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-atspy)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-awesome-python3-webapp)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-awesome-python3-webapp)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-awesome-python3-webapp)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-awesome-python3-webapp/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-awesome-python3-webapp)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-atspy)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-atspy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-atspy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-atspy/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-atspy)
 ```
 
-### 📚 [Backup-for-website](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Backup-for-website)
+### 📚 [awesome-google-colab](https://github.com/firmai/traffic2badge/tree/traffic/traffic-awesome-google-colab)
 
-### 📷 Badge of Backup-for-website without link
+### 📷 Badge of awesome-google-colab without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/clones_per_week.svg)
 ```
 
-### 🔗 Badge of Backup-for-website with link
+### 🔗 Badge of awesome-google-colab with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Backup-for-website)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Backup-for-website)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Backup-for-website)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Backup-for-website)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-awesome-google-colab)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-awesome-google-colab)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-awesome-google-colab)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-awesome-google-colab)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Backup-for-website)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Backup-for-website)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Backup-for-website)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Backup-for-website/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Backup-for-website)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-awesome-google-colab)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-awesome-google-colab)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-awesome-google-colab)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-awesome-google-colab/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-awesome-google-colab)
 ```
 
-### 📚 [cfw-scripts](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-cfw-scripts)
+### 📚 [bit](https://github.com/firmai/traffic2badge/tree/traffic/traffic-bit)
 
-### 📷 Badge of cfw-scripts without link
+### 📷 Badge of bit without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/clones_per_week.svg)
 ```
 
-### 🔗 Badge of cfw-scripts with link
+### 🔗 Badge of bit with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-bit)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-bit)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-bit)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-bit)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-bit)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-bit)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-bit)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-bit/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-bit)
 ```
 
-### 📚 [docsify-test](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-docsify-test)
+### 📚 [business-analytics-and-mathematics-python-book](https://github.com/firmai/traffic2badge/tree/traffic/traffic-business-analytics-and-mathematics-python-book)
 
-### 📷 Badge of docsify-test without link
+### 📷 Badge of business-analytics-and-mathematics-python-book without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/clones_per_week.svg)
 ```
 
-### 🔗 Badge of docsify-test with link
+### 🔗 Badge of business-analytics-and-mathematics-python-book with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-analytics-and-mathematics-python-book)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-analytics-and-mathematics-python-book)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-analytics-and-mathematics-python-book)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-analytics-and-mathematics-python-book)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-analytics-and-mathematics-python-book)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-analytics-and-mathematics-python-book)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-analytics-and-mathematics-python-book)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-analytics-and-mathematics-python-book/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-analytics-and-mathematics-python-book)
 ```
 
-### 📚 [ExcelWashing](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-ExcelWashing)
+### 📚 [business-datasets](https://github.com/firmai/traffic2badge/tree/traffic/traffic-business-datasets)
 
-### 📷 Badge of ExcelWashing without link
+### 📷 Badge of business-datasets without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/clones_per_week.svg)
 ```
 
-### 🔗 Badge of ExcelWashing with link
+### 🔗 Badge of business-datasets with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-ExcelWashing)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-ExcelWashing)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-ExcelWashing)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-ExcelWashing)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-datasets)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-datasets)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-datasets)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-datasets)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-ExcelWashing)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-ExcelWashing)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-ExcelWashing)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-ExcelWashing/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-ExcelWashing)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-datasets)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-datasets)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-datasets)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-datasets/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-datasets)
 ```
 
-### 📚 [flaskDemo](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-flaskDemo)
+### 📚 [business-machine-learning](https://github.com/firmai/traffic2badge/tree/traffic/traffic-business-machine-learning)
 
-### 📷 Badge of flaskDemo without link
+### 📷 Badge of business-machine-learning without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/clones_per_week.svg)
 ```
 
-### 🔗 Badge of flaskDemo with link
+### 🔗 Badge of business-machine-learning with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-flaskDemo)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-flaskDemo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-flaskDemo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-flaskDemo)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-flaskDemo)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-flaskDemo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-flaskDemo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-flaskDemo/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-flaskDemo)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning)
 ```
 
-### 📚 [fork-repo](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-fork-repo)
+### 📚 [business-machine-learning-vendors](https://github.com/firmai/traffic2badge/tree/traffic/traffic-business-machine-learning-vendors)
 
-### 📷 Badge of fork-repo without link
+### 📷 Badge of business-machine-learning-vendors without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/clones_per_week.svg)
 ```
 
-### 🔗 Badge of fork-repo with link
+### 🔗 Badge of business-machine-learning-vendors with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-fork-repo)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-fork-repo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-fork-repo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-fork-repo)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning-vendors)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning-vendors)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning-vendors)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning-vendors)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-fork-repo)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-fork-repo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-fork-repo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-fork-repo/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-fork-repo)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning-vendors)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning-vendors)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning-vendors)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-business-machine-learning-vendors/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-business-machine-learning-vendors)
 ```
 
-### 📚 [hexo-theme-whiteink](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-hexo-theme-whiteink)
+### 📚 [contributor](https://github.com/firmai/traffic2badge/tree/traffic/traffic-contributor)
 
-### 📷 Badge of hexo-theme-whiteink without link
+### 📷 Badge of contributor without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/clones_per_week.svg)
 ```
 
-### 🔗 Badge of hexo-theme-whiteink with link
+### 🔗 Badge of contributor with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hexo-theme-whiteink)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hexo-theme-whiteink)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hexo-theme-whiteink)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hexo-theme-whiteink)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-contributor)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-contributor)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-contributor)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-contributor)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hexo-theme-whiteink)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hexo-theme-whiteink)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hexo-theme-whiteink)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hexo-theme-whiteink/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hexo-theme-whiteink)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-contributor)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-contributor)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-contributor)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-contributor/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-contributor)
 ```
 
-### 📚 [hub-mirror](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-hub-mirror)
+### 📚 [data-science-career](https://github.com/firmai/traffic2badge/tree/traffic/traffic-data-science-career)
 
-### 📷 Badge of hub-mirror without link
+### 📷 Badge of data-science-career without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/clones_per_week.svg)
 ```
 
-### 🔗 Badge of hub-mirror with link
+### 🔗 Badge of data-science-career with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hub-mirror)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hub-mirror)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hub-mirror)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hub-mirror)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-data-science-career)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-data-science-career)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-data-science-career)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-data-science-career)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hub-mirror)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hub-mirror)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hub-mirror)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hub-mirror/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hub-mirror)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-data-science-career)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-data-science-career)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-data-science-career)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-data-science-career/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-data-science-career)
 ```
 
-### 📚 [hugo-theme-whiteink](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-hugo-theme-whiteink)
+### 📚 [datagene](https://github.com/firmai/traffic2badge/tree/traffic/traffic-datagene)
 
-### 📷 Badge of hugo-theme-whiteink without link
+### 📷 Badge of datagene without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/clones_per_week.svg)
 ```
 
-### 🔗 Badge of hugo-theme-whiteink with link
+### 🔗 Badge of datagene with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datagene)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datagene)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datagene)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datagene)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datagene)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datagene)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datagene)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datagene/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datagene)
 ```
 
-### 📚 [javascript-action](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-javascript-action)
+### 📚 [datastat](https://github.com/firmai/traffic2badge/tree/traffic/traffic-datastat)
 
-### 📷 Badge of javascript-action without link
+### 📷 Badge of datastat without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/clones_per_week.svg)
 ```
 
-### 🔗 Badge of javascript-action with link
+### 🔗 Badge of datastat with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datastat)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datastat)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datastat)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datastat)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datastat)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datastat)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datastat)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-datastat/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-datastat)
 ```
 
-### 📚 [Learn-for-coding](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Learn-for-coding)
+### 📚 [deltapy](https://github.com/firmai/traffic2badge/tree/traffic/traffic-deltapy)
 
-### 📷 Badge of Learn-for-coding without link
+### 📷 Badge of deltapy without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/clones_per_week.svg)
 ```
 
-### 🔗 Badge of Learn-for-coding with link
+### 🔗 Badge of deltapy with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-deltapy)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-deltapy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-deltapy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-deltapy)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-deltapy)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-deltapy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-deltapy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-deltapy/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-deltapy)
 ```
 
-### 📚 [learn-scripts](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-learn-scripts)
+### 📚 [experimental-statistics](https://github.com/firmai/traffic2badge/tree/traffic/traffic-experimental-statistics)
 
-### 📷 Badge of learn-scripts without link
+### 📷 Badge of experimental-statistics without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/clones_per_week.svg)
 ```
 
-### 🔗 Badge of learn-scripts with link
+### 🔗 Badge of experimental-statistics with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-experimental-statistics)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-experimental-statistics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-experimental-statistics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-experimental-statistics)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-experimental-statistics)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-experimental-statistics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-experimental-statistics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-experimental-statistics/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-experimental-statistics)
 ```
 
-### 📚 [license-generator](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-license-generator)
+### 📚 [fairdata](https://github.com/firmai/traffic2badge/tree/traffic/traffic-fairdata)
 
-### 📷 Badge of license-generator without link
+### 📷 Badge of fairdata without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/clones_per_week.svg)
 ```
 
-### 🔗 Badge of license-generator with link
+### 🔗 Badge of fairdata with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairdata)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairdata)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairdata)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairdata)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairdata)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairdata)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairdata)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairdata/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairdata)
 ```
 
-### 📚 [MyWiki](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MyWiki)
+### 📚 [fairxgb](https://github.com/firmai/traffic2badge/tree/traffic/traffic-fairxgb)
 
-### 📷 Badge of MyWiki without link
+### 📷 Badge of fairxgb without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/clones_per_week.svg)
 ```
 
-### 🔗 Badge of MyWiki with link
+### 🔗 Badge of fairxgb with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MyWiki)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MyWiki)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MyWiki)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MyWiki)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairxgb)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairxgb)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairxgb)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairxgb)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MyWiki)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MyWiki)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MyWiki)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MyWiki/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MyWiki)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairxgb)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairxgb)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairxgb)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-fairxgb/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-fairxgb)
 ```
 
-### 📚 [MY_REPO](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MY_REPO)
+### 📚 [ffood](https://github.com/firmai/traffic2badge/tree/traffic/traffic-ffood)
 
-### 📷 Badge of MY_REPO without link
+### 📷 Badge of ffood without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/clones_per_week.svg)
 ```
 
-### 🔗 Badge of MY_REPO with link
+### 🔗 Badge of ffood with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MY_REPO)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MY_REPO)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MY_REPO)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MY_REPO)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ffood)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ffood)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ffood)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ffood)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MY_REPO)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MY_REPO)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MY_REPO)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MY_REPO/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MY_REPO)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ffood)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ffood)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ffood)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ffood/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ffood)
 ```
 
-### 📚 [optional-works](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-optional-works)
+### 📚 [financial-machine-learning](https://github.com/firmai/traffic2badge/tree/traffic/traffic-financial-machine-learning)
 
-### 📷 Badge of optional-works without link
+### 📷 Badge of financial-machine-learning without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/clones_per_week.svg)
 ```
 
-### 🔗 Badge of optional-works with link
+### 🔗 Badge of financial-machine-learning with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning)
 ```
 
-### 📚 [purewriter-FAQ](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-purewriter-FAQ)
+### 📚 [financial-machine-learning-regulation](https://github.com/firmai/traffic2badge/tree/traffic/traffic-financial-machine-learning-regulation)
 
-### 📷 Badge of purewriter-FAQ without link
+### 📷 Badge of financial-machine-learning-regulation without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/clones_per_week.svg)
 ```
 
-### 🔗 Badge of purewriter-FAQ with link
+### 🔗 Badge of financial-machine-learning-regulation with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning-regulation)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning-regulation)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning-regulation)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning-regulation)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning-regulation)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning-regulation)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning-regulation)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-machine-learning-regulation/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-machine-learning-regulation)
 ```
 
-### 📚 [repo-list-generator](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-repo-list-generator)
+### 📚 [financial-pde-discovery](https://github.com/firmai/traffic2badge/tree/traffic/traffic-financial-pde-discovery)
 
-### 📷 Badge of repo-list-generator without link
+### 📷 Badge of financial-pde-discovery without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/clones_per_week.svg)
 ```
 
-### 🔗 Badge of repo-list-generator with link
+### 🔗 Badge of financial-pde-discovery with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-repo-list-generator)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-repo-list-generator)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-repo-list-generator)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-repo-list-generator)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-pde-discovery)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-pde-discovery)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-pde-discovery)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-pde-discovery)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-repo-list-generator)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-repo-list-generator)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-repo-list-generator)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-repo-list-generator/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-repo-list-generator)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-pde-discovery)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-pde-discovery)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-pde-discovery)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-financial-pde-discovery/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-financial-pde-discovery)
 ```
 
-### 📚 [rime-config](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-rime-config)
+### 📚 [firmai](https://github.com/firmai/traffic2badge/tree/traffic/traffic-firmai)
 
-### 📷 Badge of rime-config without link
+### 📷 Badge of firmai without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/clones_per_week.svg)
 ```
 
-### 🔗 Badge of rime-config with link
+### 🔗 Badge of firmai with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-rime-config)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-rime-config)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-rime-config)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-rime-config)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-rime-config)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-rime-config)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-rime-config)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-rime-config/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-rime-config)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai)
 ```
 
-### 📚 [soulsign-scripts](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-soulsign-scripts)
+### 📚 [firmai.github.io](https://github.com/firmai/traffic2badge/tree/traffic/traffic-firmai.github.io)
 
-### 📷 Badge of soulsign-scripts without link
+### 📷 Badge of firmai.github.io without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/clones_per_week.svg)
 ```
 
-### 🔗 Badge of soulsign-scripts with link
+### 🔗 Badge of firmai.github.io with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai.github.io)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai.github.io)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai.github.io)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai.github.io)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai.github.io)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai.github.io)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai.github.io)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai.github.io/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai.github.io)
 ```
 
-### 📚 [soulsign-scripts-build](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-soulsign-scripts-build)
+### 📚 [firmai_analytics](https://github.com/firmai/traffic2badge/tree/traffic/traffic-firmai_analytics)
 
-### 📷 Badge of soulsign-scripts-build without link
+### 📷 Badge of firmai_analytics without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/clones_per_week.svg)
 ```
 
-### 🔗 Badge of soulsign-scripts-build with link
+### 🔗 Badge of firmai_analytics with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts-build)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts-build)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts-build)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts-build)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai_analytics)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai_analytics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai_analytics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai_analytics)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts-build)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts-build)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts-build)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-soulsign-scripts-build/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-soulsign-scripts-build)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai_analytics)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai_analytics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai_analytics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-firmai_analytics/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-firmai_analytics)
 ```
 
-### 📚 [spyiderDemo](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-spyiderDemo)
+### 📚 [google-colab-website](https://github.com/firmai/traffic2badge/tree/traffic/traffic-google-colab-website)
 
-### 📷 Badge of spyiderDemo without link
+### 📷 Badge of google-colab-website without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/clones_per_week.svg)
 ```
 
-### 🔗 Badge of spyiderDemo with link
+### 🔗 Badge of google-colab-website with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-spyiderDemo)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-spyiderDemo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-spyiderDemo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-spyiderDemo)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-google-colab-website)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-google-colab-website)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-google-colab-website)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-google-colab-website)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-spyiderDemo)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-spyiderDemo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-spyiderDemo)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-spyiderDemo/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-spyiderDemo)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-google-colab-website)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-google-colab-website)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-google-colab-website)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-google-colab-website/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-google-colab-website)
 ```
 
-### 📚 [test](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-test)
+### 📚 [industry-machine-learning](https://github.com/firmai/traffic2badge/tree/traffic/traffic-industry-machine-learning)
 
-### 📷 Badge of test without link
+### 📷 Badge of industry-machine-learning without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/clones_per_week.svg)
 ```
 
-### 🔗 Badge of test with link
+### 🔗 Badge of industry-machine-learning with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-test)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-test)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-test)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-test)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-industry-machine-learning)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-industry-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-industry-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-industry-machine-learning)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-test)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-test)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-test)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-test/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-test)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-industry-machine-learning)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-industry-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-industry-machine-learning)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-industry-machine-learning/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-industry-machine-learning)
 ```
 
-### 📚 [traffic-to-badge](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-traffic-to-badge)
+### 📚 [interactive-corporate-report](https://github.com/firmai/traffic2badge/tree/traffic/traffic-interactive-corporate-report)
 
-### 📷 Badge of traffic-to-badge without link
+### 📷 Badge of interactive-corporate-report without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/clones_per_week.svg)
 ```
 
-### 🔗 Badge of traffic-to-badge with link
+### 🔗 Badge of interactive-corporate-report with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic-to-badge)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic-to-badge)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic-to-badge)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic-to-badge)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-interactive-corporate-report)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-interactive-corporate-report)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-interactive-corporate-report)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-interactive-corporate-report)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic-to-badge)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic-to-badge)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic-to-badge)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic-to-badge/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic-to-badge)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-interactive-corporate-report)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-interactive-corporate-report)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-interactive-corporate-report)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-interactive-corporate-report/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-interactive-corporate-report)
 ```
 
-### 📚 [traffic2badge](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-traffic2badge)
+### 📚 [machine-learning-asset-management](https://github.com/firmai/traffic2badge/tree/traffic/traffic-machine-learning-asset-management)
 
-### 📷 Badge of traffic2badge without link
+### 📷 Badge of machine-learning-asset-management without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/clones_per_week.svg)
 ```
 
-### 🔗 Badge of traffic2badge with link
+### 🔗 Badge of machine-learning-asset-management with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic2badge)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic2badge)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic2badge)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic2badge)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-machine-learning-asset-management)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-machine-learning-asset-management)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-machine-learning-asset-management)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-machine-learning-asset-management)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic2badge)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic2badge)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic2badge)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-traffic2badge)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-machine-learning-asset-management)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-machine-learning-asset-management)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-machine-learning-asset-management)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-machine-learning-asset-management/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-machine-learning-asset-management)
 ```
 
-### 📚 [wiki](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-wiki)
+### 📚 [ml-fairness-framework](https://github.com/firmai/traffic2badge/tree/traffic/traffic-ml-fairness-framework)
 
-### 📷 Badge of wiki without link
+### 📷 Badge of ml-fairness-framework without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/clones_per_week.svg)
 ```
 
-### 🔗 Badge of wiki with link
+### 🔗 Badge of ml-fairness-framework with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-wiki)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-wiki)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-wiki)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-wiki)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ml-fairness-framework)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ml-fairness-framework)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ml-fairness-framework)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ml-fairness-framework)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-wiki)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-wiki)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-wiki)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-wiki/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-wiki)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ml-fairness-framework)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ml-fairness-framework)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ml-fairness-framework)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ml-fairness-framework/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ml-fairness-framework)
 ```
 
-### 📚 [www.yixuju.cn](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-www.yixuju.cn)
+### 📚 [mtss-gan](https://github.com/firmai/traffic2badge/tree/traffic/traffic-mtss-gan)
 
-### 📷 Badge of www.yixuju.cn without link
+### 📷 Badge of mtss-gan without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/clones_per_week.svg)
 ```
 
-### 🔗 Badge of www.yixuju.cn with link
+### 🔗 Badge of mtss-gan with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-mtss-gan)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-mtss-gan)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-mtss-gan)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-mtss-gan)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-mtss-gan)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-mtss-gan)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-mtss-gan)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-mtss-gan/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-mtss-gan)
 ```
 
-### 📚 [yi-Xu-0100.github.io](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-yi-Xu-0100.github.io)
+### 📚 [numfin](https://github.com/firmai/traffic2badge/tree/traffic/traffic-numfin)
 
-### 📷 Badge of yi-Xu-0100.github.io without link
+### 📷 Badge of numfin without link
 
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/clones_per_week.svg)
 
 ```md
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/views.svg)
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/clones.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/clones_per_week.svg)
 ```
 
-### 🔗 Badge of yi-Xu-0100.github.io with link
+### 🔗 Badge of numfin with link
 
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-yi-Xu-0100.github.io)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-yi-Xu-0100.github.io)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-yi-Xu-0100.github.io)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-yi-Xu-0100.github.io)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfin)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfin)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfin)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfin)
 
 ```md
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-yi-Xu-0100.github.io)
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-yi-Xu-0100.github.io)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-yi-Xu-0100.github.io)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-yi-Xu-0100.github.io/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-yi-Xu-0100.github.io)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfin)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfin)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfin)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfin/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfin)
+```
+
+### 📚 [numfy](https://github.com/firmai/traffic2badge/tree/traffic/traffic-numfy)
+
+### 📷 Badge of numfy without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/clones_per_week.svg)
+```
+
+### 🔗 Badge of numfy with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfy)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfy)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfy)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-numfy/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-numfy)
+```
+
+### 📚 [oostindische](https://github.com/firmai/traffic2badge/tree/traffic/traffic-oostindische)
+
+### 📷 Badge of oostindische without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/clones_per_week.svg)
+```
+
+### 🔗 Badge of oostindische with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische)
+```
+
+### 📚 [oostindische-dev](https://github.com/firmai/traffic2badge/tree/traffic/traffic-oostindische-dev)
+
+### 📷 Badge of oostindische-dev without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/clones_per_week.svg)
+```
+
+### 🔗 Badge of oostindische-dev with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische-dev)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische-dev)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische-dev)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische-dev)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische-dev)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische-dev)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische-dev)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-oostindische-dev/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-oostindische-dev)
+```
+
+### 📚 [pandapy](https://github.com/firmai/traffic2badge/tree/traffic/traffic-pandapy)
+
+### 📷 Badge of pandapy without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/clones_per_week.svg)
+```
+
+### 🔗 Badge of pandapy with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandapy)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandapy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandapy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandapy)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandapy)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandapy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandapy)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandapy/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandapy)
+```
+
+### 📚 [pandasvault](https://github.com/firmai/traffic2badge/tree/traffic/traffic-pandasvault)
+
+### 📷 Badge of pandasvault without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/clones_per_week.svg)
+```
+
+### 🔗 Badge of pandasvault with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandasvault)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandasvault)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandasvault)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandasvault)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandasvault)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandasvault)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandasvault)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-pandasvault/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-pandasvault)
+```
+
+### 📚 [private](https://github.com/firmai/traffic2badge/tree/traffic/traffic-private)
+
+### 📷 Badge of private without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/clones_per_week.svg)
+```
+
+### 🔗 Badge of private with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-private)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-private)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-private)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-private)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-private)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-private)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-private)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-private/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-private)
+```
+
+### 📚 [python-business-analytics](https://github.com/firmai/traffic2badge/tree/traffic/traffic-python-business-analytics)
+
+### 📷 Badge of python-business-analytics without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/clones_per_week.svg)
+```
+
+### 🔗 Badge of python-business-analytics with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-business-analytics)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-business-analytics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-business-analytics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-business-analytics)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-business-analytics)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-business-analytics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-business-analytics)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-business-analytics/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-business-analytics)
+```
+
+### 📚 [python-for-finance](https://github.com/firmai/traffic2badge/tree/traffic/traffic-python-for-finance)
+
+### 📷 Badge of python-for-finance without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/clones_per_week.svg)
+```
+
+### 🔗 Badge of python-for-finance with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-for-finance)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-for-finance)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-for-finance)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-for-finance)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-for-finance)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-for-finance)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-for-finance)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-python-for-finance/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-python-for-finance)
+```
+
+### 📚 [random-assets](https://github.com/firmai/traffic2badge/tree/traffic/traffic-random-assets)
+
+### 📷 Badge of random-assets without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/clones_per_week.svg)
+```
+
+### 🔗 Badge of random-assets with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets)
+```
+
+### 📚 [random-assets-two](https://github.com/firmai/traffic2badge/tree/traffic/traffic-random-assets-two)
+
+### 📷 Badge of random-assets-two without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/clones_per_week.svg)
+```
+
+### 🔗 Badge of random-assets-two with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets-two)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets-two)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets-two)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets-two)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets-two)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets-two)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets-two)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-random-assets-two/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-random-assets-two)
+```
+
+### 📚 [reddit-data-science-project-ideas](https://github.com/firmai/traffic2badge/tree/traffic/traffic-reddit-data-science-project-ideas)
+
+### 📷 Badge of reddit-data-science-project-ideas without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/clones_per_week.svg)
+```
+
+### 🔗 Badge of reddit-data-science-project-ideas with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-reddit-data-science-project-ideas)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-reddit-data-science-project-ideas)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-reddit-data-science-project-ideas)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-reddit-data-science-project-ideas)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-reddit-data-science-project-ideas)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-reddit-data-science-project-ideas)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-reddit-data-science-project-ideas)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-reddit-data-science-project-ideas/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-reddit-data-science-project-ideas)
+```
+
+### 📚 [scrapers](https://github.com/firmai/traffic2badge/tree/traffic/traffic-scrapers)
+
+### 📷 Badge of scrapers without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/clones_per_week.svg)
+```
+
+### 🔗 Badge of scrapers with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-scrapers)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-scrapers)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-scrapers)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-scrapers)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-scrapers)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-scrapers)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-scrapers)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-scrapers/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-scrapers)
+```
+
+### 📚 [ShapEng](https://github.com/firmai/traffic2badge/tree/traffic/traffic-ShapEng)
+
+### 📷 Badge of ShapEng without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/clones_per_week.svg)
+```
+
+### 🔗 Badge of ShapEng with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ShapEng)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ShapEng)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ShapEng)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ShapEng)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ShapEng)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ShapEng)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ShapEng)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-ShapEng/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-ShapEng)
+```
+
+### 📚 [simple-machine-learning-glossary](https://github.com/firmai/traffic2badge/tree/traffic/traffic-simple-machine-learning-glossary)
+
+### 📷 Badge of simple-machine-learning-glossary without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/clones_per_week.svg)
+```
+
+### 🔗 Badge of simple-machine-learning-glossary with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-simple-machine-learning-glossary)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-simple-machine-learning-glossary)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-simple-machine-learning-glossary)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-simple-machine-learning-glossary)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-simple-machine-learning-glossary)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-simple-machine-learning-glossary)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-simple-machine-learning-glossary)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-simple-machine-learning-glossary/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-simple-machine-learning-glossary)
+```
+
+### 📚 [tabular-data-generators](https://github.com/firmai/traffic2badge/tree/traffic/traffic-tabular-data-generators)
+
+### 📷 Badge of tabular-data-generators without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/clones_per_week.svg)
+```
+
+### 🔗 Badge of tabular-data-generators with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tabular-data-generators)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tabular-data-generators)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tabular-data-generators)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tabular-data-generators)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tabular-data-generators)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tabular-data-generators)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tabular-data-generators)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tabular-data-generators/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tabular-data-generators)
+```
+
+### 📚 [taib](https://github.com/firmai/traffic2badge/tree/traffic/traffic-taib)
+
+### 📷 Badge of taib without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/clones_per_week.svg)
+```
+
+### 🔗 Badge of taib with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-taib)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-taib)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-taib)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-taib)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-taib)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-taib)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-taib)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-taib/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-taib)
+```
+
+### 📚 [techniques](https://github.com/firmai/traffic2badge/tree/traffic/traffic-techniques)
+
+### 📷 Badge of techniques without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/clones_per_week.svg)
+```
+
+### 🔗 Badge of techniques with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-techniques)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-techniques)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-techniques)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-techniques)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-techniques)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-techniques)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-techniques)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-techniques/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-techniques)
+```
+
+### 📚 [tflm](https://github.com/firmai/traffic2badge/tree/traffic/traffic-tflm)
+
+### 📷 Badge of tflm without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/clones_per_week.svg)
+```
+
+### 🔗 Badge of tflm with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tflm)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tflm)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tflm)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tflm)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tflm)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tflm)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tflm)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tflm/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tflm)
+```
+
+### 📚 [the-parlour](https://github.com/firmai/traffic2badge/tree/traffic/traffic-the-parlour)
+
+### 📷 Badge of the-parlour without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/clones_per_week.svg)
+```
+
+### 🔗 Badge of the-parlour with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-the-parlour)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-the-parlour)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-the-parlour)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-the-parlour)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-the-parlour)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-the-parlour)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-the-parlour)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-the-parlour/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-the-parlour)
+```
+
+### 📚 [tsgan](https://github.com/firmai/traffic2badge/tree/traffic/traffic-tsgan)
+
+### 📷 Badge of tsgan without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/clones_per_week.svg)
+```
+
+### 🔗 Badge of tsgan with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tsgan)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tsgan)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tsgan)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tsgan)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tsgan)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tsgan)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tsgan)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-tsgan/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-tsgan)
+```
+
+### 📚 [vault](https://github.com/firmai/traffic2badge/tree/traffic/traffic-vault)
+
+### 📷 Badge of vault without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/clones_per_week.svg)
+```
+
+### 🔗 Badge of vault with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-vault)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-vault)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-vault)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-vault)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-vault)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-vault)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-vault)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-vault/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-vault)
+```
+
+### 📚 [xaib](https://github.com/firmai/traffic2badge/tree/traffic/traffic-xaib)
+
+### 📷 Badge of xaib without link
+
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/views.svg)
+![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/clones.svg)
+![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/clones_per_week.svg)
+```
+
+### 🔗 Badge of xaib with link
+
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-xaib)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-xaib)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-xaib)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-xaib)
+
+```md
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/views.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-xaib)
+[![views](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/views_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-xaib)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/clones.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-xaib)
+[![clones](https://raw.githubusercontent.com/firmai/traffic2badge/traffic/traffic-xaib/clones_per_week.svg)](https://github.com/firmai/traffic2badge/tree/traffic#-xaib)
 ```

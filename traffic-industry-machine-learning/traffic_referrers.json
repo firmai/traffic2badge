@@ -1,0 +1,52 @@
+[
+  {
+    "referrer": "Google",
+    "count": 223,
+    "uniques": 142
+  },
+  {
+    "referrer": "linkedin.com",
+    "count": 176,
+    "uniques": 121
+  },
+  {
+    "referrer": "github.com",
+    "count": 80,
+    "uniques": 49
+  },
+  {
+    "referrer": "firmai.org",
+    "count": 61,
+    "uniques": 28
+  },
+  {
+    "referrer": "lnkd.in",
+    "count": 43,
+    "uniques": 19
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 34,
+    "uniques": 25
+  },
+  {
+    "referrer": "t.co",
+    "count": 17,
+    "uniques": 10
+  },
+  {
+    "referrer": "kaggle.com",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "campsite.bio",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "amp.reddit.com",
+    "count": 2,
+    "uniques": 2
+  }
+]
