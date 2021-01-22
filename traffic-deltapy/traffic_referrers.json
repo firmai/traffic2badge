@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 38,
-    "uniques": 25
+    "count": 33,
+    "uniques": 21
   },
   {
     "referrer": "github.com",
-    "count": 29,
-    "uniques": 19
+    "count": 28,
+    "uniques": 18
   },
   {
     "referrer": "t.co",
@@ -20,7 +20,7 @@
     "uniques": 1
   },
   {
-    "referrer": "kaggle.com",
+    "referrer": "colab.research.google.com",
     "count": 1,
     "uniques": 1
   },
@@ -30,12 +30,7 @@
     "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "colab.research.google.com",
+    "referrer": "kaggle.com",
     "count": 1,
     "uniques": 1
   }

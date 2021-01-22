@@ -2,20 +2,20 @@
   {
     "path": "/firmai/financial-machine-learning",
     "title": "GitHub - firmai/financial-machine-learning: A curated list of practical finan...",
-    "count": 1611,
-    "uniques": 821
+    "count": 1468,
+    "uniques": 770
   },
   {
     "path": "/firmai/financial-machine-learning/blob/master/README.md",
     "title": "financial-machine-learning/README.md at master · firmai/financial-machine-lea...",
-    "count": 83,
-    "uniques": 49
+    "count": 79,
+    "uniques": 45
   },
   {
     "path": "/firmai/financial-machine-learning/pulls",
     "title": "Pull requests · firmai/financial-machine-learning · GitHub",
-    "count": 11,
-    "uniques": 8
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/firmai/financial-machine-learning/issues",
@@ -24,15 +24,15 @@
     "uniques": 5
   },
   {
-    "path": "/firmai/financial-machine-learning/commit/2e1edb59ad9370ed7b631bc4e6ae081013c90e5a",
-    "title": "Update README.md · firmai/financial-machine-learning@2e1edb5 · GitHub",
-    "count": 6,
-    "uniques": 6
-  },
-  {
     "path": "/firmai/financial-machine-learning/commits",
     "title": "Commits · firmai/financial-machine-learning · GitHub",
     "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/firmai/financial-machine-learning/commit/2e1edb59ad9370ed7b631bc4e6ae081013c90e5a",
+    "title": "Update README.md · firmai/financial-machine-learning@2e1edb5 · GitHub",
+    "count": 5,
     "uniques": 5
   },
   {
