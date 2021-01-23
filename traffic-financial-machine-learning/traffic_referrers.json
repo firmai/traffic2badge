@@ -1,41 +1,36 @@
 [
   {
     "referrer": "Google",
-    "count": 705,
-    "uniques": 416
+    "count": 708,
+    "uniques": 430
   },
   {
     "referrer": "github.com",
-    "count": 202,
-    "uniques": 90
+    "count": 201,
+    "uniques": 93
   },
   {
     "referrer": "kaggle.com",
-    "count": 110,
-    "uniques": 67
+    "count": 103,
+    "uniques": 65
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 11,
-    "uniques": 7
-  },
-  {
-    "referrer": "m.facebook.com",
-    "count": 8,
-    "uniques": 2
+    "count": 13,
+    "uniques": 9
   },
   {
     "referrer": "firmai.org",
     "count": 7,
-    "uniques": 6
-  },
-  {
-    "referrer": "Bing",
-    "count": 6,
-    "uniques": 3
+    "uniques": 5
   },
   {
     "referrer": "cn.bing.com",
+    "count": 7,
+    "uniques": 4
+  },
+  {
+    "referrer": "Bing",
     "count": 6,
     "uniques": 3
   },
@@ -48,5 +43,10 @@
     "referrer": "getpocket.com",
     "count": 4,
     "uniques": 4
+  },
+  {
+    "referrer": "com.google.android.gm",
+    "count": 4,
+    "uniques": 1
   }
 ]

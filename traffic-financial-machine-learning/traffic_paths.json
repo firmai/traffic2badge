@@ -2,19 +2,25 @@
   {
     "path": "/firmai/financial-machine-learning",
     "title": "GitHub - firmai/financial-machine-learning: A curated list of practical finan...",
-    "count": 1468,
-    "uniques": 770
+    "count": 1469,
+    "uniques": 781
   },
   {
     "path": "/firmai/financial-machine-learning/blob/master/README.md",
     "title": "financial-machine-learning/README.md at master · firmai/financial-machine-lea...",
-    "count": 79,
+    "count": 80,
     "uniques": 45
   },
   {
     "path": "/firmai/financial-machine-learning/pulls",
     "title": "Pull requests · firmai/financial-machine-learning · GitHub",
-    "count": 9,
+    "count": 11,
+    "uniques": 8
+  },
+  {
+    "path": "/firmai/financial-machine-learning/commits",
+    "title": "Commits · firmai/financial-machine-learning · GitHub",
+    "count": 8,
     "uniques": 6
   },
   {
@@ -24,14 +30,14 @@
     "uniques": 5
   },
   {
-    "path": "/firmai/financial-machine-learning/commits",
-    "title": "Commits · firmai/financial-machine-learning · GitHub",
-    "count": 6,
+    "path": "/firmai/financial-machine-learning/commit/2e1edb59ad9370ed7b631bc4e6ae081013c90e5a",
+    "title": "Update README.md · firmai/financial-machine-learning@2e1edb5 · GitHub",
+    "count": 5,
     "uniques": 5
   },
   {
-    "path": "/firmai/financial-machine-learning/commit/2e1edb59ad9370ed7b631bc4e6ae081013c90e5a",
-    "title": "Update README.md · firmai/financial-machine-learning@2e1edb5 · GitHub",
+    "path": "/firmai/financial-machine-learning/pull/2",
+    "title": "Update README.md by AJV009 · Pull Request #2 · firmai/financial-machine-learn...",
     "count": 5,
     "uniques": 5
   },
@@ -51,12 +57,6 @@
     "path": "/firmai/financial-machine-learning/graphs/commit-activity",
     "title": "Commit Activity · firmai/financial-machine-learning · GitHub",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/financial-machine-learning/pulse",
-    "title": "Pulse · firmai/financial-machine-learning · GitHub",
-    "count": 2,
     "uniques": 2
   }
 ]

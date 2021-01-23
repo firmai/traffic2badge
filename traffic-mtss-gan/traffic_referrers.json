@@ -1,18 +1,18 @@
 [
   {
+    "referrer": "github.com",
+    "count": 29,
+    "uniques": 23
+  },
+  {
     "referrer": "Google",
     "count": 27,
     "uniques": 22
   },
   {
-    "referrer": "github.com",
-    "count": 27,
-    "uniques": 22
-  },
-  {
     "referrer": "colab.research.google.com",
-    "count": 7,
-    "uniques": 5
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "reddit.com",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "linkedin.com",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "lnkd.in",

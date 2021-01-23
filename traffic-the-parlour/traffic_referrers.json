@@ -1,17 +1,12 @@
 [
   {
     "referrer": "theparlour.substack.com",
-    "count": 231,
-    "uniques": 206
+    "count": 169,
+    "uniques": 149
   },
   {
     "referrer": "github.com",
-    "count": 30,
-    "uniques": 22
-  },
-  {
-    "referrer": "Google",
-    "count": 1,
-    "uniques": 1
+    "count": 24,
+    "uniques": 19
   }
 ]

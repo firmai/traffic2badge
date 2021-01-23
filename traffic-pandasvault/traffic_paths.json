@@ -2,8 +2,8 @@
   {
     "path": "/firmai/pandasvault",
     "title": "GitHub - firmai/pandasvault: Advanced Pandas Vault — Utilities, Functions and...",
-    "count": 149,
-    "uniques": 101
+    "count": 155,
+    "uniques": 103
   },
   {
     "path": "/firmai/pandasvault/tree/master/pandasvault",
@@ -24,14 +24,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/pandasvault/blob/master/pandasvault.md",
-    "title": "pandasvault/pandasvault.md at master · firmai/pandasvault · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/pandasvault/blob/master/README.md",
     "title": "pandasvault/README.md at master · firmai/pandasvault · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/pandasvault/blob/master/pandasvault.md",
+    "title": "pandasvault/pandasvault.md at master · firmai/pandasvault · GitHub",
     "count": 2,
     "uniques": 2
   },

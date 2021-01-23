@@ -2,8 +2,8 @@
   {
     "path": "/firmai/deltapy",
     "title": "GitHub - firmai/deltapy: DeltaPy - Tabular Data Augmentation (by @firmai)",
-    "count": 88,
-    "uniques": 49
+    "count": 97,
+    "uniques": 52
   },
   {
     "path": "/firmai/deltapy/tree/master/deltapy",
@@ -12,14 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
-    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/firmai/deltapy/issues",
     "title": "Issues · firmai/deltapy",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
+    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
     "count": 4,
     "uniques": 3
   },
