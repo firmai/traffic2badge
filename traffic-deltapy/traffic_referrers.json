@@ -2,7 +2,7 @@
   {
     "referrer": "Google",
     "count": 36,
-    "uniques": 23
+    "uniques": 24
   },
   {
     "referrer": "github.com",
@@ -11,7 +11,7 @@
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 4,
+    "count": 6,
     "uniques": 2
   },
   {
@@ -20,13 +20,13 @@
     "uniques": 2
   },
   {
-    "referrer": "Bing",
+    "referrer": "sktime.org",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "sktime.org",
-    "count": 1,
+    "referrer": "Bing",
+    "count": 2,
     "uniques": 1
   },
   {

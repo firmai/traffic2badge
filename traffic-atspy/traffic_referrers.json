@@ -1,17 +1,17 @@
 [
   {
     "referrer": "Google",
-    "count": 139,
-    "uniques": 106
+    "count": 149,
+    "uniques": 116
   },
   {
     "referrer": "github.com",
-    "count": 65,
-    "uniques": 57
+    "count": 67,
+    "uniques": 58
   },
   {
     "referrer": "pypi.org",
-    "count": 14,
+    "count": 15,
     "uniques": 8
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "linkedin.com",
-    "count": 1,
+    "referrer": "away.vk.com",
+    "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "fullstackfeed.com",
+    "referrer": "linkedin.com",
     "count": 1,
     "uniques": 1
   }

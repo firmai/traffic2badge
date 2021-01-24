@@ -2,14 +2,8 @@
   {
     "path": "/firmai/pandapy",
     "title": "GitHub - firmai/pandapy: PandaPy has the speed of NumPy and the usability of ...",
-    "count": 156,
-    "uniques": 119
-  },
-  {
-    "path": "/firmai/pandapy/tree/master/PandaPy_files",
-    "title": "pandapy/PandaPy_files at master · firmai/pandapy · GitHub",
-    "count": 17,
-    "uniques": 16
+    "count": 141,
+    "uniques": 110
   },
   {
     "path": "/firmai/pandapy/tree/master/pandapy",
@@ -18,10 +12,16 @@
     "uniques": 13
   },
   {
+    "path": "/firmai/pandapy/tree/master/PandaPy_files",
+    "title": "pandapy/PandaPy_files at master · firmai/pandapy · GitHub",
+    "count": 15,
+    "uniques": 15
+  },
+  {
     "path": "/firmai/pandapy/issues",
     "title": "Issues · firmai/pandapy · GitHub",
-    "count": 13,
-    "uniques": 8
+    "count": 11,
+    "uniques": 7
   },
   {
     "path": "/firmai/pandapy/blob/master/pandapy/__init__.py",
@@ -32,31 +32,31 @@
   {
     "path": "/firmai/pandapy/blob/master/PandaPy_files/PandaPy_46_0.png",
     "title": "pandapy/PandaPy_46_0.png at master · firmai/pandapy · GitHub",
-    "count": 6,
-    "uniques": 6
-  },
-  {
-    "path": "/firmai/pandapy/issues/2",
-    "title": "Question: Why faster until 50k to 500k rows? · Issue #2 · firmai/pandapy",
     "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/firmai/pandapy/commit/4d31bc301b5f78dcf2238afff4bfb8b71c27ea0f",
-    "title": "Exceptions · firmai/pandapy@4d31bc3 · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/pandapy/commit/867842d3f86a180d821f2c5d1c42d3853d2853bb",
-    "title": "Add files via upload · firmai/pandapy@867842d · GitHub",
-    "count": 4,
-    "uniques": 3
+    "uniques": 5
   },
   {
     "path": "/firmai/pandapy/find/master",
     "title": "File Finder · GitHub",
     "count": 4,
     "uniques": 3
+  },
+  {
+    "path": "/firmai/pandapy/issues/2",
+    "title": "Question: Why faster until 50k to 500k rows? · Issue #2 · firmai/pandapy",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/pandapy/commit/4d31bc301b5f78dcf2238afff4bfb8b71c27ea0f",
+    "title": "Exceptions · firmai/pandapy@4d31bc3 · GitHub",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/pandapy/blob/master/README.md",
+    "title": "pandapy/README.md at master · firmai/pandapy · GitHub",
+    "count": 2,
+    "uniques": 2
   }
 ]
