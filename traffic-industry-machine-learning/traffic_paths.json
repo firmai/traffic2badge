@@ -2,32 +2,32 @@
   {
     "path": "/firmai/industry-machine-learning",
     "title": "GitHub - firmai/industry-machine-learning: A curated list of applied machine ...",
-    "count": 1360,
-    "uniques": 735
+    "count": 1328,
+    "uniques": 729
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/README.md",
     "title": "industry-machine-learning/README.md at master · firmai/industry-machine-learn...",
-    "count": 29,
+    "count": 42,
     "uniques": 14
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/assets",
     "title": "industry-machine-learning/assets at master · firmai/industry-machine-learning...",
-    "count": 24,
-    "uniques": 19
+    "count": 25,
+    "uniques": 20
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/.github",
     "title": "industry-machine-learning/.github at master · firmai/industry-machine-learning",
-    "count": 7,
-    "uniques": 7
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/empty.ipynb",
     "title": "industry-machine-learning/empty.ipynb at master · firmai/industry-machine-lea...",
-    "count": 7,
-    "uniques": 4
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/firmai/industry-machine-learning/network/members",
@@ -38,6 +38,12 @@
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/first.txt",
     "title": "industry-machine-learning/first.txt at master · firmai/industry-machine-learn...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
+    "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
     "count": 2,
     "uniques": 2
   },
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/industry-machine-learning/blame/master/README.md",
     "title": "industry-machine-learning/README.md at master · firmai/industry-machine-learn...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
-    "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
     "count": 1,
     "uniques": 1
   }

@@ -1,13 +1,8 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 57,
-    "uniques": 46
-  },
-  {
-    "referrer": "Google",
-    "count": 12,
-    "uniques": 8
+    "count": 22,
+    "uniques": 20
   },
   {
     "referrer": "github.com",
@@ -15,19 +10,9 @@
     "uniques": 8
   },
   {
-    "referrer": "hn.algolia.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "t.co",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "lib4dev.in",
-    "count": 1,
-    "uniques": 1
+    "referrer": "Google",
+    "count": 10,
+    "uniques": 6
   },
   {
     "referrer": "awesomeopensource.com",
@@ -35,7 +20,12 @@
     "uniques": 1
   },
   {
-    "referrer": "lnkd.in",
+    "referrer": "hn.algolia.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "lib4dev.in",
     "count": 1,
     "uniques": 1
   }

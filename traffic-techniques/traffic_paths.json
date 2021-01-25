@@ -2,14 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 7,
+    "count": 8,
     "uniques": 6
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference",
-    "title": "techniques/Causal Inference at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · fir...",
-    "count": 6,
-    "uniques": 2
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
@@ -18,45 +12,51 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/py-causal-development",
-    "title": "techniques/Causal Inference/Experiments/py-causal-development at 0b15fd6f4240...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/py-causal-development/example",
-    "title": "techniques/Causal Inference/Experiments/py-causal-development/example at 0b15...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/py-causal-development/example/py-causal%20-%20RFCI%20Continuous%20in%20Action.ipynb",
-    "title": "techniques/py-causal - RFCI Continuous in Action.ipynb at 0b15fd6f424074e369c...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/py-causal-development/example/py-causal%20-%20RFCI%20Mixed%20in%20Action.ipynb",
-    "title": "techniques/py-causal - RFCI Mixed in Action.ipynb at 0b15fd6f424074e369c03e0e...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/causal-inference-tutorial-master",
-    "title": "techniques/Causal Inference/causal-inference-tutorial-master at 0b15fd6f42407...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master",
-    "title": "techniques/Causal Inference/Udacity-Project---AB-testing-master at 0b15fd6f42...",
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference",
+    "title": "techniques/Causal Inference at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · fir...",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/causal-inference-tutorial-master/causal_inference_extended_tutorial.pptx",
-    "title": "techniques/causal_inference_extended_tutorial.pptx at 0b15fd6f424074e369c03e0...",
+    "path": "/firmai/techniques/tree/master/Sales",
+    "title": "techniques/Sales at master · firmai/techniques · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/master/Sales/grocery%20-%20simulated%20shit",
+    "title": "techniques/Sales/grocery - simulated shit at master · firmai/techniques · Git...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/master/Sales/Other",
+    "title": "techniques/Sales/Other at master · firmai/techniques · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/CausalDiscoveryToolbox-master/cdt/causality/pairwise/GNN.py",
+    "title": "techniques/GNN.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/techni...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/new%20inference/CausalDiscoveryToolbox-master/cdt/causality/graph/PC.py",
+    "title": "techniques/PC.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/techniq...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/master/Customer/Customer%20Survey.ipynb",
+    "title": "techniques/Customer Survey.ipynb at master · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/master/Decision%20Optimisation/Post%20Office.ipynb",
+    "title": "techniques/Post Office.ipynb at master · firmai/techniques",
+    "count": 1,
     "uniques": 1
   }
 ]

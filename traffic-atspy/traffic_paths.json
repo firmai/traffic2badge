@@ -2,61 +2,61 @@
   {
     "path": "/firmai/atspy",
     "title": "GitHub - firmai/atspy: AtsPy: Automated Time Series Models in Python (by @fir...",
-    "count": 225,
-    "uniques": 144
+    "count": 199,
+    "uniques": 134
   },
   {
     "path": "/firmai/atspy/issues/12",
     "title": "\"ERROR: Could not find a version that satisfies the requirement dataclasses==...",
-    "count": 85,
-    "uniques": 73
+    "count": 86,
+    "uniques": 74
   },
   {
     "path": "/firmai/atspy/tree/master/atspy",
     "title": "atspy/atspy at master · firmai/atspy · GitHub",
-    "count": 34,
-    "uniques": 17
+    "count": 25,
+    "uniques": 15
   },
   {
     "path": "/firmai/atspy/tree/master/atspy/TS",
     "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
-    "count": 28,
-    "uniques": 11
+    "count": 21,
+    "uniques": 9
   },
   {
     "path": "/firmai/atspy/issues",
     "title": "Issues · firmai/atspy · GitHub",
-    "count": 20,
-    "uniques": 9
-  },
-  {
-    "path": "/firmai/atspy/tree/master/atspy_files",
-    "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
-    "count": 10,
-    "uniques": 10
+    "count": 13,
+    "uniques": 7
   },
   {
     "path": "/firmai/atspy/issues/7",
     "title": "Installation issue · Issue #7 · firmai/atspy · GitHub",
-    "count": 10,
-    "uniques": 7
-  },
-  {
-    "path": "/firmai/atspy/blob/master/atspy/ssa.py",
-    "title": "atspy/ssa.py at master · firmai/atspy · GitHub",
-    "count": 7,
-    "uniques": 5
-  },
-  {
-    "path": "/firmai/atspy/blob/master/atspy/pyaf.py",
-    "title": "atspy/pyaf.py at master · firmai/atspy · GitHub",
-    "count": 6,
+    "count": 9,
     "uniques": 6
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy_files",
+    "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/firmai/atspy/blob/master/atspy/TS/TimeSeriesModel.py",
     "title": "atspy/TimeSeriesModel.py at master · firmai/atspy · GitHub",
     "count": 6,
     "uniques": 5
+  },
+  {
+    "path": "/firmai/atspy/search",
+    "title": "Search · tensor",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/firmai/atspy/issues/23",
+    "title": "Installation ERROR: Could not find a version that satisfies the requirement t...",
+    "count": 5,
+    "uniques": 3
   }
 ]

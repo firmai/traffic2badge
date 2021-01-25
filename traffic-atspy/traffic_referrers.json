@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 149,
-    "uniques": 116
+    "count": 144,
+    "uniques": 111
   },
   {
     "referrer": "github.com",
-    "count": 67,
-    "uniques": 58
+    "count": 58,
+    "uniques": 52
   },
   {
     "referrer": "pypi.org",
-    "count": 15,
+    "count": 10,
     "uniques": 8
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 5,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "t.co",
@@ -25,14 +25,9 @@
     "uniques": 3
   },
   {
-    "referrer": "reddit.com",
-    "count": 3,
+    "referrer": "away.vk.com",
+    "count": 4,
     "uniques": 3
-  },
-  {
-    "referrer": "Baidu",
-    "count": 3,
-    "uniques": 1
   },
   {
     "referrer": "Bing",
@@ -40,12 +35,17 @@
     "uniques": 2
   },
   {
-    "referrer": "away.vk.com",
+    "referrer": "reddit.com",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "referrer": "linkedin.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "fullstackfeed.com",
     "count": 1,
     "uniques": 1
   }
