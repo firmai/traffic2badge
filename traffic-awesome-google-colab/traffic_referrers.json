@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 175,
-    "uniques": 118
+    "count": 179,
+    "uniques": 121
   },
   {
     "referrer": "github.com",
-    "count": 77,
-    "uniques": 54
+    "count": 84,
+    "uniques": 60
   },
   {
     "referrer": "analyticsindiamag.com",
@@ -15,29 +15,14 @@
     "uniques": 2
   },
   {
-    "referrer": "1point3acres.com",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "referrer": "blog.etereo.io",
+    "referrer": "medium.com",
     "count": 4,
     "uniques": 4
   },
   {
-    "referrer": "medium.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "link.zhihu.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "l.facebook.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "1point3acres.com",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "Baidu",
@@ -45,7 +30,22 @@
     "uniques": 2
   },
   {
-    "referrer": "reddit.com",
+    "referrer": "blog.etereo.io",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "link.zhihu.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "awesomeopensource.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "l.facebook.com",
     "count": 1,
     "uniques": 1
   }

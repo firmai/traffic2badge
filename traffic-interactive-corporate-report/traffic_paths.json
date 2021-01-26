@@ -2,14 +2,8 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 99,
-    "uniques": 50
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/data",
-    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
-    "count": 6,
-    "uniques": 4
+    "count": 92,
+    "uniques": 47
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/functionality",
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/interactive-corporate-report/pulls",
     "title": "Pull requests · firmai/interactive-corporate-report · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/data",
+    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
     "count": 2,
     "uniques": 2
   }
