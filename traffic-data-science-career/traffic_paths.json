@@ -2,13 +2,19 @@
   {
     "path": "/firmai/data-science-career",
     "title": "GitHub - firmai/data-science-career: Career Resources for Data Science, Machi...",
-    "count": 87,
-    "uniques": 59
+    "count": 93,
+    "uniques": 62
   },
   {
     "path": "/firmai/data-science-career/blob/master/README.md",
     "title": "data-science-career/README.md at master · firmai/data-science-career · GitHub",
     "count": 12,
     "uniques": 6
+  },
+  {
+    "path": "/firmai/data-science-career/commits",
+    "title": "Commits · firmai/data-science-career · GitHub",
+    "count": 6,
+    "uniques": 1
   }
 ]

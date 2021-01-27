@@ -11,18 +11,13 @@
   },
   {
     "referrer": "firmai.org",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "theparlour.substack.com",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "referrer": "community.plotly.com",
-    "count": 2,
-    "uniques": 2
   },
   {
     "referrer": "getpocket.com",
@@ -31,6 +26,11 @@
   },
   {
     "referrer": "reddit.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "community.plotly.com",
     "count": 1,
     "uniques": 1
   }

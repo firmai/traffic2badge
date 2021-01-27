@@ -2,8 +2,8 @@
   {
     "path": "/firmai/industry-machine-learning",
     "title": "GitHub - firmai/industry-machine-learning: A curated list of applied machine ...",
-    "count": 1297,
-    "uniques": 715
+    "count": 1315,
+    "uniques": 727
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/README.md",
@@ -14,20 +14,20 @@
   {
     "path": "/firmai/industry-machine-learning/tree/master/assets",
     "title": "industry-machine-learning/assets at master · firmai/industry-machine-learning...",
-    "count": 25,
+    "count": 23,
     "uniques": 20
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/.github",
     "title": "industry-machine-learning/.github at master · firmai/industry-machine-learning",
-    "count": 10,
-    "uniques": 10
+    "count": 12,
+    "uniques": 12
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/empty.ipynb",
     "title": "industry-machine-learning/empty.ipynb at master · firmai/industry-machine-lea...",
-    "count": 7,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/firmai/industry-machine-learning/network/members",
@@ -42,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
-    "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/industry-machine-learning/actions",
     "title": "GitHub - firmai/industry-machine-learning: A curated list of applied machine ...",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/industry-machine-learning/blame/master/README.md",
     "title": "industry-machine-learning/README.md at master · firmai/industry-machine-learn...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
+    "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
     "count": 1,
     "uniques": 1
   }

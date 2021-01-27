@@ -2,7 +2,7 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 8,
+    "count": 11,
     "uniques": 6
   },
   {
@@ -14,7 +14,7 @@
   {
     "path": "/firmai/techniques/tree/master/Sales",
     "title": "techniques/Sales at master · firmai/techniques · GitHub",
-    "count": 3,
+    "count": 2,
     "uniques": 2
   },
   {
@@ -24,14 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/tree/master/Sales/grocery%20-%20simulated%20shit",
-    "title": "techniques/Sales/grocery - simulated shit at master · firmai/techniques · Git...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/master/Sales/Other",
-    "title": "techniques/Sales/Other at master · firmai/techniques · GitHub",
+    "path": "/firmai/techniques/tree/master/Accounting%20Analyses",
+    "title": "techniques/Accounting Analyses at master · firmai/techniques",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/techniques/blob/master/Decision%20Optimisation/Post%20Office.ipynb",
     "title": "techniques/Post Office.ipynb at master · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
+    "title": "GitHub - firmai/techniques at 0b15fd6f424074e369c03e0e6015c80dbf6f708e",
     "count": 1,
     "uniques": 1
   }

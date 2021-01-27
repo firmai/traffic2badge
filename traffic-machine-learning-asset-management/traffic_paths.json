@@ -2,8 +2,8 @@
   {
     "path": "/firmai/machine-learning-asset-management",
     "title": "GitHub - firmai/machine-learning-asset-management: Machine Learning in Asset ...",
-    "count": 579,
-    "uniques": 299
+    "count": 582,
+    "uniques": 296
   },
   {
     "path": "/firmai/machine-learning-asset-management/tree/master/assets",
@@ -14,14 +14,14 @@
   {
     "path": "/firmai/machine-learning-asset-management/blob/master/README.md",
     "title": "machine-learning-asset-management/README.md at master · firmai/machine-learni...",
-    "count": 36,
-    "uniques": 14
+    "count": 34,
+    "uniques": 13
   },
   {
     "path": "/firmai/machine-learning-asset-management/blob/master/assets/empty.ipynb",
     "title": "machine-learning-asset-management/empty.ipynb at master · firmai/machine-lear...",
-    "count": 19,
-    "uniques": 16
+    "count": 20,
+    "uniques": 17
   },
   {
     "path": "/firmai/machine-learning-asset-management/blob/master/assets/empty.txt",
@@ -32,14 +32,8 @@
   {
     "path": "/firmai/machine-learning-asset-management/issues",
     "title": "Issues · firmai/machine-learning-asset-management · GitHub",
-    "count": 6,
-    "uniques": 4
-  },
-  {
-    "path": "/firmai/machine-learning-asset-management/issues/6",
-    "title": "Paper · Issue #6 · firmai/machine-learning-asset-management · GitHub",
     "count": 4,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/firmai/machine-learning-asset-management/commits",
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/machine-learning-asset-management/find/master",
     "title": "File Finder · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/machine-learning-asset-management/pulls",
+    "title": "Pull requests · firmai/machine-learning-asset-management · GitHub",
     "count": 2,
     "uniques": 2
   }

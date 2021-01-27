@@ -1,28 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 134,
-    "uniques": 103
+    "count": 148,
+    "uniques": 112
   },
   {
     "referrer": "github.com",
-    "count": 54,
-    "uniques": 48
+    "count": 57,
+    "uniques": 52
   },
   {
     "referrer": "pypi.org",
-    "count": 7,
-    "uniques": 7
+    "count": 6,
+    "uniques": 6
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "referrer": "t.co",
-    "count": 4,
-    "uniques": 3
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "away.vk.com",
@@ -36,6 +31,11 @@
   },
   {
     "referrer": "reddit.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "t.co",
     "count": 2,
     "uniques": 2
   },
