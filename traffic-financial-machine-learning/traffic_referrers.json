@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 810,
-    "uniques": 481
+    "count": 836,
+    "uniques": 503
   },
   {
     "referrer": "github.com",
     "count": 170,
-    "uniques": 92
+    "uniques": 91
   },
   {
     "referrer": "kaggle.com",
-    "count": 93,
-    "uniques": 62
+    "count": 87,
+    "uniques": 56
   },
   {
     "referrer": "firmai.org",
@@ -21,13 +21,13 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 8,
-    "uniques": 7
+    "count": 7,
+    "uniques": 6
   },
   {
     "referrer": "getpocket.com",
-    "count": 6,
-    "uniques": 5
+    "count": 7,
+    "uniques": 6
   },
   {
     "referrer": "cn.bing.com",
@@ -40,13 +40,13 @@
     "uniques": 3
   },
   {
-    "referrer": "Bing",
-    "count": 5,
-    "uniques": 3
-  },
-  {
     "referrer": "mail.google.com",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "referrer": "Bing",
+    "count": 3,
+    "uniques": 3
   }
 ]

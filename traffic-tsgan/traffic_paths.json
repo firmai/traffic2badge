@@ -2,19 +2,19 @@
   {
     "path": "/firmai/tsgan",
     "title": "GitHub - firmai/tsgan: Time-series Generative Adversarial Networks (fork from...",
-    "count": 99,
-    "uniques": 51
-  },
-  {
-    "path": "/firmai/tsgan/tree/master/alg",
-    "title": "tsgan/alg at master · firmai/tsgan · GitHub",
-    "count": 27,
-    "uniques": 19
+    "count": 102,
+    "uniques": 54
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/timegan",
     "title": "tsgan/alg/timegan at master · firmai/tsgan · GitHub",
     "count": 27,
+    "uniques": 18
+  },
+  {
+    "path": "/firmai/tsgan/tree/master/alg",
+    "title": "tsgan/alg at master · firmai/tsgan · GitHub",
+    "count": 26,
     "uniques": 18
   },
   {
@@ -26,14 +26,8 @@
   {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tgan.py",
     "title": "tsgan/tgan.py at master · firmai/tsgan · GitHub",
-    "count": 12,
-    "uniques": 11
-  },
-  {
-    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
-    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan · GitHub",
-    "count": 8,
-    "uniques": 4
+    "count": 11,
+    "uniques": 10
   },
   {
     "path": "/firmai/tsgan/tree/master/data",
@@ -52,6 +46,12 @@
     "title": "tsgan/alg/timegan/data at master · firmai/tsgan · GitHub",
     "count": 7,
     "uniques": 6
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
+    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan · GitHub",
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/knockoffgan/README.md",

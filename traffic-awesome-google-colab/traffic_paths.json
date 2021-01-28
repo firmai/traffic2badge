@@ -2,20 +2,14 @@
   {
     "path": "/firmai/awesome-google-colab",
     "title": "GitHub - firmai/awesome-google-colab: Google Colaboratory Notebooks and Repos...",
-    "count": 351,
-    "uniques": 221
+    "count": 361,
+    "uniques": 230
   },
   {
     "path": "/firmai/awesome-google-colab/tree/master/assets",
     "title": "awesome-google-colab/assets at master · firmai/awesome-google-colab · GitHub",
-    "count": 21,
-    "uniques": 19
-  },
-  {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/empty.ipynb",
-    "title": "awesome-google-colab/empty.ipynb at master · firmai/awesome-google-colab · Gi...",
-    "count": 5,
-    "uniques": 5
+    "count": 18,
+    "uniques": 17
   },
   {
     "path": "/firmai/awesome-google-colab/blob/master/assets/colab.png",
@@ -24,8 +18,8 @@
     "uniques": 4
   },
   {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/empty.txt",
-    "title": "awesome-google-colab/empty.txt at master · firmai/awesome-google-colab · GitHub",
+    "path": "/firmai/awesome-google-colab/blob/master/assets/empty.ipynb",
+    "title": "awesome-google-colab/empty.ipynb at master · firmai/awesome-google-colab · Gi...",
     "count": 3,
     "uniques": 3
   },
@@ -34,6 +28,12 @@
     "title": "Search · financial markets · GitHub",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/firmai/awesome-google-colab/blob/master/assets/empty.txt",
+    "title": "awesome-google-colab/empty.txt at master · firmai/awesome-google-colab · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/firmai/awesome-google-colab/blob/master/README.md",
