@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 36,
-    "uniques": 28
+    "count": 38,
+    "uniques": 30
   },
   {
     "referrer": "github.com",
@@ -15,6 +15,11 @@
     "uniques": 1
   },
   {
+    "referrer": "amitness.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "referrer": "t.co",
     "count": 2,
     "uniques": 2
@@ -25,17 +30,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Bing",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "amitness.com",
+    "referrer": "fullstackfeed.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "fullstackfeed.com",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   },

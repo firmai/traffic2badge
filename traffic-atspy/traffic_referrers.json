@@ -1,18 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 149,
-    "uniques": 115
+    "count": 164,
+    "uniques": 124
   },
   {
     "referrer": "github.com",
-    "count": 54,
-    "uniques": 48
-  },
-  {
-    "referrer": "pypi.org",
-    "count": 5,
-    "uniques": 5
+    "count": 51,
+    "uniques": 44
   },
   {
     "referrer": "colab.research.google.com",
@@ -20,32 +15,37 @@
     "uniques": 5
   },
   {
+    "referrer": "pypi.org",
+    "count": 4,
+    "uniques": 4
+  },
+  {
     "referrer": "away.vk.com",
     "count": 4,
     "uniques": 3
   },
   {
-    "referrer": "reddit.com",
+    "referrer": "Bing",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "Bing",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "sktime.org",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "referrer": "DuckDuckGo",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "reddit.com",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "linkedin.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "fullstackfeed.com",
     "count": 1,
     "uniques": 1
   }

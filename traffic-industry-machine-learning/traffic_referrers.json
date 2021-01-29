@@ -1,13 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 207,
-    "uniques": 141
-  },
-  {
-    "referrer": "linkedin.com",
-    "count": 185,
-    "uniques": 125
+    "count": 214,
+    "uniques": 143
   },
   {
     "referrer": "github.com",
@@ -15,34 +10,39 @@
     "uniques": 56
   },
   {
-    "referrer": "lnkd.in",
-    "count": 43,
-    "uniques": 19
+    "referrer": "linkedin.com",
+    "count": 68,
+    "uniques": 48
   },
   {
     "referrer": "reddit.com",
-    "count": 39,
-    "uniques": 27
+    "count": 32,
+    "uniques": 25
   },
   {
     "referrer": "firmai.org",
-    "count": 33,
-    "uniques": 21
+    "count": 30,
+    "uniques": 20
   },
   {
-    "referrer": "t.co",
-    "count": 18,
-    "uniques": 11
-  },
-  {
-    "referrer": "amp.reddit.com",
-    "count": 16,
-    "uniques": 3
+    "referrer": "lnkd.in",
+    "count": 24,
+    "uniques": 8
   },
   {
     "referrer": "cc98.org",
+    "count": 17,
+    "uniques": 12
+  },
+  {
+    "referrer": "amp.reddit.com",
     "count": 15,
-    "uniques": 11
+    "uniques": 2
+  },
+  {
+    "referrer": "t.co",
+    "count": 8,
+    "uniques": 5
   },
   {
     "referrer": "mail.google.com",

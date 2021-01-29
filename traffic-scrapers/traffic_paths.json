@@ -2,26 +2,14 @@
   {
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
-    "count": 30,
-    "uniques": 20
-  },
-  {
-    "path": "/firmai/scrapers/tree/master/glassdoor",
-    "title": "scrapers/glassdoor at master · firmai/scrapers · GitHub",
-    "count": 10,
-    "uniques": 2
+    "count": 25,
+    "uniques": 21
   },
   {
     "path": "/firmai/scrapers/tree/master/yelp",
     "title": "scrapers/yelp at master · firmai/scrapers · GitHub",
     "count": 5,
     "uniques": 5
-  },
-  {
-    "path": "/firmai/scrapers/blob/master/glassdoor/MSFT_review.csv",
-    "title": "scrapers/MSFT_review.csv at master · firmai/scrapers · GitHub",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/firmai/scrapers/tree/master/Inside%20VC",
@@ -48,14 +36,26 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/scrapers/blob/master/doordash/doordash_sel.py",
+    "title": "scrapers/doordash_sel.py at master · firmai/scrapers · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/scrapers/blob/master/facebook/fb_scrap_python3.py",
     "title": "scrapers/fb_scrap_python3.py at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/blob/master/glassdoor/MSFT_interview.csv",
-    "title": "scrapers/MSFT_interview.csv at master · firmai/scrapers · GitHub",
+    "path": "/firmai/scrapers/blob/master/morningstar/jscraper.py",
+    "title": "scrapers/jscraper.py at master · firmai/scrapers",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/scrapers/blob/master/yelp/one.py",
+    "title": "scrapers/one.py at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
   }
