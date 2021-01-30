@@ -2,43 +2,25 @@
   {
     "path": "/firmai/deltapy",
     "title": "GitHub - firmai/deltapy: DeltaPy - Tabular Data Augmentation (by @firmai)",
-    "count": 96,
-    "uniques": 64
+    "count": 88,
+    "uniques": 62
   },
   {
     "path": "/firmai/deltapy/blob/master/assets/Notebook.ipynb",
     "title": "deltapy/Notebook.ipynb at master · firmai/deltapy · GitHub",
-    "count": 6,
-    "uniques": 1
+    "count": 7,
+    "uniques": 2
   },
   {
     "path": "/firmai/deltapy/issues",
     "title": "Issues · firmai/deltapy",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/firmai/deltapy/tree/master/assets",
     "title": "deltapy/assets at master · firmai/deltapy · GitHub",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
-    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/deltapy/issues/4",
-    "title": "transform.modify error · Issue #4 · firmai/deltapy",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/deltapy/search",
-    "title": "Search · magnify",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -56,6 +38,24 @@
   {
     "path": "/firmai/deltapy/blob/master/deltapy/interact.py",
     "title": "deltapy/interact.py at master · firmai/deltapy · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/deltapy/blob/master/deltapy/mapper.py",
+    "title": "deltapy/mapper.py at master · firmai/deltapy · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
+    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/deltapy/blob/master/README.md",
+    "title": "deltapy/README.md at master · firmai/deltapy · GitHub",
     "count": 1,
     "uniques": 1
   }

@@ -1,9 +1,9 @@
 [
   {
     "path": "/firmai/firmai.github.io",
-    "title": "firmai/firmai.github.io: Open Business Analytics and Data Science Research",
-    "count": 6,
-    "uniques": 6
+    "title": "GitHub - firmai/firmai.github.io: Open Business Analytics and Data Science Re...",
+    "count": 7,
+    "uniques": 7
   },
   {
     "path": "/firmai/firmai.github.io/blob/master/documents/Time-Series.md",
@@ -18,10 +18,10 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/firmai.github.io/blob/master/articles/index.md",
-    "title": "firmai.github.io/index.md at master · firmai/firmai.github.io · GitHub",
-    "count": 1,
-    "uniques": 1
+    "path": "/firmai/firmai.github.io/tree/master/samples",
+    "title": "firmai.github.io/samples at master · firmai/firmai.github.io · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/firmai/firmai.github.io/blob/master/documents/Insurance-Model.md",
@@ -30,14 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/firmai.github.io/tree/master/get-started",
-    "title": "firmai.github.io/get-started at master · firmai/firmai.github.io · GitHub",
+    "path": "/firmai/firmai.github.io/blob/master/python-business-analytics.md",
+    "title": "firmai.github.io/python-business-analytics.md at master · firmai/firmai.githu...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/firmai.github.io/tree/master/samples",
-    "title": "firmai.github.io/samples at master · firmai/firmai.github.io",
+    "path": "/firmai/firmai.github.io/tree/master/get-started",
+    "title": "firmai.github.io/get-started at master · firmai/firmai.github.io · GitHub",
     "count": 1,
     "uniques": 1
   }
