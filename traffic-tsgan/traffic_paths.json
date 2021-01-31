@@ -2,20 +2,20 @@
   {
     "path": "/firmai/tsgan",
     "title": "GitHub - firmai/tsgan: Time-series Generative Adversarial Networks (fork from...",
-    "count": 99,
-    "uniques": 58
+    "count": 96,
+    "uniques": 60
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/timegan",
     "title": "tsgan/alg/timegan at master · firmai/tsgan · GitHub",
-    "count": 28,
-    "uniques": 19
+    "count": 26,
+    "uniques": 18
   },
   {
     "path": "/firmai/tsgan/tree/master/alg",
     "title": "tsgan/alg at master · firmai/tsgan · GitHub",
-    "count": 23,
-    "uniques": 16
+    "count": 22,
+    "uniques": 15
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/knockoffgan",
@@ -26,8 +26,8 @@
   {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tgan.py",
     "title": "tsgan/tgan.py at master · firmai/tsgan · GitHub",
-    "count": 11,
-    "uniques": 10
+    "count": 9,
+    "uniques": 8
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/knockoffgan/KnockoffGAN.py",
@@ -36,27 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/tsgan/tree/master/alg/timegan/data",
-    "title": "tsgan/alg/timegan/data at master · firmai/tsgan · GitHub",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
-    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan · GitHub",
-    "count": 6,
-    "uniques": 4
-  },
-  {
     "path": "/firmai/tsgan/blob/master/alg/knockoffgan/README.md",
     "title": "tsgan/README.md at master · firmai/tsgan · GitHub",
     "count": 6,
     "uniques": 1
   },
   {
-    "path": "/firmai/tsgan/tree/master/alg/timegan/gendata",
-    "title": "tsgan/alg/timegan/gendata at master · firmai/tsgan · GitHub",
-    "count": 4,
+    "path": "/firmai/tsgan/tree/master/alg/timegan/data",
+    "title": "tsgan/alg/timegan/data at master · firmai/tsgan · GitHub",
+    "count": 5,
     "uniques": 4
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
+    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan · GitHub",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/README.md",
+    "title": "tsgan/README.md at master · firmai/tsgan · GitHub",
+    "count": 3,
+    "uniques": 3
   }
 ]
