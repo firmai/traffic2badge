@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 205,
-    "uniques": 136
+    "count": 201,
+    "uniques": 135
   },
   {
     "referrer": "github.com",
-    "count": 81,
-    "uniques": 62
+    "count": 77,
+    "uniques": 60
   },
   {
     "referrer": "analyticsindiamag.com",
@@ -30,14 +30,14 @@
     "uniques": 2
   },
   {
+    "referrer": "blog.etereo.io",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "referrer": "qiita.com",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "referrer": "blog.etereo.io",
-    "count": 2,
-    "uniques": 2
   },
   {
     "referrer": "Baidu",
@@ -45,8 +45,8 @@
     "uniques": 2
   },
   {
-    "referrer": "reddit.com",
-    "count": 1,
+    "referrer": "colab.research.google.com",
+    "count": 2,
     "uniques": 1
   }
 ]

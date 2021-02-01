@@ -2,14 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 10,
-    "uniques": 5
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
-    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
-    "count": 5,
-    "uniques": 3
+    "count": 12,
+    "uniques": 6
   },
   {
     "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
@@ -50,6 +44,12 @@
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/CausalDiscoveryToolbox-master/cdt/causality/pairwise/GNN.py",
     "title": "techniques/GNN.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/techni...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
+    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
     "count": 1,
     "uniques": 1
   },
