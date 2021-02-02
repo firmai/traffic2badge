@@ -2,30 +2,18 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 68,
-    "uniques": 35
+    "count": 57,
+    "uniques": 34
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/main.py",
     "title": "interactive-corporate-report/main.py at master · firmai/interactive-corporate...",
-    "count": 6,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/data/county/._cb_2016_us_county_500k.cpg",
     "title": "interactive-corporate-report/._cb_2016_us_county_500k.cpg at master · firmai/...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/Dockerfile",
-    "title": "interactive-corporate-report/Dockerfile at master · firmai/interactive-corpor...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/runtime.txt",
-    "title": "interactive-corporate-report/runtime.txt at master · firmai/interactive-corpo...",
     "count": 2,
     "uniques": 1
   },
@@ -42,20 +30,20 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/blob/master/Procfile",
-    "title": "interactive-corporate-report/Procfile at master · firmai/interactive-corporat...",
+    "path": "/firmai/interactive-corporate-report/tree/master/data",
+    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/blob/master/Procfile.txt",
-    "title": "interactive-corporate-report/Procfile.txt at master · firmai/interactive-corp...",
+    "path": "/firmai/interactive-corporate-report/tree/master/data/county",
+    "title": "interactive-corporate-report/data/county at master · firmai/interactive-corpo...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/blob/master/READDDME.md",
-    "title": "interactive-corporate-report/READDDME.md at master · firmai/interactive-corpo...",
+    "path": "/firmai/interactive-corporate-report/tree/master/layout",
+    "title": "interactive-corporate-report/layout at master · firmai/interactive-corporate-...",
     "count": 1,
     "uniques": 1
   }

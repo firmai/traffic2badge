@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 82,
-    "uniques": 52
+    "count": 80,
+    "uniques": 51
   },
   {
     "referrer": "github.com",
-    "count": 45,
-    "uniques": 33
+    "count": 46,
+    "uniques": 34
   },
   {
     "referrer": "medium.com",
@@ -16,13 +16,8 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 10,
-    "uniques": 6
-  },
-  {
-    "referrer": "colab.research.google.com",
-    "count": 2,
-    "uniques": 1
+    "count": 8,
+    "uniques": 4
   },
   {
     "referrer": "DuckDuckGo",

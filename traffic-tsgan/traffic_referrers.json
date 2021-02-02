@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 56,
-    "uniques": 35
+    "count": 55,
+    "uniques": 34
   },
   {
     "referrer": "github.com",
-    "count": 18,
-    "uniques": 14
+    "count": 21,
+    "uniques": 17
   },
   {
     "referrer": "Bing",
@@ -15,17 +15,7 @@
     "uniques": 1
   },
   {
-    "referrer": "ctolib.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "referrer": "cn.bing.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }

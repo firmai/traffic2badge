@@ -2,8 +2,8 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 205,
-    "uniques": 123
+    "count": 200,
+    "uniques": 115
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
@@ -36,12 +36,6 @@
     "uniques": 5
   },
   {
-    "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
-    "title": "python-business-analytics/Bike_Sharing.ipynb at master · firmai/python-busine...",
-    "count": 5,
-    "uniques": 5
-  },
-  {
     "path": "/firmai/python-business-analytics/find/master",
     "title": "File Finder · GitHub",
     "count": 5,
@@ -58,5 +52,11 @@
     "title": "python-business-analytics/HR_comma_sep.csv at master · firmai/python-business...",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/firmai/python-business-analytics/blob/master/cheatsheets/datascience.png",
+    "title": "python-business-analytics/datascience.png at master · firmai/python-business-...",
+    "count": 3,
+    "uniques": 3
   }
 ]

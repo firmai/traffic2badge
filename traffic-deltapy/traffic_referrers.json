@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 33,
-    "uniques": 27
+    "count": 30,
+    "uniques": 26
   },
   {
     "referrer": "github.com",
-    "count": 17,
-    "uniques": 14
+    "count": 19,
+    "uniques": 16
   },
   {
     "referrer": "colab.research.google.com",
@@ -20,17 +20,7 @@
     "uniques": 2
   },
   {
-    "referrer": "t.co",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "sktime.org",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "msblox-03.visualstudio.com",
+    "referrer": "Yahoo",
     "count": 1,
     "uniques": 1
   },
@@ -40,7 +30,12 @@
     "uniques": 1
   },
   {
-    "referrer": "Yahoo",
+    "referrer": "msblox-03.visualstudio.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "sktime.org",
     "count": 1,
     "uniques": 1
   }

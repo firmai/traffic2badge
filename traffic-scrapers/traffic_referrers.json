@@ -1,17 +1,12 @@
 [
   {
     "referrer": "github.com",
-    "count": 26,
+    "count": 24,
     "uniques": 21
   },
   {
     "referrer": "theparlour.substack.com",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "colab.research.google.com",
-    "count": 1,
-    "uniques": 1
   }
 ]

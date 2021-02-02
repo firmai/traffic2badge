@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 18,
-    "uniques": 17
+    "count": 17,
+    "uniques": 16
   },
   {
     "referrer": "Google",
-    "count": 7,
-    "uniques": 6
+    "count": 6,
+    "uniques": 5
   },
   {
     "referrer": "pypi.org",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
