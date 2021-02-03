@@ -5,12 +5,12 @@
     "uniques": 5
   },
   {
-    "referrer": "colab.research.google.com",
+    "referrer": "Google",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "Google",
+    "referrer": "colab.research.google.com",
     "count": 1,
     "uniques": 1
   }

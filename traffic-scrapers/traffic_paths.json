@@ -2,8 +2,8 @@
   {
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
-    "count": 29,
-    "uniques": 26
+    "count": 30,
+    "uniques": 27
   },
   {
     "path": "/firmai/scrapers/tree/master/yelp",
@@ -54,8 +54,8 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/blob/master/yelp/one.py",
-    "title": "scrapers/one.py at master · firmai/scrapers · GitHub",
+    "path": "/firmai/scrapers/blob/master/morningstar/morningstarscraper.py",
+    "title": "scrapers/morningstarscraper.py at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
   }

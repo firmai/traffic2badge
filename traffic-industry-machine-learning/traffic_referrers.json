@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 209,
-    "uniques": 134
+    "count": 220,
+    "uniques": 140
   },
   {
     "referrer": "github.com",
-    "count": 100,
-    "uniques": 69
+    "count": 105,
+    "uniques": 71
   },
   {
     "referrer": "firmai.org",
-    "count": 34,
-    "uniques": 21
+    "count": 38,
+    "uniques": 25
   },
   {
     "referrer": "reddit.com",
-    "count": 24,
-    "uniques": 20
+    "count": 21,
+    "uniques": 17
   },
   {
     "referrer": "cc98.org",
-    "count": 19,
-    "uniques": 13
+    "count": 18,
+    "uniques": 12
   },
   {
     "referrer": "amp.reddit.com",
@@ -31,22 +31,22 @@
   },
   {
     "referrer": "linkedin.com",
-    "count": 14,
-    "uniques": 10
+    "count": 10,
+    "uniques": 7
   },
   {
     "referrer": "l.facebook.com",
-    "count": 6,
+    "count": 8,
     "uniques": 2
-  },
-  {
-    "referrer": "campsite.bio",
-    "count": 5,
-    "uniques": 3
   },
   {
     "referrer": "mail.google.com",
     "count": 5,
+    "uniques": 2
+  },
+  {
+    "referrer": "t.co",
+    "count": 4,
     "uniques": 2
   }
 ]
