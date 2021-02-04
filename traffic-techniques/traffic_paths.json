@@ -2,14 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 13,
-    "uniques": 7
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
-    "title": "GitHub - firmai/techniques at 0b15fd6f424074e369c03e0e6015c80dbf6f708e",
-    "count": 2,
-    "uniques": 2
+    "count": 14,
+    "uniques": 8
   },
   {
     "path": "/firmai/techniques/tree/master/Decision%20Optimisation",
@@ -24,12 +18,6 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference",
-    "title": "techniques/Causal Inference at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · fir...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks",
     "title": "techniques/Networks at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/tech...",
     "count": 2,
@@ -42,20 +30,32 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/CausalDiscoveryToolbox-master/cdt/causality/pairwise/GNN.py",
-    "title": "techniques/GNN.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/techni...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
-    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks/code_networks/slicing.py",
     "title": "techniques/slicing.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/te...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/master/Customer/Customer%20Survey.ipynb",
+    "title": "techniques/Customer Survey.ipynb at master · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/master/Decision%20Making/Corporate%20Finance/EDA.ipynb",
+    "title": "techniques/EDA.ipynb at master · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/master/Decision%20Optimisation/Post%20Office.ipynb",
+    "title": "techniques/Post Office.ipynb at master · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
+    "title": "firmai/techniques at 0b15fd6f424074e369c03e0e6015c80dbf6f708e",
     "count": 1,
     "uniques": 1
   }

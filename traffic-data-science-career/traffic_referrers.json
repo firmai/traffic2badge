@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 57,
-    "uniques": 31
+    "count": 49,
+    "uniques": 29
   },
   {
     "referrer": "github.com",
@@ -21,11 +21,6 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "edestek3.kocaeli.edu.tr",
     "count": 1,
     "uniques": 1
   }

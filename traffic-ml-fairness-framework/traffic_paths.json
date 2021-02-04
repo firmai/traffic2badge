@@ -2,14 +2,14 @@
   {
     "path": "/firmai/ml-fairness-framework",
     "title": "GitHub - firmai/ml-fairness-framework: FairPut - Machine Learning Fairness Fr...",
-    "count": 21,
-    "uniques": 11
+    "count": 23,
+    "uniques": 10
   },
   {
     "path": "/firmai/ml-fairness-framework/blob/master/FairPut.ipynb",
     "title": "ml-fairness-framework/FairPut.ipynb at master · firmai/ml-fairness-framework ...",
-    "count": 11,
-    "uniques": 4
+    "count": 17,
+    "uniques": 6
   },
   {
     "path": "/firmai/ml-fairness-framework/blob/master/FairPut__A_Light_Framework_for_Machine_Learning_Fairness.pdf",
@@ -32,6 +32,12 @@
   {
     "path": "/firmai/ml-fairness-framework/blob/master/assets/Screen%20Shot%202020-04-01%20at%2010.31.00%20AM.png",
     "title": "ml-fairness-framework/Screen Shot 2020-04-01 at 10.31.00 AM.png at master · f...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/ml-fairness-framework/blob/master/FairPut.pdf",
+    "title": "ml-fairness-framework/FairPut.pdf at master · firmai/ml-fairness-framework · ...",
     "count": 1,
     "uniques": 1
   }

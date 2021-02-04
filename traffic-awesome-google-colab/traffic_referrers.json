@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 196,
-    "uniques": 137
+    "count": 188,
+    "uniques": 130
   },
   {
     "referrer": "github.com",
-    "count": 70,
-    "uniques": 55
+    "count": 65,
+    "uniques": 53
   },
   {
     "referrer": "analyticsindiamag.com",
@@ -20,18 +20,13 @@
     "uniques": 4
   },
   {
-    "referrer": "medium.com",
-    "count": 5,
-    "uniques": 4
-  },
-  {
     "referrer": "awesomeopensource.com",
     "count": 5,
     "uniques": 3
   },
   {
-    "referrer": "blog.etereo.io",
-    "count": 3,
+    "referrer": "medium.com",
+    "count": 4,
     "uniques": 3
   },
   {
@@ -40,13 +35,18 @@
     "uniques": 1
   },
   {
+    "referrer": "blog.etereo.io",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "referrer": "blackboard.vsu.edu",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "Baidu",
+    "referrer": "colab.research.google.com",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   }
 ]
