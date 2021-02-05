@@ -1,28 +1,33 @@
 [
   {
     "referrer": "Google",
-    "count": 29,
-    "uniques": 26
+    "count": 28,
+    "uniques": 25
   },
   {
     "referrer": "github.com",
-    "count": 14,
-    "uniques": 12
-  },
-  {
-    "referrer": "colab.research.google.com",
-    "count": 3,
-    "uniques": 2
+    "count": 15,
+    "uniques": 13
   },
   {
     "referrer": "amitness.com",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "fullstackfeed.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "Yahoo",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "t.co",
@@ -35,12 +40,7 @@
     "uniques": 1
   },
   {
-    "referrer": "sktime.org",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "Yahoo",
+    "referrer": "m.search.naver.com",
     "count": 1,
     "uniques": 1
   }

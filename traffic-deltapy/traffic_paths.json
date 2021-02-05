@@ -18,6 +18,18 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
+    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/deltapy/tree/master/deltapy",
+    "title": "deltapy/deltapy at master · firmai/deltapy · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/deltapy/blob/851facafbed4fdc3425220fd27a7bbb5118ef635/deltapy/extract.py",
     "title": "deltapy/extract.py at 851facafbed4fdc3425220fd27a7bbb5118ef635 · firmai/deltapy",
     "count": 1,
@@ -42,20 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
-    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/deltapy/blob/master/README.md",
     "title": "deltapy/README.md at master · firmai/deltapy · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/deltapy/find/master",
-    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   }

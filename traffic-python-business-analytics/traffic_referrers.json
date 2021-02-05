@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 69,
-    "uniques": 46
+    "count": 71,
+    "uniques": 48
   },
   {
     "referrer": "github.com",
-    "count": 54,
-    "uniques": 38
+    "count": 51,
+    "uniques": 37
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 21,
-    "uniques": 14
+    "count": 22,
+    "uniques": 15
   },
   {
     "referrer": "yandex.ru",
@@ -20,32 +20,32 @@
     "uniques": 1
   },
   {
-    "referrer": "reddit.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "referrer": "awesomeopensource.com",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "medium.com",
+    "referrer": "us.search.yahoo.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "cn.bing.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "github.com.cnpmjs.org",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "us.search.yahoo.com",
     "count": 1,
     "uniques": 1
   }

@@ -18,6 +18,24 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/cdt/causality/graph/PC.py",
+    "title": "techniques/PC.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/techniq...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master",
+    "title": "techniques/Causal Inference/CausalDiscoveryToolbox-master at 0b15fd6f424074e3...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/cdt/causality/graph",
+    "title": "techniques/Causal Inference/CausalDiscoveryToolbox-master/cdt/causality/graph...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks",
     "title": "techniques/Networks at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/tech...",
     "count": 2,
@@ -30,32 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks/code_networks/slicing.py",
-    "title": "techniques/slicing.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/te...",
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/examples/Discovery_LUCAS.ipynb",
+    "title": "techniques/Discovery_LUCAS.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e ...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/master/Customer/Customer%20Survey.ipynb",
-    "title": "techniques/Customer Survey.ipynb at master · firmai/techniques",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/master/Decision%20Making/Corporate%20Finance/EDA.ipynb",
-    "title": "techniques/EDA.ipynb at master · firmai/techniques",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/master/Decision%20Optimisation/Post%20Office.ipynb",
-    "title": "techniques/Post Office.ipynb at master · firmai/techniques",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
-    "title": "firmai/techniques at 0b15fd6f424074e369c03e0e6015c80dbf6f708e",
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/r_requirements.txt",
+    "title": "techniques/r_requirements.txt at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · f...",
     "count": 1,
     "uniques": 1
   }

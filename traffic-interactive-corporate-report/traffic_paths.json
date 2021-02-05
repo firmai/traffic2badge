@@ -2,14 +2,20 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 52,
-    "uniques": 35
+    "count": 53,
+    "uniques": 34
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/main.py",
     "title": "interactive-corporate-report/main.py at master · firmai/interactive-corporate...",
-    "count": 4,
-    "uniques": 2
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/processing",
+    "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/data/county/._cb_2016_us_county_500k.cpg",
@@ -18,20 +24,14 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/interactive-corporate-report/blob/master/processing/processing_df_stock.ipynb",
+    "title": "interactive-corporate-report/processing_df_stock.ipynb at master · firmai/int...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/firmai/interactive-corporate-report/blob/ce0d81ab775ded84334ce599950dae9adaa978c5/processing/doordash_processing.py",
     "title": "interactive-corporate-report/doordash_processing.py at ce0d81ab775ded84334ce5...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/layout/area_layout.py",
-    "title": "interactive-corporate-report/area_layout.py at master · firmai/interactive-co...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/layout/__init__.py",
-    "title": "interactive-corporate-report/__init__.py at master · firmai/interactive-corpo...",
     "count": 1,
     "uniques": 1
   },
@@ -44,12 +44,6 @@
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data/county",
     "title": "interactive-corporate-report/data/county at master · firmai/interactive-corpo...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/layout",
-    "title": "interactive-corporate-report/layout at master · firmai/interactive-corporate-...",
     "count": 1,
     "uniques": 1
   }
