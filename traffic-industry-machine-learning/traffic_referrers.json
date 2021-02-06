@@ -1,32 +1,37 @@
 [
   {
     "referrer": "Google",
-    "count": 232,
-    "uniques": 142
+    "count": 246,
+    "uniques": 149
   },
   {
     "referrer": "github.com",
-    "count": 105,
+    "count": 110,
     "uniques": 68
   },
   {
     "referrer": "firmai.org",
-    "count": 29,
-    "uniques": 18
-  },
-  {
-    "referrer": "cc98.org",
-    "count": 16,
-    "uniques": 11
+    "count": 33,
+    "uniques": 17
   },
   {
     "referrer": "reddit.com",
-    "count": 15,
-    "uniques": 12
+    "count": 16,
+    "uniques": 13
   },
   {
     "referrer": "l.facebook.com",
+    "count": 11,
+    "uniques": 2
+  },
+  {
+    "referrer": "cc98.org",
     "count": 10,
+    "uniques": 6
+  },
+  {
+    "referrer": "kaggle.com",
+    "count": 4,
     "uniques": 2
   },
   {
@@ -35,18 +40,13 @@
     "uniques": 1
   },
   {
+    "referrer": "Bing",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "referrer": "link.zhihu.com",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "referrer": "linkedin.com",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "referrer": "t.co",
-    "count": 3,
-    "uniques": 1
   }
 ]

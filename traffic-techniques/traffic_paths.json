@@ -2,14 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 14,
+    "count": 12,
     "uniques": 8
-  },
-  {
-    "path": "/firmai/techniques/tree/master/Decision%20Optimisation",
-    "title": "techniques/Decision Optimisation at master · firmai/techniques",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/firmai/techniques/tree/master/Sales",
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/r_requirements.txt",
     "title": "techniques/r_requirements.txt at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · f...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks/code_networks/slicing.py",
+    "title": "techniques/slicing.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/te...",
     "count": 1,
     "uniques": 1
   }

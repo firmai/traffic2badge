@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 71,
-    "uniques": 48
+    "count": 65,
+    "uniques": 45
   },
   {
     "referrer": "github.com",
-    "count": 51,
+    "count": 52,
     "uniques": 37
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 22,
-    "uniques": 15
+    "count": 19,
+    "uniques": 14
   },
   {
     "referrer": "yandex.ru",

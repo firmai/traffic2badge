@@ -2,14 +2,14 @@
   {
     "path": "/firmai/atspy",
     "title": "GitHub - firmai/atspy: AtsPy: Automated Time Series Models in Python (by @fir...",
-    "count": 249,
-    "uniques": 112
+    "count": 254,
+    "uniques": 116
   },
   {
     "path": "/firmai/atspy/issues/12",
     "title": "\"ERROR: Could not find a version that satisfies the requirement dataclasses==...",
-    "count": 165,
-    "uniques": 137
+    "count": 171,
+    "uniques": 142
   },
   {
     "path": "/firmai/atspy/issues",
@@ -32,14 +32,14 @@
   {
     "path": "/firmai/atspy/tree/master/atspy",
     "title": "atspy/atspy at master · firmai/atspy · GitHub",
-    "count": 15,
-    "uniques": 13
+    "count": 14,
+    "uniques": 12
   },
   {
     "path": "/firmai/atspy/tree/master/atspy/TS",
-    "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
-    "count": 9,
-    "uniques": 7
+    "title": "atspy/atspy/TS at master · firmai/atspy",
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/firmai/atspy/search",
@@ -48,15 +48,15 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/atspy/blob/master/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf",
+    "title": "atspy/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf at master · firma...",
+    "count": 5,
+    "uniques": 5
+  },
+  {
     "path": "/firmai/atspy/tree/master/atspy_files",
     "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
     "count": 5,
     "uniques": 4
-  },
-  {
-    "path": "/firmai/atspy/issues/2",
-    "title": "need requirements.txt · Issue #2 · firmai/atspy · GitHub",
-    "count": 5,
-    "uniques": 3
   }
 ]

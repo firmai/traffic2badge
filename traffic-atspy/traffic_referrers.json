@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 224,
-    "uniques": 170
+    "count": 235,
+    "uniques": 176
   },
   {
     "referrer": "github.com",
@@ -20,12 +20,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Bing",
+    "referrer": "DuckDuckGo",
     "count": 5,
     "uniques": 5
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "Bing",
     "count": 5,
     "uniques": 5
   },
@@ -35,14 +35,14 @@
     "uniques": 3
   },
   {
+    "referrer": "sktime.org",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "referrer": "linkedin.com",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "referrer": "away.vk.com",
-    "count": 2,
-    "uniques": 2
   },
   {
     "referrer": "colab.research.google.com",

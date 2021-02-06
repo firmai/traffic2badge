@@ -2,8 +2,8 @@
   {
     "path": "/firmai/deltapy",
     "title": "GitHub - firmai/deltapy: DeltaPy - Tabular Data Augmentation (by @firmai)",
-    "count": 62,
-    "uniques": 50
+    "count": 58,
+    "uniques": 46
   },
   {
     "path": "/firmai/deltapy/blob/master/assets/Notebook.ipynb",
@@ -18,44 +18,38 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/deltapy/blob/master/assets/Tabularz.png",
+    "title": "deltapy/Tabularz.png at master · firmai/deltapy",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
     "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/deltapy/tree/master/deltapy",
-    "title": "deltapy/deltapy at master · firmai/deltapy · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/deltapy/blob/851facafbed4fdc3425220fd27a7bbb5118ef635/deltapy/extract.py",
-    "title": "deltapy/extract.py at 851facafbed4fdc3425220fd27a7bbb5118ef635 · firmai/deltapy",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/deltapy/blob/master/deltapy/extract.py",
-    "title": "deltapy/extract.py at master · firmai/deltapy · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/deltapy/blob/master/deltapy/interact.py",
-    "title": "deltapy/interact.py at master · firmai/deltapy · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/deltapy/blob/master/deltapy/mapper.py",
-    "title": "deltapy/mapper.py at master · firmai/deltapy · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/firmai/deltapy/blob/master/README.md",
     "title": "deltapy/README.md at master · firmai/deltapy · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/deltapy/find/master",
+    "title": "File Finder · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/deltapy/issues",
+    "title": "Issues · firmai/deltapy",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/deltapy/tree/master/deltapy",
+    "title": "deltapy/deltapy at master · firmai/deltapy · GitHub",
     "count": 1,
     "uniques": 1
   }
