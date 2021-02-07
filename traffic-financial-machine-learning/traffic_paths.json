@@ -2,26 +2,20 @@
   {
     "path": "/firmai/financial-machine-learning",
     "title": "GitHub - firmai/financial-machine-learning: A curated list of practical finan...",
-    "count": 1709,
-    "uniques": 861
+    "count": 1750,
+    "uniques": 864
   },
   {
     "path": "/firmai/financial-machine-learning/blob/master/README.md",
     "title": "financial-machine-learning/README.md at master · firmai/financial-machine-lea...",
-    "count": 38,
-    "uniques": 27
+    "count": 43,
+    "uniques": 30
   },
   {
     "path": "/firmai/financial-machine-learning/commits",
     "title": "Commits · firmai/financial-machine-learning · GitHub",
     "count": 6,
     "uniques": 5
-  },
-  {
-    "path": "/firmai/financial-machine-learning/commit/1cd8db7b0fd1152c8319f0b8b1e78425878c07f2",
-    "title": "Merge pull request #2 from AJV009/master · firmai/financial-machine-learning@...",
-    "count": 4,
-    "uniques": 3
   },
   {
     "path": "/firmai/financial-machine-learning/pulls",
@@ -52,6 +46,12 @@
     "title": "Search · quaaf · GitHub",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/firmai/financial-machine-learning/commit/1cd8db7b0fd1152c8319f0b8b1e78425878c07f2",
+    "title": "Merge pull request #2 from AJV009/master · firmai/financial-machine-learning@...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/firmai/financial-machine-learning/pull/2",

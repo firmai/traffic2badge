@@ -1,23 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 26,
-    "uniques": 23
+    "count": 25,
+    "uniques": 22
   },
   {
     "referrer": "github.com",
-    "count": 12,
-    "uniques": 10
+    "count": 14,
+    "uniques": 11
   },
   {
     "referrer": "amitness.com",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "referrer": "fullstackfeed.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "msblox-03.visualstudio.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "m.search.naver.com",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "colab.research.google.com",
@@ -30,17 +35,12 @@
     "uniques": 1
   },
   {
+    "referrer": "fullstackfeed.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "t.co",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "msblox-03.visualstudio.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "m.search.naver.com",
     "count": 1,
     "uniques": 1
   }

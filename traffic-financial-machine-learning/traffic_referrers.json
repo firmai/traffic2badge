@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 916,
+    "count": 908,
     "uniques": 506
   },
   {
     "referrer": "github.com",
-    "count": 194,
-    "uniques": 92
+    "count": 204,
+    "uniques": 95
   },
   {
     "referrer": "kaggle.com",
-    "count": 118,
-    "uniques": 77
+    "count": 129,
+    "uniques": 86
   },
   {
     "referrer": "DuckDuckGo",
@@ -26,12 +26,7 @@
   },
   {
     "referrer": "firmai.org",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 4,
+    "count": 5,
     "uniques": 4
   },
   {
@@ -40,13 +35,18 @@
     "uniques": 4
   },
   {
-    "referrer": "Bing",
+    "referrer": "reddit.com",
     "count": 4,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "referrer": "facebook.com",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "referrer": "yandex.ru",
+    "count": 3,
+    "uniques": 2
   }
 ]

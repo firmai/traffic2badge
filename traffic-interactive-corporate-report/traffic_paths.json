@@ -2,13 +2,13 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 50,
-    "uniques": 31
+    "count": 54,
+    "uniques": 33
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/main.py",
     "title": "interactive-corporate-report/main.py at master · firmai/interactive-corporate...",
-    "count": 6,
+    "count": 7,
     "uniques": 3
   },
   {
@@ -16,6 +16,12 @@
     "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/data",
+    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/data/county/._cb_2016_us_county_500k.cpg",
@@ -36,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/tree/master/data",
-    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
+    "path": "/firmai/interactive-corporate-report/blob/master/files/._bjs-restaurant-and-brewhouse-burbank.csv",
+    "title": "interactive-corporate-report/._bjs-restaurant-and-brewhouse-burbank.csv at ma...",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data/county",
     "title": "interactive-corporate-report/data/county at master · firmai/interactive-corpo...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/data/financial",
+    "title": "interactive-corporate-report/data/financial at master · firmai/interactive-co...",
     "count": 1,
     "uniques": 1
   }

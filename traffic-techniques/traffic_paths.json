@@ -2,14 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 12,
-    "uniques": 8
-  },
-  {
-    "path": "/firmai/techniques/tree/master/Sales",
-    "title": "techniques/Sales at master · firmai/techniques · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 11,
+    "uniques": 7
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/cdt/causality/graph/PC.py",
@@ -50,6 +44,12 @@
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/r_requirements.txt",
     "title": "techniques/r_requirements.txt at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · f...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/causal_regression.ipynb",
+    "title": "techniques/causal_regression.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708...",
     "count": 1,
     "uniques": 1
   },
