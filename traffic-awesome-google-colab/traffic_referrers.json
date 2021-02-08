@@ -1,32 +1,27 @@
 [
   {
     "referrer": "Google",
-    "count": 198,
-    "uniques": 142
+    "count": 184,
+    "uniques": 134
   },
   {
     "referrer": "github.com",
-    "count": 43,
-    "uniques": 39
-  },
-  {
-    "referrer": "analyticsindiamag.com",
-    "count": 8,
-    "uniques": 4
+    "count": 45,
+    "uniques": 40
   },
   {
     "referrer": "1point3acres.com",
-    "count": 7,
-    "uniques": 6
+    "count": 5,
+    "uniques": 5
   },
   {
-    "referrer": "awesomeopensource.com",
+    "referrer": "reddit.com",
     "count": 5,
     "uniques": 3
   },
   {
-    "referrer": "medium.com",
-    "count": 4,
+    "referrer": "analyticsindiamag.com",
+    "count": 5,
     "uniques": 3
   },
   {
@@ -35,17 +30,22 @@
     "uniques": 3
   },
   {
-    "referrer": "reddit.com",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "referrer": "qiita.com",
     "count": 3,
     "uniques": 1
   },
   {
     "referrer": "blackboard.vsu.edu",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "awesomeopensource.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "medium.com",
     "count": 2,
     "uniques": 2
   }

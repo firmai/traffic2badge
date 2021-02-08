@@ -2,32 +2,8 @@
   {
     "path": "/firmai/datagene",
     "title": "GitHub - firmai/datagene: DataGene - Identify How Similar TS Datasets Are to ...",
-    "count": 32,
-    "uniques": 24
-  },
-  {
-    "path": "/firmai/datagene/tree/master/datagene",
-    "title": "datagene/datagene at master · firmai/datagene · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/datagene/blob/master/assets/._datavis.png",
-    "title": "datagene/._datavis.png at master · firmai/datagene · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/datagene/blob/master/assets/datavis.png",
-    "title": "datagene/datavis.png at master · firmai/datagene · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/datagene/blob/master/assets/Tabularz.png",
-    "title": "datagene/Tabularz.png at master · firmai/datagene · GitHub",
-    "count": 1,
-    "uniques": 1
+    "count": 27,
+    "uniques": 20
   },
   {
     "path": "/firmai/datagene/blob/master/datagene/transform.py",
@@ -36,14 +12,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/datagene/issues",
-    "title": "Issues · firmai/datagene",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/datagene/tree/master/assets",
-    "title": "datagene/assets at master · firmai/datagene · GitHub",
+    "path": "/firmai/datagene/tree/master/datagene",
+    "title": "datagene/datagene at master · firmai/datagene · GitHub",
     "count": 1,
     "uniques": 1
   }

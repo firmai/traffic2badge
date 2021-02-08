@@ -2,19 +2,19 @@
   {
     "path": "/firmai/tsgan",
     "title": "GitHub - firmai/tsgan: Time-series Generative Adversarial Networks (fork from...",
-    "count": 103,
-    "uniques": 61
+    "count": 101,
+    "uniques": 60
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/timegan",
     "title": "tsgan/alg/timegan at master · firmai/tsgan · GitHub",
-    "count": 28,
+    "count": 26,
     "uniques": 13
   },
   {
     "path": "/firmai/tsgan/tree/master/alg",
     "title": "tsgan/alg at master · firmai/tsgan · GitHub",
-    "count": 21,
+    "count": 20,
     "uniques": 13
   },
   {
@@ -24,39 +24,39 @@
     "uniques": 5
   },
   {
-    "path": "/firmai/tsgan/tree/master/alg/timegan/data",
-    "title": "tsgan/alg/timegan/data at master · firmai/tsgan · GitHub",
-    "count": 7,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
     "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan · GitHub",
     "count": 6,
     "uniques": 5
   },
   {
+    "path": "/firmai/tsgan/tree/master/alg/timegan/data",
+    "title": "tsgan/alg/timegan/data at master · firmai/tsgan · GitHub",
+    "count": 5,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tgan.py",
     "title": "tsgan/tgan.py at master · firmai/tsgan · GitHub",
-    "count": 5,
+    "count": 4,
     "uniques": 4
-  },
-  {
-    "path": "/firmai/tsgan/blob/master/alg/timegan/data/GOOGLE_BIG.csv",
-    "title": "tsgan/GOOGLE_BIG.csv at master · firmai/tsgan · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/tsgan/blob/master/alg/timegan/data/GOOGtest.csv",
-    "title": "tsgan/GOOGtest.csv at master · firmai/tsgan · GitHub",
-    "count": 3,
-    "uniques": 2
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/timegan/main.py",
     "title": "tsgan/main.py at master · firmai/tsgan · GitHub",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/README.md",
+    "title": "tsgan/README.md at master · firmai/tsgan · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/alg/timegan/data/GOOG.csv",
+    "title": "tsgan/GOOG.csv at master · firmai/tsgan · GitHub",
+    "count": 2,
     "uniques": 2
   }
 ]
