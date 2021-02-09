@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 50,
+    "count": 46,
     "uniques": 31
   },
   {
     "referrer": "github.com",
-    "count": 17,
-    "uniques": 13
+    "count": 19,
+    "uniques": 14
   },
   {
     "referrer": "colab.research.google.com",
@@ -18,6 +18,11 @@
     "referrer": "linkedin.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "mail.google.com",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "Baidu",

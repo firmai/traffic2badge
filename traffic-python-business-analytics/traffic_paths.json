@@ -2,14 +2,8 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 175,
+    "count": 182,
     "uniques": 109
-  },
-  {
-    "path": "/firmai/python-business-analytics/tree/master/data",
-    "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 14,
-    "uniques": 10
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
@@ -18,15 +12,33 @@
     "uniques": 11
   },
   {
+    "path": "/firmai/python-business-analytics/tree/master/data",
+    "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
+    "count": 12,
+    "uniques": 9
+  },
+  {
     "path": "/firmai/python-business-analytics/tree/master/online",
     "title": "python-business-analytics/online at master · firmai/python-business-analytics...",
-    "count": 10,
-    "uniques": 9
+    "count": 11,
+    "uniques": 10
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/README.md",
     "title": "python-business-analytics/README.md at master · firmai/python-business-analyt...",
     "count": 8,
+    "uniques": 4
+  },
+  {
+    "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
+    "title": "python-business-analytics/Bike_Sharing.ipynb at master · firmai/python-busine...",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/firmai/python-business-analytics/tree/master/data/bike",
+    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
+    "count": 4,
     "uniques": 4
   },
   {
@@ -36,26 +48,14 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
-    "title": "python-business-analytics/Bike_Sharing.ipynb at master · firmai/python-busine...",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/firmai/python-business-analytics/blob/master/data/customer/HR_comma_sep.csv",
-    "title": "python-business-analytics/HR_comma_sep.csv at master · firmai/python-business...",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/python-business-analytics/search",
     "title": "Search · Economic evaluation · GitHub",
     "count": 4,
     "uniques": 2
   },
   {
-    "path": "/firmai/python-business-analytics/tree/master/data/bike",
-    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
+    "path": "/firmai/python-business-analytics/projects",
+    "title": "Projects · firmai/python-business-analytics · GitHub",
     "count": 3,
     "uniques": 3
   }

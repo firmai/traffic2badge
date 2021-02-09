@@ -2,13 +2,19 @@
   {
     "path": "/firmai/data-science-career",
     "title": "GitHub - firmai/data-science-career: Career Resources for Data Science, Machi...",
-    "count": 81,
-    "uniques": 56
+    "count": 84,
+    "uniques": 61
+  },
+  {
+    "path": "/firmai/data-science-career/search",
+    "title": "Search · business analysis course",
+    "count": 5,
+    "uniques": 1
   },
   {
     "path": "/firmai/data-science-career/blob/master/README.md",
     "title": "data-science-career/README.md at master · firmai/data-science-career · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   }
 ]

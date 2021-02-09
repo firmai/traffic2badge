@@ -2,32 +2,32 @@
   {
     "path": "/firmai/atspy",
     "title": "GitHub - firmai/atspy: AtsPy: Automated Time Series Models in Python (by @fir...",
-    "count": 247,
-    "uniques": 109
+    "count": 229,
+    "uniques": 107
   },
   {
     "path": "/firmai/atspy/issues/12",
     "title": "\"ERROR: Could not find a version that satisfies the requirement dataclasses==...",
-    "count": 164,
-    "uniques": 138
+    "count": 159,
+    "uniques": 133
   },
   {
     "path": "/firmai/atspy/issues",
     "title": "Issues · firmai/atspy · GitHub",
-    "count": 43,
-    "uniques": 11
+    "count": 42,
+    "uniques": 10
   },
   {
     "path": "/firmai/atspy/blob/master/requirements.txt",
     "title": "atspy/requirements.txt at master · firmai/atspy · GitHub",
-    "count": 23,
-    "uniques": 10
+    "count": 22,
+    "uniques": 9
   },
   {
     "path": "/firmai/atspy/issues/7",
     "title": "Installation issue · Issue #7 · firmai/atspy · GitHub",
-    "count": 18,
-    "uniques": 12
+    "count": 19,
+    "uniques": 13
   },
   {
     "path": "/firmai/atspy/tree/master/atspy",
@@ -42,12 +42,6 @@
     "uniques": 4
   },
   {
-    "path": "/firmai/atspy/search",
-    "title": "Search · arima",
-    "count": 6,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/atspy/tree/master/atspy_files",
     "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
     "count": 5,
@@ -58,5 +52,11 @@
     "title": "Key error when using ensemble · Issue #18 · firmai/atspy",
     "count": 5,
     "uniques": 1
+  },
+  {
+    "path": "/firmai/atspy/blob/master/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf",
+    "title": "atspy/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf at master · firma...",
+    "count": 4,
+    "uniques": 4
   }
 ]
