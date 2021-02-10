@@ -2,14 +2,20 @@
   {
     "path": "/firmai/awesome-google-colab",
     "title": "GitHub - firmai/awesome-google-colab: Google Colaboratory Notebooks and Repos...",
-    "count": 376,
-    "uniques": 214
+    "count": 383,
+    "uniques": 218
   },
   {
     "path": "/firmai/awesome-google-colab/tree/master/assets",
     "title": "awesome-google-colab/assets at master · firmai/awesome-google-colab · GitHub",
-    "count": 18,
-    "uniques": 16
+    "count": 22,
+    "uniques": 18
+  },
+  {
+    "path": "/firmai/awesome-google-colab/blob/master/assets/colab.png",
+    "title": "awesome-google-colab/colab.png at master · firmai/awesome-google-colab · GitHub",
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/firmai/awesome-google-colab/issues",
@@ -20,8 +26,8 @@
   {
     "path": "/firmai/awesome-google-colab/blob/master/README.md",
     "title": "awesome-google-colab/README.md at master · firmai/awesome-google-colab · GitHub",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/firmai/awesome-google-colab/pulls",
@@ -30,9 +36,9 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab.png",
-    "title": "awesome-google-colab/colab.png at master · firmai/awesome-google-colab · GitHub",
-    "count": 3,
+    "path": "/firmai/awesome-google-colab/blob/master/assets/colab1.png",
+    "title": "awesome-google-colab/colab1.png at master · firmai/awesome-google-colab · Git...",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -44,12 +50,6 @@
   {
     "path": "/firmai/awesome-google-colab/blob/abc479fce7c66ca9b450207e43bf7e587ca3080d/assets/empty.ipynb",
     "title": "awesome-google-colab/empty.ipynb at abc479fce7c66ca9b450207e43bf7e587ca3080d ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab1.png",
-    "title": "awesome-google-colab/colab1.png at master · firmai/awesome-google-colab · Git...",
     "count": 1,
     "uniques": 1
   },

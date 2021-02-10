@@ -6,22 +6,17 @@
   },
   {
     "referrer": "github.com",
-    "count": 42,
-    "uniques": 35
+    "count": 45,
+    "uniques": 38
+  },
+  {
+    "referrer": "1point3acres.com",
+    "count": 9,
+    "uniques": 5
   },
   {
     "referrer": "reddit.com",
     "count": 6,
-    "uniques": 4
-  },
-  {
-    "referrer": "analyticsindiamag.com",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "referrer": "1point3acres.com",
-    "count": 4,
     "uniques": 4
   },
   {
@@ -31,7 +26,12 @@
   },
   {
     "referrer": "medium.com",
-    "count": 2,
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "analyticsindiamag.com",
+    "count": 3,
     "uniques": 2
   },
   {

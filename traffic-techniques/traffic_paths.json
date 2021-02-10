@@ -2,8 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 7,
-    "uniques": 6
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/cdt/causality/graph/PC.py",
@@ -30,6 +30,12 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/dInvest-master/trading/contract/ContractHandler.py",
+    "title": "techniques/ContractHandler.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · f...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/examples/Discovery_LUCAS.ipynb",
     "title": "techniques/Discovery_LUCAS.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e ...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks/code_networks/slicing.py",
     "title": "techniques/slicing.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/te...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/master/Decision%20Making/Corporate%20Finance/EDA.ipynb",
-    "title": "techniques/EDA.ipynb at master · firmai/techniques",
     "count": 1,
     "uniques": 1
   }

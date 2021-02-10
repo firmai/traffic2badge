@@ -1,11 +1,11 @@
 [
   {
-    "referrer": "ahrefs.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "github.com",
+    "count": 3,
+    "uniques": 3
   },
   {
-    "referrer": "github.com",
+    "referrer": "ahrefs.com",
     "count": 2,
     "uniques": 2
   },
