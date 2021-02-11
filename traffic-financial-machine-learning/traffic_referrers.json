@@ -1,22 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 869,
-    "uniques": 480
+    "count": 874,
+    "uniques": 454
   },
   {
     "referrer": "github.com",
-    "count": 249,
-    "uniques": 98
+    "count": 222,
+    "uniques": 93
   },
   {
     "referrer": "kaggle.com",
-    "count": 188,
-    "uniques": 115
+    "count": 182,
+    "uniques": 109
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 29,
+    "count": 30,
     "uniques": 17
   },
   {
@@ -30,17 +30,17 @@
     "uniques": 4
   },
   {
+    "referrer": "Bing",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "referrer": "cn.bing.com",
     "count": 3,
     "uniques": 3
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "referrer": "Bing",
     "count": 3,
     "uniques": 2
   },

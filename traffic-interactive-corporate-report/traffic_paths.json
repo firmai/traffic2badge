@@ -2,14 +2,26 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 62,
-    "uniques": 34
+    "count": 74,
+    "uniques": 36
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/processing",
     "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/data",
+    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
     "count": 4,
-    "uniques": 2
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/functionality/angellist/angel_sel.py",
+    "title": "interactive-corporate-report/angel_sel.py at master · firmai/interactive-corp...",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/main.py",
@@ -24,8 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/tree/master/data",
-    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
+    "path": "/firmai/interactive-corporate-report/tree/master/data/closure",
+    "title": "interactive-corporate-report/data/closure at master · firmai/interactive-corp...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/files",
+    "title": "interactive-corporate-report/files at master · firmai/interactive-corporate-r...",
     "count": 2,
     "uniques": 2
   },
@@ -36,26 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/blob/master/processing/Final%20Real%20Metrics.ipynb",
-    "title": "interactive-corporate-report/Final Real Metrics.ipynb at master · firmai/inte...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/processing/processing_df_stock.ipynb",
-    "title": "interactive-corporate-report/processing_df_stock.ipynb at master · firmai/int...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/branches",
-    "title": "Branches · firmai/interactive-corporate-report",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/projects",
-    "title": "Projects · firmai/interactive-corporate-report",
+    "path": "/firmai/interactive-corporate-report/blob/master/data/closure/bulla_Run1.csv",
+    "title": "interactive-corporate-report/bulla_Run1.csv at master · firmai/interactive-co...",
     "count": 2,
     "uniques": 1
   }

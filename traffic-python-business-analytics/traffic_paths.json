@@ -2,8 +2,14 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 189,
-    "uniques": 114
+    "count": 196,
+    "uniques": 117
+  },
+  {
+    "path": "/firmai/python-business-analytics/tree/master/data",
+    "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
+    "count": 13,
+    "uniques": 9
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
@@ -14,14 +20,8 @@
   {
     "path": "/firmai/python-business-analytics/tree/master/online",
     "title": "python-business-analytics/online at master · firmai/python-business-analytics...",
-    "count": 11,
+    "count": 12,
     "uniques": 10
-  },
-  {
-    "path": "/firmai/python-business-analytics/tree/master/data",
-    "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 10,
-    "uniques": 8
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/README.md",
@@ -32,19 +32,25 @@
   {
     "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
     "title": "python-business-analytics/Bike_Sharing.ipynb at master · firmai/python-busine...",
-    "count": 5,
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/firmai/python-business-analytics/tree/master/data/customer",
+    "title": "python-business-analytics/data/customer at master · firmai/python-business-an...",
+    "count": 6,
     "uniques": 4
   },
   {
     "path": "/firmai/python-business-analytics/projects",
     "title": "Projects · firmai/python-business-analytics · GitHub",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data/bike",
     "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
-    "count": 4,
+    "count": 5,
     "uniques": 4
   },
   {
@@ -52,11 +58,5 @@
     "title": "python-business-analytics/datascience.png at master · firmai/python-business-...",
     "count": 4,
     "uniques": 3
-  },
-  {
-    "path": "/firmai/python-business-analytics/search",
-    "title": "Search · Economic evaluation · GitHub",
-    "count": 4,
-    "uniques": 2
   }
 ]
