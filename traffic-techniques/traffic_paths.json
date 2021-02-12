@@ -2,8 +2,14 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 9,
-    "uniques": 8
+    "count": 8,
+    "uniques": 7
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio/examples/bayesian.ipynb",
+    "title": "techniques/bayesian.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firma...",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/cdt/causality/graph/PC.py",
@@ -24,14 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks",
-    "title": "techniques/Networks at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/tech...",
-    "count": 2,
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/dInvest-master/trading/contract/ContractHandler.py",
+    "title": "techniques/ContractHandler.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · f...",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/dInvest-master/trading/contract/ContractHandler.py",
-    "title": "techniques/ContractHandler.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · f...",
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio/examples/fama_french_benchmark.ipynb",
+    "title": "techniques/fama_french_benchmark.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6...",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/causal_regression.ipynb",
     "title": "techniques/causal_regression.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks/code_networks/slicing.py",
-    "title": "techniques/slicing.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/te...",
     "count": 1,
     "uniques": 1
   }

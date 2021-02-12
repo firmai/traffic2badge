@@ -2,25 +2,25 @@
   {
     "path": "/firmai/pandapy",
     "title": "GitHub - firmai/pandapy: PandaPy has the speed of NumPy and the usability of ...",
-    "count": 93,
-    "uniques": 79
+    "count": 86,
+    "uniques": 73
   },
   {
     "path": "/firmai/pandapy/tree/master/PandaPy_files",
     "title": "pandapy/PandaPy_files at master · firmai/pandapy · GitHub",
-    "count": 10,
-    "uniques": 9
-  },
-  {
-    "path": "/firmai/pandapy/blob/master/README.md",
-    "title": "pandapy/README.md at master · firmai/pandapy · GitHub",
-    "count": 6,
-    "uniques": 6
+    "count": 9,
+    "uniques": 8
   },
   {
     "path": "/firmai/pandapy/tree/master/pandapy",
     "title": "pandapy/pandapy at master · firmai/pandapy",
-    "count": 6,
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/pandapy/blob/master/README.md",
+    "title": "pandapy/README.md at master · firmai/pandapy · GitHub",
+    "count": 4,
     "uniques": 4
   },
   {
@@ -30,15 +30,15 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/pandapy/blob/master/pandapy/__init__.py",
-    "title": "pandapy/__init__.py at master · firmai/pandapy",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/firmai/pandapy/issues/2",
     "title": "Question: Why faster until 50k to 500k rows? · Issue #2 · firmai/pandapy · Gi...",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/pandapy/blob/master/pandapy/__init__.py",
+    "title": "pandapy/__init__.py at master · firmai/pandapy",
+    "count": 2,
     "uniques": 2
   },
   {

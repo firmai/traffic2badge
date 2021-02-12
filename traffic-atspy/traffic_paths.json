@@ -2,38 +2,44 @@
   {
     "path": "/firmai/atspy",
     "title": "GitHub - firmai/atspy: AtsPy: Automated Time Series Models in Python (by @fir...",
-    "count": 217,
-    "uniques": 108
+    "count": 195,
+    "uniques": 104
   },
   {
     "path": "/firmai/atspy/issues/12",
     "title": "\"ERROR: Could not find a version that satisfies the requirement dataclasses==...",
-    "count": 160,
-    "uniques": 132
+    "count": 149,
+    "uniques": 125
   },
   {
     "path": "/firmai/atspy/issues",
     "title": "Issues · firmai/atspy · GitHub",
-    "count": 50,
-    "uniques": 10
-  },
-  {
-    "path": "/firmai/atspy/blob/master/requirements.txt",
-    "title": "atspy/requirements.txt at master · firmai/atspy",
-    "count": 21,
-    "uniques": 8
-  },
-  {
-    "path": "/firmai/atspy/issues/7",
-    "title": "Installation issue · Issue #7 · firmai/atspy · GitHub",
-    "count": 19,
-    "uniques": 13
+    "count": 51,
+    "uniques": 12
   },
   {
     "path": "/firmai/atspy/tree/master/atspy",
     "title": "atspy/atspy at master · firmai/atspy · GitHub",
-    "count": 11,
-    "uniques": 9
+    "count": 19,
+    "uniques": 12
+  },
+  {
+    "path": "/firmai/atspy/blob/master/requirements.txt",
+    "title": "atspy/requirements.txt at master · firmai/atspy",
+    "count": 19,
+    "uniques": 6
+  },
+  {
+    "path": "/firmai/atspy/issues/7",
+    "title": "Installation issue · Issue #7 · firmai/atspy · GitHub",
+    "count": 15,
+    "uniques": 11
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy/TS",
+    "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
+    "count": 10,
+    "uniques": 7
   },
   {
     "path": "/firmai/atspy/issues/2",
@@ -42,21 +48,15 @@
     "uniques": 5
   },
   {
-    "path": "/firmai/atspy/pulls",
-    "title": "Pull requests · firmai/atspy",
-    "count": 6,
-    "uniques": 3
-  },
-  {
-    "path": "/firmai/atspy/issues/28",
-    "title": "Plot Prediction Interval · Issue #28 · firmai/atspy · GitHub",
-    "count": 5,
-    "uniques": 4
-  },
-  {
     "path": "/firmai/atspy/tree/master/atspy_files",
     "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
+    "count": 6,
+    "uniques": 6
+  },
+  {
+    "path": "/firmai/atspy/pulls",
+    "title": "Pull requests · firmai/atspy",
     "count": 5,
-    "uniques": 4
+    "uniques": 3
   }
 ]

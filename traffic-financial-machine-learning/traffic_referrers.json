@@ -1,23 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 874,
-    "uniques": 454
+    "count": 888,
+    "uniques": 465
   },
   {
     "referrer": "github.com",
-    "count": 222,
-    "uniques": 93
+    "count": 223,
+    "uniques": 92
   },
   {
     "referrer": "kaggle.com",
-    "count": 182,
-    "uniques": 109
+    "count": 185,
+    "uniques": 110
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 30,
-    "uniques": 17
+    "count": 26,
+    "uniques": 14
+  },
+  {
+    "referrer": "Bing",
+    "count": 14,
+    "uniques": 5
   },
   {
     "referrer": "t.co",
@@ -26,18 +31,8 @@
   },
   {
     "referrer": "firmai.org",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "referrer": "Bing",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "referrer": "cn.bing.com",
-    "count": 3,
-    "uniques": 3
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "link.zhihu.com",
@@ -45,8 +40,13 @@
     "uniques": 2
   },
   {
-    "referrer": "Yahoo",
+    "referrer": "l.facebook.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "cn.bing.com",
+    "count": 1,
     "uniques": 1
   }
 ]

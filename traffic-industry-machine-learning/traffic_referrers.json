@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 232,
-    "uniques": 131
+    "count": 244,
+    "uniques": 148
   },
   {
     "referrer": "github.com",
-    "count": 124,
-    "uniques": 68
+    "count": 118,
+    "uniques": 66
   },
   {
     "referrer": "firmai.org",
-    "count": 36,
-    "uniques": 18
-  },
-  {
-    "referrer": "l.facebook.com",
-    "count": 15,
-    "uniques": 2
+    "count": 40,
+    "uniques": 21
   },
   {
     "referrer": "reddit.com",
+    "count": 14,
+    "uniques": 12
+  },
+  {
+    "referrer": "l.facebook.com",
     "count": 13,
-    "uniques": 11
+    "uniques": 1
   },
   {
     "referrer": "jonkrohn.com",

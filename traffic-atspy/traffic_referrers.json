@@ -1,28 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 214,
-    "uniques": 160
+    "count": 205,
+    "uniques": 155
   },
   {
     "referrer": "github.com",
     "count": 36,
-    "uniques": 26
+    "uniques": 27
   },
   {
     "referrer": "pypi.org",
-    "count": 15,
-    "uniques": 6
+    "count": 12,
+    "uniques": 5
   },
   {
     "referrer": "reddit.com",
-    "count": 11,
-    "uniques": 6
-  },
-  {
-    "referrer": "Bing",
-    "count": 4,
-    "uniques": 4
+    "count": 6,
+    "uniques": 5
   },
   {
     "referrer": "sktime.org",
@@ -35,14 +30,19 @@
     "uniques": 3
   },
   {
-    "referrer": "linkedin.com",
+    "referrer": "Bing",
     "count": 3,
-    "uniques": 1
+    "uniques": 3
   },
   {
     "referrer": "ecosia.org",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "linkedin.com",
+    "count": 2,
+    "uniques": 1
   },
   {
     "referrer": "yandex.ru",
