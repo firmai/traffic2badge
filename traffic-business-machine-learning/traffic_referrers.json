@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 70,
-    "uniques": 45
+    "count": 65,
+    "uniques": 44
   },
   {
     "referrer": "github.com",
     "count": 33,
-    "uniques": 21
+    "uniques": 19
   },
   {
     "referrer": "reddit.com",
-    "count": 11,
-    "uniques": 6
+    "count": 15,
+    "uniques": 8
   },
   {
     "referrer": "youtube.com",

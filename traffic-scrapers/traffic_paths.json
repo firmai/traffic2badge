@@ -2,12 +2,12 @@
   {
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
-    "count": 20,
-    "uniques": 16
+    "count": 18,
+    "uniques": 15
   },
   {
     "path": "/firmai/scrapers/blob/master/doordash/doordash_sel.py",
-    "title": "scrapers/doordash_sel.py at master · firmai/scrapers",
+    "title": "scrapers/doordash_sel.py at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -24,12 +24,6 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/tree/master/doordash",
-    "title": "scrapers/doordash at master · firmai/scrapers",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/scrapers/blob/aabe30356e7797861494524271e4180e56a24067/doordash/doordash_sel.py",
     "title": "scrapers/doordash_sel.py at aabe30356e7797861494524271e4180e56a24067 · firmai...",
     "count": 1,
@@ -42,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/scrapers/blob/master/eat24/eat24hours.py",
-    "title": "scrapers/eat24hours.py at master · firmai/scrapers · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/scrapers/blob/master/facebook/fb_scrap_python3.py",
     "title": "scrapers/fb_scrap_python3.py at master · firmai/scrapers · GitHub",
     "count": 1,
@@ -56,6 +44,18 @@
   {
     "path": "/firmai/scrapers/blob/master/facebook/fb_scrap_status.py",
     "title": "scrapers/fb_scrap_status.py at master · firmai/scrapers · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/blob/master/Inside%20VC/vc_scraper.py",
+    "title": "scrapers/vc_scraper.py at master · firmai/scrapers · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/blob/master/instagram/insta.py",
+    "title": "scrapers/insta.py at master · firmai/scrapers",
     "count": 1,
     "uniques": 1
   }

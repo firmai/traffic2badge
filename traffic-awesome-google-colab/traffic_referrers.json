@@ -2,17 +2,17 @@
   {
     "referrer": "Google",
     "count": 189,
-    "uniques": 141
+    "uniques": 142
   },
   {
     "referrer": "github.com",
     "count": 53,
-    "uniques": 42
+    "uniques": 40
   },
   {
     "referrer": "1point3acres.com",
-    "count": 9,
-    "uniques": 5
+    "count": 10,
+    "uniques": 6
   },
   {
     "referrer": "reddit.com",
@@ -20,14 +20,14 @@
     "uniques": 5
   },
   {
-    "referrer": "blog.etereo.io",
-    "count": 4,
+    "referrer": "analyticsindiamag.com",
+    "count": 5,
     "uniques": 3
   },
   {
-    "referrer": "analyticsindiamag.com",
-    "count": 3,
-    "uniques": 2
+    "referrer": "blog.etereo.io",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "medium.com",
@@ -35,17 +35,17 @@
     "uniques": 2
   },
   {
-    "referrer": "blackboard.vsu.edu",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "colab.research.google.com",
-    "count": 2,
+    "referrer": "anpri.edu.pt",
+    "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "anpri.edu.pt",
+    "referrer": "awesomeopensource.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "blackboard.vsu.edu",
     "count": 1,
     "uniques": 1
   }

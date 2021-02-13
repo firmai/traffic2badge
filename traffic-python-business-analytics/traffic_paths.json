@@ -2,8 +2,8 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 200,
-    "uniques": 119
+    "count": 199,
+    "uniques": 118
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/online",
@@ -26,8 +26,14 @@
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
     "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 8,
-    "uniques": 5
+    "count": 9,
+    "uniques": 6
+  },
+  {
+    "path": "/firmai/python-business-analytics/projects",
+    "title": "Projects · firmai/python-business-analytics · GitHub",
+    "count": 6,
+    "uniques": 6
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
@@ -40,12 +46,6 @@
     "title": "Issues · firmai/python-business-analytics · GitHub",
     "count": 6,
     "uniques": 3
-  },
-  {
-    "path": "/firmai/python-business-analytics/projects",
-    "title": "Projects · firmai/python-business-analytics · GitHub",
-    "count": 5,
-    "uniques": 5
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data/customer",

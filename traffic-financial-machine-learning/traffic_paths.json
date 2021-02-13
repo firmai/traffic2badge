@@ -2,20 +2,26 @@
   {
     "path": "/firmai/financial-machine-learning",
     "title": "GitHub - firmai/financial-machine-learning: A curated list of practical finan...",
-    "count": 1803,
-    "uniques": 805
+    "count": 1856,
+    "uniques": 832
   },
   {
     "path": "/firmai/financial-machine-learning/blob/master/README.md",
     "title": "financial-machine-learning/README.md at master · firmai/financial-machine-lea...",
-    "count": 53,
-    "uniques": 36
+    "count": 52,
+    "uniques": 35
   },
   {
-    "path": "/firmai/financial-machine-learning/commit/1cd8db7b0fd1152c8319f0b8b1e78425878c07f2",
-    "title": "Merge pull request #2 from AJV009/master · firmai/financial-machine-learning@...",
-    "count": 3,
+    "path": "/firmai/financial-machine-learning/search",
+    "title": "Search · insurance product",
+    "count": 4,
     "uniques": 3
+  },
+  {
+    "path": "/firmai/financial-machine-learning/commits",
+    "title": "Commits · firmai/financial-machine-learning · GitHub",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/firmai/financial-machine-learning/issues",
@@ -30,26 +36,20 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/financial-machine-learning/commit/1cd8db7b0fd1152c8319f0b8b1e78425878c07f2",
+    "title": "Merge pull request #2 from AJV009/master · firmai/financial-machine-learning@...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/financial-machine-learning/pull/2",
     "title": "Update README.md by AJV009 · Pull Request #2 · firmai/financial-machine-learn...",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/firmai/financial-machine-learning/search",
-    "title": "Search · insurance product",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/financial-machine-learning/branches",
     "title": "Branches · firmai/financial-machine-learning · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/financial-machine-learning/commits",
-    "title": "Commits · firmai/financial-machine-learning · GitHub",
     "count": 1,
     "uniques": 1
   },

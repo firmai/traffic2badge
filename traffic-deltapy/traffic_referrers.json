@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 25,
-    "uniques": 21
+    "count": 28,
+    "uniques": 24
   },
   {
     "referrer": "github.com",
@@ -11,16 +11,21 @@
   },
   {
     "referrer": "fullstackfeed.com",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
-    "referrer": "t.co",
+    "referrer": "amitness.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "amitness.com",
+    "referrer": "pypi.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "t.co",
     "count": 1,
     "uniques": 1
   },

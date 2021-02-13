@@ -2,26 +2,20 @@
   {
     "path": "/firmai/business-machine-learning",
     "title": "GitHub - firmai/business-machine-learning: A curated list of practical busine...",
-    "count": 128,
-    "uniques": 75
+    "count": 116,
+    "uniques": 72
   },
   {
     "path": "/firmai/business-machine-learning/blob/master/README.md",
     "title": "business-machine-learning/README.md at master · firmai/business-machine-learn...",
-    "count": 34,
-    "uniques": 19
+    "count": 38,
+    "uniques": 21
   },
   {
     "path": "/firmai/business-machine-learning/tree/master/assets",
     "title": "business-machine-learning/assets at master · firmai/business-machine-learning...",
-    "count": 10,
-    "uniques": 9
-  },
-  {
-    "path": "/firmai/business-machine-learning/issues",
-    "title": "Issues · firmai/business-machine-learning · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/firmai/business-machine-learning/projects",
@@ -50,6 +44,12 @@
   {
     "path": "/firmai/business-machine-learning/commit/9027919d79764b7501ad281a0ae0bedbc22402eb",
     "title": "Add files via upload · firmai/business-machine-learning@9027919 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/business-machine-learning/issues",
+    "title": "Issues · firmai/business-machine-learning",
     "count": 1,
     "uniques": 1
   }
