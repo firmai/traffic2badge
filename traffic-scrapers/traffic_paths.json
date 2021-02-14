@@ -2,18 +2,12 @@
   {
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
-    "count": 18,
-    "uniques": 15
+    "count": 14,
+    "uniques": 11
   },
   {
     "path": "/firmai/scrapers/blob/master/doordash/doordash_sel.py",
     "title": "scrapers/doordash_sel.py at master · firmai/scrapers · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/scrapers/tree/master/angellist",
-    "title": "scrapers/angellist at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -26,12 +20,6 @@
   {
     "path": "/firmai/scrapers/blob/aabe30356e7797861494524271e4180e56a24067/doordash/doordash_sel.py",
     "title": "scrapers/doordash_sel.py at aabe30356e7797861494524271e4180e56a24067 · firmai...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/scrapers/blob/master/angellist/angel_sel.py",
-    "title": "scrapers/angel_sel.py at master · firmai/scrapers · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/firmai/scrapers/blob/master/instagram/insta.py",
     "title": "scrapers/insta.py at master · firmai/scrapers",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/blob/master/morningstar/morningstarscraper.py",
+    "title": "scrapers/morningstarscraper.py at master · firmai/scrapers · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/tree/master/angellist",
+    "title": "scrapers/angellist at master · firmai/scrapers · GitHub",
     "count": 1,
     "uniques": 1
   }

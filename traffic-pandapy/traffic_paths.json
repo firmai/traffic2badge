@@ -13,8 +13,14 @@
   },
   {
     "path": "/firmai/pandapy/tree/master/pandapy",
-    "title": "pandapy/pandapy at master · firmai/pandapy",
-    "count": 7,
+    "title": "pandapy/pandapy at master · firmai/pandapy · GitHub",
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "path": "/firmai/pandapy/blob/master/README.md",
+    "title": "pandapy/README.md at master · firmai/pandapy · GitHub",
+    "count": 4,
     "uniques": 4
   },
   {
@@ -24,10 +30,10 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/pandapy/blob/master/README.md",
-    "title": "pandapy/README.md at master · firmai/pandapy · GitHub",
-    "count": 3,
-    "uniques": 3
+    "path": "/firmai/pandapy/find/master",
+    "title": "File Finder · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/firmai/pandapy/blob/master/.gitattributes",
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/pandapy/commit/214ab7dd9132c96805eb42e1ff9c7258c92e010c",
     "title": "Update README.md · firmai/pandapy@214ab7d · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/pandapy/find/master",
-    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   }
