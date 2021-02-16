@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 899,
-    "uniques": 476
+    "count": 875,
+    "uniques": 460
   },
   {
     "referrer": "github.com",
-    "count": 211,
-    "uniques": 88
+    "count": 206,
+    "uniques": 85
   },
   {
     "referrer": "kaggle.com",
-    "count": 208,
-    "uniques": 123
+    "count": 192,
+    "uniques": 111
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 22,
-    "uniques": 12
+    "count": 23,
+    "uniques": 13
   },
   {
     "referrer": "Bing",
-    "count": 14,
-    "uniques": 6
+    "count": 15,
+    "uniques": 7
   },
   {
     "referrer": "firmai.org",
@@ -30,7 +30,12 @@
     "uniques": 4
   },
   {
-    "referrer": "reddit.com",
+    "referrer": "t.co",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "andreaprovino.it",
     "count": 2,
     "uniques": 2
   },
@@ -40,12 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "mail.google.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "link.zhihu.com",
+    "referrer": "reddit.com",
     "count": 1,
     "uniques": 1
   }

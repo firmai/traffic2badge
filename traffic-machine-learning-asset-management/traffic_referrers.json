@@ -1,38 +1,38 @@
 [
   {
     "referrer": "github.com",
-    "count": 111,
-    "uniques": 73
+    "count": 109,
+    "uniques": 72
   },
   {
     "referrer": "Google",
-    "count": 99,
-    "uniques": 68
+    "count": 95,
+    "uniques": 64
   },
   {
     "referrer": "reddit.com",
-    "count": 28,
-    "uniques": 18
+    "count": 27,
+    "uniques": 17
   },
   {
     "referrer": "news.ycombinator.com",
-    "count": 10,
+    "count": 8,
     "uniques": 1
   },
   {
-    "referrer": "theparlour.substack.com",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "referrer": "colab.research.google.com",
-    "count": 6,
-    "uniques": 2
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "referrer": "theparlour.substack.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "Bing",

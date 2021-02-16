@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 254,
-    "uniques": 151
+    "count": 249,
+    "uniques": 147
   },
   {
     "referrer": "github.com",
-    "count": 107,
-    "uniques": 63
+    "count": 90,
+    "uniques": 57
   },
   {
     "referrer": "firmai.org",
-    "count": 34,
-    "uniques": 16
+    "count": 39,
+    "uniques": 19
   },
   {
     "referrer": "reddit.com",
-    "count": 13,
-    "uniques": 11
+    "count": 15,
+    "uniques": 12
   },
   {
     "referrer": "l.facebook.com",
@@ -26,7 +26,7 @@
   },
   {
     "referrer": "Bing",
-    "count": 6,
+    "count": 5,
     "uniques": 5
   },
   {

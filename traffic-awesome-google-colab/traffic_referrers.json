@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 183,
-    "uniques": 139
+    "count": 181,
+    "uniques": 138
   },
   {
     "referrer": "github.com",
-    "count": 53,
-    "uniques": 40
+    "count": 51,
+    "uniques": 38
   },
   {
     "referrer": "1point3acres.com",
-    "count": 11,
-    "uniques": 7
+    "count": 13,
+    "uniques": 8
   },
   {
     "referrer": "reddit.com",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "anpri.edu.pt",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "news.ycombinator.com",
     "count": 1,
     "uniques": 1
   }

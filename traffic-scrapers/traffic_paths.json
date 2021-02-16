@@ -2,26 +2,14 @@
   {
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
-    "count": 14,
-    "uniques": 11
+    "count": 11,
+    "uniques": 9
   },
   {
     "path": "/firmai/scrapers/blob/master/doordash/doordash_sel.py",
     "title": "scrapers/doordash_sel.py at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/firmai/scrapers/tree/master/instagram",
-    "title": "scrapers/instagram at master · firmai/scrapers · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/scrapers/blob/aabe30356e7797861494524271e4180e56a24067/doordash/doordash_sel.py",
-    "title": "scrapers/doordash_sel.py at aabe30356e7797861494524271e4180e56a24067 · firmai...",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/firmai/scrapers/blob/master/facebook/fb_scrap_python3.py",
@@ -56,6 +44,18 @@
   {
     "path": "/firmai/scrapers/tree/master/angellist",
     "title": "scrapers/angellist at master · firmai/scrapers · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/tree/master/doordash",
+    "title": "scrapers/doordash at master · firmai/scrapers · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/tree/master/facebook",
+    "title": "scrapers/facebook at master · firmai/scrapers · GitHub",
     "count": 1,
     "uniques": 1
   }
