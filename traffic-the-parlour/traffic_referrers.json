@@ -1,7 +1,12 @@
 [
   {
     "referrer": "theparlour.substack.com",
-    "count": 10,
-    "uniques": 8
+    "count": 8,
+    "uniques": 6
+  },
+  {
+    "referrer": "Google",
+    "count": 1,
+    "uniques": 1
   }
 ]

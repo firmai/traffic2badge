@@ -2,20 +2,14 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 78,
-    "uniques": 32
+    "count": 70,
+    "uniques": 30
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data",
     "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
     "count": 14,
     "uniques": 5
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/processing",
-    "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
-    "count": 11,
-    "uniques": 4
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/functionality",
@@ -26,6 +20,12 @@
   {
     "path": "/firmai/interactive-corporate-report/tree/master/files",
     "title": "interactive-corporate-report/files at master · firmai/interactive-corporate-r...",
+    "count": 8,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/processing",
+    "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
     "count": 8,
     "uniques": 3
   },
@@ -42,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/interactive-corporate-report/blob/master/main.py",
-    "title": "interactive-corporate-report/main.py at master · firmai/interactive-corporate...",
-    "count": 6,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/interactive-corporate-report/blob/master/processing/Final%20Real%20Metrics.ipynb",
     "title": "interactive-corporate-report/Final Real Metrics.ipynb at master · firmai/inte...",
     "count": 5,
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/interactive-corporate-report/tree/master/functionality/angellist",
     "title": "interactive-corporate-report/functionality/angellist at master · firmai/inter...",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/misc",
+    "title": "interactive-corporate-report/misc at master · firmai/interactive-corporate-re...",
     "count": 5,
     "uniques": 2
   }

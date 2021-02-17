@@ -1,22 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 181,
-    "uniques": 138
+    "count": 180,
+    "uniques": 140
   },
   {
     "referrer": "github.com",
-    "count": 51,
-    "uniques": 38
+    "count": 48,
+    "uniques": 37
   },
   {
     "referrer": "1point3acres.com",
-    "count": 13,
-    "uniques": 8
+    "count": 14,
+    "uniques": 9
   },
   {
     "referrer": "reddit.com",
-    "count": 8,
+    "count": 7,
     "uniques": 6
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "news.ycombinator.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "news.ycombinator.com",
+    "referrer": "inf.ufpr.br",
     "count": 1,
     "uniques": 1
   }

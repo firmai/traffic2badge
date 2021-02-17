@@ -2,8 +2,14 @@
   {
     "path": "/firmai/techniques",
     "title": "firmai/techniques: Jupyter Notebook and Python business intelligence tools an...",
-    "count": 5,
+    "count": 6,
     "uniques": 5
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
+    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio/examples/bayesian.ipynb",
@@ -14,24 +20,6 @@
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Analyze_ab_test_results.ipynb",
     "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/cdt/causality/graph/PC.py",
-    "title": "techniques/PC.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/techniq...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master",
-    "title": "techniques/Causal Inference/CausalDiscoveryToolbox-master at 0b15fd6f424074e3...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/cdt/causality/graph",
-    "title": "techniques/Causal Inference/CausalDiscoveryToolbox-master/cdt/causality/graph...",
     "count": 2,
     "uniques": 1
   },
@@ -48,14 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/examples/Discovery_LUCAS.ipynb",
-    "title": "techniques/Discovery_LUCAS.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e ...",
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/causal_regression.ipynb",
+    "title": "techniques/causal_regression.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/r_requirements.txt",
-    "title": "techniques/r_requirements.txt at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · f...",
+    "path": "/firmai/techniques/blob/master/NLP/Disclosures/Counts.ipynb",
+    "title": "techniques/Counts.ipynb at master · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/issues",
+    "title": "Issues · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio",
+    "title": "techniques/Alternative Investments/pyfolio-master/pyfolio at 0b15fd6f424074e3...",
     "count": 1,
     "uniques": 1
   }

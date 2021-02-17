@@ -1,22 +1,22 @@
 [
   {
     "referrer": "github.com",
-    "count": 109,
-    "uniques": 72
+    "count": 107,
+    "uniques": 70
   },
   {
     "referrer": "Google",
-    "count": 95,
-    "uniques": 64
+    "count": 97,
+    "uniques": 62
   },
   {
     "referrer": "reddit.com",
-    "count": 27,
-    "uniques": 17
+    "count": 26,
+    "uniques": 16
   },
   {
     "referrer": "news.ycombinator.com",
-    "count": 8,
+    "count": 7,
     "uniques": 1
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "youtube.com",
+    "referrer": "l.facebook.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "amp-reddit-com.cdn.ampproject.org",
+    "referrer": "youtube.com",
     "count": 1,
     "uniques": 1
   }
