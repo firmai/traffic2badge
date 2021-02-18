@@ -2,42 +2,36 @@
   {
     "path": "/firmai/financial-machine-learning",
     "title": "GitHub - firmai/financial-machine-learning: A curated list of practical finan...",
-    "count": 1843,
-    "uniques": 827
+    "count": 1809,
+    "uniques": 826
   },
   {
     "path": "/firmai/financial-machine-learning/blob/master/README.md",
     "title": "financial-machine-learning/README.md at master · firmai/financial-machine-lea...",
-    "count": 56,
-    "uniques": 41
-  },
-  {
-    "path": "/firmai/financial-machine-learning/commits",
-    "title": "Commits · firmai/financial-machine-learning · GitHub",
-    "count": 6,
-    "uniques": 3
+    "count": 59,
+    "uniques": 43
   },
   {
     "path": "/firmai/financial-machine-learning/search",
     "title": "Search · machine learning for finance · GitHub",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/firmai/financial-machine-learning/commits",
+    "title": "Commits · firmai/financial-machine-learning",
     "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/firmai/financial-machine-learning/issues",
-    "title": "Issues · firmai/financial-machine-learning · GitHub",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/firmai/financial-machine-learning/pulls",
-    "title": "Pull requests · firmai/financial-machine-learning · GitHub",
-    "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/firmai/financial-machine-learning/commit/1cd8db7b0fd1152c8319f0b8b1e78425878c07f2",
     "title": "Merge pull request #2 from AJV009/master · firmai/financial-machine-learning@...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/financial-machine-learning/issues",
+    "title": "Issues · firmai/financial-machine-learning · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -54,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/financial-machine-learning/network/members",
-    "title": "Forks · firmai/financial-machine-learning · GitHub",
+    "path": "/firmai/financial-machine-learning/projects",
+    "title": "Projects · firmai/financial-machine-learning · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/financial-machine-learning/pull/2",
+    "title": "Update README.md by AJV009 · Pull Request #2 · firmai/financial-machine-learn...",
     "count": 1,
     "uniques": 1
   }

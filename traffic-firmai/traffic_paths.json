@@ -2,36 +2,30 @@
   {
     "path": "/firmai/firmai",
     "title": "GitHub - firmai/firmai",
-    "count": 22,
-    "uniques": 16
+    "count": 25,
+    "uniques": 19
   },
   {
     "path": "/firmai/firmai/tree/main/.github/workflows",
     "title": "firmai/.github/workflows at main · firmai/firmai",
-    "count": 3,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
-    "path": "/firmai/firmai/blob/main/README.md",
-    "title": "firmai/README.md at main · firmai/firmai",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/firmai/blob/main/TEMPLATE.md",
-    "title": "firmai/TEMPLATE.md at main · firmai/firmai",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/firmai/edit/main/README.md",
-    "title": "Editing firmai/README.md at main · firmai/firmai",
+    "path": "/firmai/firmai/blob/main/.github/workflows/blog-update.yml",
+    "title": "firmai/blog-update.yml at main · firmai/firmai",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/firmai/edit/main/TEMPLATE.md",
-    "title": "Editing firmai/TEMPLATE.md at main · firmai/firmai",
+    "path": "/firmai/firmai/blob/main/.github/workflows/stats.yml",
+    "title": "firmai/stats.yml at main · firmai/firmai",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/firmai/blob/main/README.md",
+    "title": "firmai/README.md at main · firmai/firmai",
     "count": 1,
     "uniques": 1
   },
@@ -44,6 +38,12 @@
   {
     "path": "/firmai/firmai/pulls",
     "title": "Pull requests · firmai/firmai",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/firmai/tree/main/.github",
+    "title": "firmai/.github at main · firmai/firmai",
     "count": 1,
     "uniques": 1
   }

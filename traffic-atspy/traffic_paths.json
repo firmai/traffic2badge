@@ -2,14 +2,26 @@
   {
     "path": "/firmai/atspy",
     "title": "GitHub - firmai/atspy: AtsPy: Automated Time Series Models in Python (by @fir...",
-    "count": 195,
-    "uniques": 106
+    "count": 212,
+    "uniques": 108
   },
   {
     "path": "/firmai/atspy/issues/12",
     "title": "\"ERROR: Could not find a version that satisfies the requirement dataclasses==...",
-    "count": 113,
-    "uniques": 101
+    "count": 117,
+    "uniques": 105
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy",
+    "title": "atspy/atspy at master · firmai/atspy · GitHub",
+    "count": 49,
+    "uniques": 17
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy/TS",
+    "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
+    "count": 43,
+    "uniques": 14
   },
   {
     "path": "/firmai/atspy/issues",
@@ -18,45 +30,33 @@
     "uniques": 11
   },
   {
-    "path": "/firmai/atspy/tree/master/atspy",
-    "title": "atspy/atspy at master · firmai/atspy · GitHub",
-    "count": 38,
-    "uniques": 14
-  },
-  {
-    "path": "/firmai/atspy/tree/master/atspy/TS",
-    "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
-    "count": 25,
-    "uniques": 12
-  },
-  {
     "path": "/firmai/atspy/tree/master/atspy_files",
     "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
-    "count": 11,
-    "uniques": 8
+    "count": 12,
+    "uniques": 9
   },
   {
     "path": "/firmai/atspy/issues/7",
     "title": "Installation issue · Issue #7 · firmai/atspy · GitHub",
-    "count": 9,
-    "uniques": 7
+    "count": 11,
+    "uniques": 9
   },
   {
     "path": "/firmai/atspy/blob/master/atspy/nbeats.py",
     "title": "atspy/nbeats.py at master · firmai/atspy · GitHub",
-    "count": 8,
-    "uniques": 7
+    "count": 9,
+    "uniques": 8
   },
   {
     "path": "/firmai/atspy/blob/master/atspy/TS/TimeSeriesModel.py",
     "title": "atspy/TimeSeriesModel.py at master · firmai/atspy · GitHub",
-    "count": 8,
-    "uniques": 7
+    "count": 9,
+    "uniques": 8
   },
   {
     "path": "/firmai/atspy/blob/master/requirements.txt",
     "title": "atspy/requirements.txt at master · firmai/atspy · GitHub",
-    "count": 7,
-    "uniques": 6
+    "count": 9,
+    "uniques": 8
   }
 ]
