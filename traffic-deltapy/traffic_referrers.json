@@ -1,23 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 37,
-    "uniques": 24
+    "count": 38,
+    "uniques": 25
   },
   {
     "referrer": "github.com",
-    "count": 9,
-    "uniques": 8
+    "count": 7,
+    "uniques": 7
   },
   {
     "referrer": "sktime.org",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "fullstackfeed.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "ev.turnitin.com",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "pypi.org",
@@ -31,11 +36,6 @@
   },
   {
     "referrer": "news.ycombinator.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "ev.turnitin.com",
     "count": 1,
     "uniques": 1
   }

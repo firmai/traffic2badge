@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/causal_regression.ipynb",
-    "title": "techniques/causal_regression.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/techniques/blob/master/NLP/Disclosures/Counts.ipynb",
     "title": "techniques/Counts.ipynb at master · firmai/techniques",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio",
     "title": "techniques/Alternative Investments/pyfolio-master/pyfolio at 0b15fd6f424074e3...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio/examples",
+    "title": "techniques/Alternative Investments/pyfolio-master/pyfolio/examples at 0b15fd6...",
     "count": 1,
     "uniques": 1
   }

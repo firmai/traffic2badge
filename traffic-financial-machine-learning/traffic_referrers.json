@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 854,
-    "uniques": 478
+    "count": 860,
+    "uniques": 486
   },
   {
     "referrer": "github.com",
-    "count": 180,
-    "uniques": 81
+    "count": 181,
+    "uniques": 80
   },
   {
     "referrer": "kaggle.com",
-    "count": 177,
-    "uniques": 97
+    "count": 170,
+    "uniques": 93
   },
   {
     "referrer": "Bing",
-    "count": 16,
-    "uniques": 8
+    "count": 17,
+    "uniques": 9
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 9,
-    "uniques": 7
+    "count": 10,
+    "uniques": 8
   },
   {
     "referrer": "andreaprovino.it",
@@ -30,7 +30,7 @@
     "uniques": 3
   },
   {
-    "referrer": "firmai.org",
+    "referrer": "web.bale.ai",
     "count": 2,
     "uniques": 2
   },
@@ -40,9 +40,9 @@
     "uniques": 2
   },
   {
-    "referrer": "cn.bing.com",
+    "referrer": "firmai.org",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "referrer": "l.facebook.com",

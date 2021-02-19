@@ -3,7 +3,19 @@
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
     "count": 11,
-    "uniques": 9
+    "uniques": 10
+  },
+  {
+    "path": "/firmai/scrapers/tree/master/glassdoor",
+    "title": "scrapers/glassdoor at master · firmai/scrapers",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/scrapers/search",
+    "title": "Search · puppetter",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/firmai/scrapers/blob/master/doordash/doordash_sel.py",
@@ -24,38 +36,26 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/scrapers/blob/master/glassdoor/glassdoor.py",
+    "title": "scrapers/glassdoor.py at master · firmai/scrapers",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/blob/master/glassdoor/input_fields.csv",
+    "title": "scrapers/input_fields.csv at master · firmai/scrapers",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/blob/master/glassdoor/MSFT_jobs.csv",
+    "title": "scrapers/MSFT_jobs.csv at master · firmai/scrapers",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/firmai/scrapers/blob/master/Inside%20VC/vc_scraper.py",
     "title": "scrapers/vc_scraper.py at master · firmai/scrapers · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/scrapers/blob/master/instagram/insta.py",
-    "title": "scrapers/insta.py at master · firmai/scrapers",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/scrapers/blob/master/morningstar/morningstarscraper.py",
-    "title": "scrapers/morningstarscraper.py at master · firmai/scrapers · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/scrapers/blob/master/similarweb/similarweb_sel.py",
-    "title": "scrapers/similarweb_sel.py at master · firmai/scrapers",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/scrapers/tree/master/angellist",
-    "title": "scrapers/angellist at master · firmai/scrapers · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/scrapers/tree/master/doordash",
-    "title": "scrapers/doordash at master · firmai/scrapers · GitHub",
     "count": 1,
     "uniques": 1
   }

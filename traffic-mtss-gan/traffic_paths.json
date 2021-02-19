@@ -2,20 +2,32 @@
   {
     "path": "/firmai/mtss-gan",
     "title": "GitHub - firmai/mtss-gan: MTSS-GAN: Multivariate Time Series Simulation with ...",
-    "count": 96,
-    "uniques": 60
+    "count": 111,
+    "uniques": 65
   },
   {
     "path": "/firmai/mtss-gan/tree/master/assets",
     "title": "mtss-gan/assets at master · firmai/mtss-gan · GitHub",
-    "count": 22,
-    "uniques": 19
+    "count": 24,
+    "uniques": 20
+  },
+  {
+    "path": "/firmai/mtss-gan/issues",
+    "title": "Issues · firmai/mtss-gan",
+    "count": 5,
+    "uniques": 1
   },
   {
     "path": "/firmai/mtss-gan/blob/master/assets/plots.png",
     "title": "mtss-gan/plots.png at master · firmai/mtss-gan · GitHub",
-    "count": 5,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/firmai/mtss-gan/commits",
+    "title": "Commits · firmai/mtss-gan",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/firmai/mtss-gan/blob/master/assets/network.png",
@@ -36,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/mtss-gan/projects",
-    "title": "Projects · firmai/mtss-gan · GitHub",
+    "path": "/firmai/mtss-gan/branches",
+    "title": "Branches · firmai/mtss-gan",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/mtss-gan/issues/created_by/@me",
+    "title": "Issues · firmai/mtss-gan",
     "count": 1,
     "uniques": 1
   }

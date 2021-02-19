@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 226,
-    "uniques": 134
+    "count": 197,
+    "uniques": 133
   },
   {
     "referrer": "github.com",
-    "count": 78,
-    "uniques": 51
+    "count": 83,
+    "uniques": 54
   },
   {
     "referrer": "firmai.org",
-    "count": 38,
-    "uniques": 20
+    "count": 36,
+    "uniques": 17
   },
   {
     "referrer": "reddit.com",
-    "count": 18,
-    "uniques": 14
+    "count": 17,
+    "uniques": 13
   },
   {
-    "referrer": "l.facebook.com",
-    "count": 6,
-    "uniques": 1
+    "referrer": "linkedin.com",
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "Bing",
@@ -30,9 +30,9 @@
     "uniques": 5
   },
   {
-    "referrer": "linkedin.com",
+    "referrer": "l.facebook.com",
     "count": 5,
-    "uniques": 3
+    "uniques": 1
   },
   {
     "referrer": "jonkrohn.com",

@@ -2,8 +2,8 @@
   {
     "path": "/firmai/awesome-google-colab",
     "title": "GitHub - firmai/awesome-google-colab: Google Colaboratory Notebooks and Repos...",
-    "count": 323,
-    "uniques": 224
+    "count": 337,
+    "uniques": 230
   },
   {
     "path": "/firmai/awesome-google-colab/tree/master/assets",
@@ -18,40 +18,40 @@
     "uniques": 5
   },
   {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab.png",
-    "title": "awesome-google-colab/colab.png at master · firmai/awesome-google-colab · GitHub",
-    "count": 5,
-    "uniques": 4
-  },
-  {
     "path": "/firmai/awesome-google-colab/blob/master/assets/empty.ipynb",
     "title": "awesome-google-colab/empty.ipynb at master · firmai/awesome-google-colab · Gi...",
     "count": 5,
     "uniques": 4
   },
   {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab1.png",
-    "title": "awesome-google-colab/colab1.png at master · firmai/awesome-google-colab · Git...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab2.png",
-    "title": "awesome-google-colab/colab2.png at master · firmai/awesome-google-colab · Git...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab3.png",
-    "title": "awesome-google-colab/colab3.png at master · firmai/awesome-google-colab · Git...",
-    "count": 2,
-    "uniques": 2
+    "path": "/firmai/awesome-google-colab/blob/master/assets/colab.png",
+    "title": "awesome-google-colab/colab.png at master · firmai/awesome-google-colab · GitHub",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/firmai/awesome-google-colab/search",
     "title": "Search · logo",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/firmai/awesome-google-colab/blob/master/assets/colab1.png",
+    "title": "awesome-google-colab/colab1.png at master · firmai/awesome-google-colab · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/awesome-google-colab/blob/master/assets/colab2.png",
+    "title": "awesome-google-colab/colab2.png at master · firmai/awesome-google-colab",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/awesome-google-colab/blob/master/assets/colab3.png",
+    "title": "awesome-google-colab/colab3.png at master · firmai/awesome-google-colab",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/firmai/awesome-google-colab/blob/master/assets/empty.txt",
