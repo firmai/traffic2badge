@@ -2,26 +2,26 @@
   {
     "path": "/firmai/industry-machine-learning",
     "title": "GitHub - firmai/industry-machine-learning: A curated list of applied machine ...",
-    "count": 802,
+    "count": 788,
     "uniques": 374
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/README.md",
     "title": "industry-machine-learning/README.md at master · firmai/industry-machine-learn...",
-    "count": 32,
-    "uniques": 18
+    "count": 34,
+    "uniques": 19
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/assets",
     "title": "industry-machine-learning/assets at master · firmai/industry-machine-learning...",
-    "count": 29,
-    "uniques": 22
+    "count": 25,
+    "uniques": 19
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/.github",
     "title": "industry-machine-learning/.github at master · firmai/industry-machine-learning",
-    "count": 11,
-    "uniques": 10
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/empty.ipynb",
@@ -32,14 +32,20 @@
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
     "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/firmai/industry-machine-learning/search",
     "title": "Search · Industry",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/firmai/industry-machine-learning/pulls",
+    "title": "Pull requests · firmai/industry-machine-learning · GitHub",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/firmai/industry-machine-learning/blame/master/README.md",
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/first.txt",
     "title": "industry-machine-learning/first.txt at master · firmai/industry-machine-learn...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/industry-machine-learning/blob/master/.github/FUNDING.yml",
-    "title": "industry-machine-learning/FUNDING.yml at master · firmai/industry-machine-lea...",
     "count": 1,
     "uniques": 1
   }
