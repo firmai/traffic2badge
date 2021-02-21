@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 224,
-    "uniques": 173
+    "count": 240,
+    "uniques": 180
   },
   {
     "referrer": "github.com",
-    "count": 43,
-    "uniques": 26
+    "count": 47,
+    "uniques": 28
+  },
+  {
+    "referrer": "pypi.org",
+    "count": 10,
+    "uniques": 5
   },
   {
     "referrer": "reddit.com",
     "count": 9,
     "uniques": 8
-  },
-  {
-    "referrer": "pypi.org",
-    "count": 8,
-    "uniques": 4
   },
   {
     "referrer": "fullstackfeed.com",

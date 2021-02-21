@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 110,
-    "uniques": 63
+    "count": 118,
+    "uniques": 60
   },
   {
     "referrer": "github.com",
-    "count": 104,
-    "uniques": 71
+    "count": 105,
+    "uniques": 74
   },
   {
     "referrer": "reddit.com",
-    "count": 18,
-    "uniques": 14
+    "count": 17,
+    "uniques": 13
   },
   {
     "referrer": "news.ycombinator.com",

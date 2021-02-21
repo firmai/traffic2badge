@@ -2,8 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 6,
-    "uniques": 5
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
@@ -36,26 +36,26 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/Tutorials-master/Mean%20reversion.ipynb",
+    "title": "techniques/Mean reversion.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/NLP/Regulation/CCAF%20Label%201-Copy1.ipynb",
+    "title": "techniques/CCAF Label 1-Copy1.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f70...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/NLP/Regulation/CCAF%20Label%201-Copy2.ipynb",
+    "title": "techniques/CCAF Label 1-Copy2.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f70...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/firmai/techniques/blob/master/NLP/Disclosures/Counts.ipynb",
     "title": "techniques/Counts.ipynb at master · firmai/techniques",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/issues",
-    "title": "Issues · firmai/techniques",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio",
-    "title": "techniques/Alternative Investments/pyfolio-master/pyfolio at 0b15fd6f424074e3...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio/examples",
-    "title": "techniques/Alternative Investments/pyfolio-master/pyfolio/examples at 0b15fd6...",
     "count": 1,
     "uniques": 1
   }

@@ -2,8 +2,8 @@
   {
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
-    "count": 13,
-    "uniques": 12
+    "count": 11,
+    "uniques": 10
   },
   {
     "path": "/firmai/scrapers/tree/master/glassdoor",
@@ -12,8 +12,14 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/tree/master/Inside%20VC",
-    "title": "scrapers/Inside VC at master · firmai/scrapers · GitHub",
+    "path": "/firmai/scrapers/blob/master/similarweb/similarweb_sel.py",
+    "title": "scrapers/similarweb_sel.py at master · firmai/scrapers · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/scrapers/tree/master/similarweb",
+    "title": "scrapers/similarweb at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/scrapers/blob/master/glassdoor/input_fields.csv",
     "title": "scrapers/input_fields.csv at master · firmai/scrapers",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/scrapers/blob/master/glassdoor/MSFT_jobs.csv",
-    "title": "scrapers/MSFT_jobs.csv at master · firmai/scrapers",
     "count": 1,
     "uniques": 1
   }
