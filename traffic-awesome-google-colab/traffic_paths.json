@@ -2,44 +2,32 @@
   {
     "path": "/firmai/awesome-google-colab",
     "title": "GitHub - firmai/awesome-google-colab: Google Colaboratory Notebooks and Repos...",
-    "count": 355,
-    "uniques": 233
+    "count": 338,
+    "uniques": 223
   },
   {
     "path": "/firmai/awesome-google-colab/tree/master/assets",
     "title": "awesome-google-colab/assets at master · firmai/awesome-google-colab · GitHub",
-    "count": 30,
-    "uniques": 23
+    "count": 23,
+    "uniques": 19
   },
   {
     "path": "/firmai/awesome-google-colab/blob/master/assets/empty.ipynb",
     "title": "awesome-google-colab/empty.ipynb at master · firmai/awesome-google-colab · Gi...",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab.png",
-    "title": "awesome-google-colab/colab.png at master · firmai/awesome-google-colab · GitHub",
     "count": 4,
-    "uniques": 4
+    "uniques": 3
   },
   {
     "path": "/firmai/awesome-google-colab/blob/master/README.md",
     "title": "awesome-google-colab/README.md at master · firmai/awesome-google-colab · GitHub",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/firmai/awesome-google-colab/search",
     "title": "Search · logo",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab1.png",
-    "title": "awesome-google-colab/colab1.png at master · firmai/awesome-google-colab · Git...",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/firmai/awesome-google-colab/blob/master/assets/colab2.png",
@@ -54,8 +42,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/empty.txt",
-    "title": "awesome-google-colab/empty.txt at master · firmai/awesome-google-colab · GitHub",
+    "path": "/firmai/awesome-google-colab/blob/master/assets/colab.png",
+    "title": "awesome-google-colab/colab.png at master · firmai/awesome-google-colab · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/awesome-google-colab/commit/4088f21d537b33cf0e96e2e97d51dd7da44ea236",
+    "title": "Update README.md · firmai/awesome-google-colab@4088f21 · GitHub",
     "count": 1,
     "uniques": 1
   }

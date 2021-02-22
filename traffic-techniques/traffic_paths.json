@@ -2,8 +2,14 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 7,
-    "uniques": 6
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Analyze_ab_test_results.ipynb",
+    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
@@ -15,18 +21,6 @@
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio/examples/bayesian.ipynb",
     "title": "techniques/bayesian.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firma...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Analyze_ab_test_results.ipynb",
-    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/dInvest-master/trading/contract/ContractHandler.py",
-    "title": "techniques/ContractHandler.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · f...",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/techniques/blob/master/NLP/Disclosures/Counts.ipynb",
     "title": "techniques/Counts.ipynb at master · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/issues",
+    "title": "Issues · firmai/techniques",
     "count": 1,
     "uniques": 1
   }

@@ -2,8 +2,8 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 77,
-    "uniques": 36
+    "count": 63,
+    "uniques": 31
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data",
@@ -12,16 +12,16 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/interactive-corporate-report/tree/master/processing",
-    "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
-    "count": 11,
-    "uniques": 4
-  },
-  {
     "path": "/firmai/interactive-corporate-report/tree/master/functionality",
     "title": "interactive-corporate-report/functionality at master · firmai/interactive-cor...",
     "count": 11,
     "uniques": 2
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/processing",
+    "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
+    "count": 10,
+    "uniques": 3
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/statics",
@@ -34,12 +34,6 @@
     "title": "interactive-corporate-report/files at master · firmai/interactive-corporate-r...",
     "count": 7,
     "uniques": 2
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/processing/Final%20Real%20Metrics.ipynb",
-    "title": "interactive-corporate-report/Final Real Metrics.ipynb at master · firmai/inte...",
-    "count": 6,
-    "uniques": 3
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/functionality/angellist/angel_sel.py",
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/interactive-corporate-report/tree/master/functionality/morningstar",
     "title": "interactive-corporate-report/functionality/morningstar at master · firmai/int...",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/misc",
+    "title": "interactive-corporate-report/misc at master · firmai/interactive-corporate-re...",
     "count": 5,
     "uniques": 2
   }
