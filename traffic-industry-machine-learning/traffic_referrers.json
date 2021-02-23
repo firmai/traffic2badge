@@ -1,52 +1,52 @@
 [
   {
     "referrer": "Google",
-    "count": 224,
-    "uniques": 140
+    "count": 226,
+    "uniques": 137
   },
   {
     "referrer": "github.com",
-    "count": 78,
+    "count": 77,
     "uniques": 55
   },
   {
     "referrer": "firmai.org",
-    "count": 50,
-    "uniques": 18
+    "count": 49,
+    "uniques": 19
   },
   {
     "referrer": "reddit.com",
-    "count": 20,
-    "uniques": 15
-  },
-  {
-    "referrer": "Bing",
-    "count": 15,
-    "uniques": 8
+    "count": 21,
+    "uniques": 16
   },
   {
     "referrer": "ruanyifeng.com",
-    "count": 13,
-    "uniques": 11
+    "count": 15,
+    "uniques": 12
+  },
+  {
+    "referrer": "Bing",
+    "count": 14,
+    "uniques": 7
   },
   {
     "referrer": "linkedin.com",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "referrer": "jonkrohn.com",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "referrer": "l.facebook.com",
-    "count": 3,
+    "count": 4,
     "uniques": 1
   },
   {
     "referrer": "link.zhihu.com",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "referrer": "kaggle.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "cc98.org",
+    "count": 2,
+    "uniques": 2
   }
 ]

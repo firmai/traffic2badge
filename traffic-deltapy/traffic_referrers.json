@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 29,
-    "uniques": 20
+    "count": 26,
+    "uniques": 19
   },
   {
     "referrer": "github.com",
-    "count": 8,
-    "uniques": 8
+    "count": 10,
+    "uniques": 9
   },
   {
     "referrer": "sktime.org",
@@ -15,12 +15,12 @@
     "uniques": 3
   },
   {
-    "referrer": "pypi.org",
-    "count": 1,
-    "uniques": 1
+    "referrer": "fullstackfeed.com",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "referrer": "fullstackfeed.com",
+    "referrer": "pypi.org",
     "count": 1,
     "uniques": 1
   },

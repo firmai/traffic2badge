@@ -1,26 +1,16 @@
 [
   {
     "referrer": "Google",
-    "count": 39,
+    "count": 40,
     "uniques": 26
   },
   {
     "referrer": "github.com",
-    "count": 11,
-    "uniques": 8
-  },
-  {
-    "referrer": "colab.research.google.com",
-    "count": 1,
-    "uniques": 1
+    "count": 13,
+    "uniques": 10
   },
   {
     "referrer": "cn.bing.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "microprediction.com",
     "count": 1,
     "uniques": 1
   }
