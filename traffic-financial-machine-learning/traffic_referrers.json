@@ -1,27 +1,27 @@
 [
   {
     "referrer": "Google",
-    "count": 930,
+    "count": 925,
     "uniques": 510
   },
   {
     "referrer": "github.com",
-    "count": 210,
-    "uniques": 80
+    "count": 218,
+    "uniques": 82
   },
   {
     "referrer": "kaggle.com",
-    "count": 124,
-    "uniques": 74
-  },
-  {
-    "referrer": "Bing",
-    "count": 17,
-    "uniques": 8
+    "count": 123,
+    "uniques": 75
   },
   {
     "referrer": "DuckDuckGo",
     "count": 12,
+    "uniques": 6
+  },
+  {
+    "referrer": "Bing",
+    "count": 7,
     "uniques": 6
   },
   {
@@ -30,12 +30,12 @@
     "uniques": 3
   },
   {
-    "referrer": "web.bale.ai",
+    "referrer": "andreaprovino.it",
     "count": 3,
     "uniques": 3
   },
   {
-    "referrer": "andreaprovino.it",
+    "referrer": "web.bale.ai",
     "count": 3,
     "uniques": 3
   },

@@ -18,18 +18,6 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio/examples/bayesian.ipynb",
-    "title": "techniques/bayesian.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firma...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/pyfolio-master/pyfolio/examples/fama_french_benchmark.ipynb",
-    "title": "techniques/fama_french_benchmark.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/Tutorials-master/Mean%20reversion.ipynb",
     "title": "techniques/Mean reversion.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e ·...",
     "count": 1,
@@ -54,8 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/issues",
-    "title": "Issues · firmai/techniques",
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master",
+    "title": "techniques/Causal Inference/Udacity-Project---AB-testing-master at 0b15fd6f42...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/master/Economics",
+    "title": "techniques/Economics at master · firmai/techniques",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/master/Economics/Applied_Computational_Economics_and_Finance-master",
+    "title": "techniques/Economics/Applied_Computational_Economics_and_Finance-master at ma...",
     "count": 1,
     "uniques": 1
   }
