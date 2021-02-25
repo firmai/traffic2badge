@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 150,
-    "uniques": 115
+    "count": 148,
+    "uniques": 113
   },
   {
     "referrer": "github.com",
-    "count": 75,
-    "uniques": 47
+    "count": 68,
+    "uniques": 43
   },
   {
     "referrer": "1point3acres.com",
-    "count": 13,
+    "count": 12,
     "uniques": 11
   },
   {
     "referrer": "blog.etereo.io",
     "count": 7,
-    "uniques": 7
+    "uniques": 6
   },
   {
     "referrer": "github.com.cnpmjs.org",
-    "count": 5,
-    "uniques": 3
+    "count": 7,
+    "uniques": 4
   },
   {
     "referrer": "analyticsindiamag.com",

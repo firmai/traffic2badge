@@ -2,20 +2,14 @@
   {
     "path": "/firmai/deltapy",
     "title": "GitHub - firmai/deltapy: DeltaPy - Tabular Data Augmentation (by @firmai)",
-    "count": 73,
-    "uniques": 49
+    "count": 81,
+    "uniques": 51
   },
   {
     "path": "/firmai/deltapy/tree/master/deltapy",
     "title": "deltapy/deltapy at master · firmai/deltapy · GitHub",
-    "count": 10,
-    "uniques": 4
-  },
-  {
-    "path": "/firmai/deltapy/tree/master/assets",
-    "title": "deltapy/assets at master · firmai/deltapy · GitHub",
-    "count": 8,
-    "uniques": 4
+    "count": 12,
+    "uniques": 5
   },
   {
     "path": "/firmai/deltapy/blob/851facafbed4fdc3425220fd27a7bbb5118ef635/deltapy/transform.py",
@@ -24,21 +18,33 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/deltapy/tree/master/assets",
+    "title": "deltapy/assets at master · firmai/deltapy · GitHub",
+    "count": 7,
+    "uniques": 3
+  },
+  {
     "path": "/firmai/deltapy/blob/master/assets/Notebook.ipynb",
     "title": "deltapy/Notebook.ipynb at master · firmai/deltapy · GitHub",
     "count": 6,
     "uniques": 3
   },
   {
-    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
-    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/deltapy/blob/master/deltapy/interact.py",
     "title": "deltapy/interact.py at master · firmai/deltapy · GitHub",
-    "count": 3,
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
+    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/deltapy/issues",
+    "title": "Issues · firmai/deltapy · GitHub",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/deltapy/blob/master/assets/Tabularz.png",
     "title": "deltapy/Tabularz.png at master · firmai/deltapy · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/deltapy/blob/master/deltapy/mapper.py",
-    "title": "deltapy/mapper.py at master · firmai/deltapy · GitHub",
     "count": 1,
     "uniques": 1
   }
