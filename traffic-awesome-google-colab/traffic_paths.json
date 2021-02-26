@@ -2,18 +2,24 @@
   {
     "path": "/firmai/awesome-google-colab",
     "title": "GitHub - firmai/awesome-google-colab: Google Colaboratory Notebooks and Repos...",
-    "count": 313,
-    "uniques": 204
+    "count": 320,
+    "uniques": 210
   },
   {
     "path": "/firmai/awesome-google-colab/tree/master/assets",
     "title": "awesome-google-colab/assets at master · firmai/awesome-google-colab · GitHub",
-    "count": 22,
-    "uniques": 19
+    "count": 21,
+    "uniques": 18
   },
   {
     "path": "/firmai/awesome-google-colab/blob/master/README.md",
     "title": "awesome-google-colab/README.md at master · firmai/awesome-google-colab · GitHub",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/firmai/awesome-google-colab/search",
+    "title": "Search · VAE NN · GitHub",
     "count": 4,
     "uniques": 4
   },
@@ -24,20 +30,14 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/awesome-google-colab/blob/master/assets/colab2.png",
-    "title": "awesome-google-colab/colab2.png at master · firmai/awesome-google-colab · Git...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/firmai/awesome-google-colab/search",
-    "title": "Search · NPS",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/firmai/awesome-google-colab/blob/master/assets/colab1.png",
     "title": "awesome-google-colab/colab1.png at master · firmai/awesome-google-colab · Git...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/awesome-google-colab/blob/master/assets/colab2.png",
+    "title": "awesome-google-colab/colab2.png at master · firmai/awesome-google-colab · Git...",
     "count": 2,
     "uniques": 2
   },

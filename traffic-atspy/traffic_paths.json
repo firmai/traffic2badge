@@ -2,61 +2,61 @@
   {
     "path": "/firmai/atspy",
     "title": "GitHub - firmai/atspy: AtsPy: Automated Time Series Models in Python (by @fir...",
-    "count": 303,
-    "uniques": 132
+    "count": 286,
+    "uniques": 127
   },
   {
     "path": "/firmai/atspy/issues/12",
     "title": "\"ERROR: Could not find a version that satisfies the requirement dataclasses==...",
-    "count": 115,
-    "uniques": 100
+    "count": 118,
+    "uniques": 104
   },
   {
     "path": "/firmai/atspy/tree/master/atspy",
     "title": "atspy/atspy at master · firmai/atspy · GitHub",
-    "count": 64,
-    "uniques": 27
+    "count": 61,
+    "uniques": 26
   },
   {
     "path": "/firmai/atspy/tree/master/atspy/TS",
     "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
-    "count": 47,
-    "uniques": 19
+    "count": 40,
+    "uniques": 17
   },
   {
     "path": "/firmai/atspy/issues",
     "title": "Issues · firmai/atspy · GitHub",
-    "count": 31,
-    "uniques": 9
+    "count": 22,
+    "uniques": 7
   },
   {
     "path": "/firmai/atspy/tree/master/atspy_files",
     "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
-    "count": 20,
-    "uniques": 15
-  },
-  {
-    "path": "/firmai/atspy/blob/master/atspy/nbeats.py",
-    "title": "atspy/nbeats.py at master · firmai/atspy · GitHub",
-    "count": 11,
-    "uniques": 11
-  },
-  {
-    "path": "/firmai/atspy/blob/master/requirements.txt",
-    "title": "atspy/requirements.txt at master · firmai/atspy · GitHub",
-    "count": 10,
-    "uniques": 9
+    "count": 19,
+    "uniques": 14
   },
   {
     "path": "/firmai/atspy/blob/master/atspy/__init__.py",
     "title": "atspy/__init__.py at master · firmai/atspy · GitHub",
-    "count": 10,
-    "uniques": 7
+    "count": 12,
+    "uniques": 9
   },
   {
-    "path": "/firmai/atspy/issues/7",
-    "title": "Installation issue · Issue #7 · firmai/atspy · GitHub",
+    "path": "/firmai/atspy/blob/master/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf",
+    "title": "atspy/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf at master · firma...",
     "count": 9,
     "uniques": 9
+  },
+  {
+    "path": "/firmai/atspy/blob/master/requirements.txt",
+    "title": "atspy/requirements.txt at master · firmai/atspy · GitHub",
+    "count": 9,
+    "uniques": 8
+  },
+  {
+    "path": "/firmai/atspy/blob/master/atspy/nbeats.py",
+    "title": "atspy/nbeats.py at master · firmai/atspy · GitHub",
+    "count": 8,
+    "uniques": 8
   }
 ]

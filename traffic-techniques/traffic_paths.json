@@ -2,14 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 5,
-    "uniques": 5
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Analyze_ab_test_results.ipynb",
-    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
-    "count": 3,
-    "uniques": 1
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
@@ -18,8 +12,20 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/dInvest-master/trading/trader/TradeHandler.py",
+    "title": "techniques/TradeHandler.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/Tutorials-master/Mean%20reversion.ipynb",
     "title": "techniques/Mean reversion.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Analyze_ab_test_results.ipynb",
+    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
     "count": 1,
     "uniques": 1
   },
@@ -42,20 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master",
-    "title": "techniques/Causal Inference/Udacity-Project---AB-testing-master at 0b15fd6f42...",
+    "path": "/firmai/techniques/find/master",
+    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/tree/master/Economics",
-    "title": "techniques/Economics at master · firmai/techniques",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/master/Economics/Applied_Computational_Economics_and_Finance-master",
-    "title": "techniques/Economics/Applied_Computational_Economics_and_Finance-master at ma...",
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
+    "title": "firmai/techniques at 0b15fd6f424074e369c03e0e6015c80dbf6f708e",
     "count": 1,
     "uniques": 1
   }

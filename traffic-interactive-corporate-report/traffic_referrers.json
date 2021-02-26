@@ -11,17 +11,17 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 3,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "firmai.org",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "community.plotly.com",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   }
 ]

@@ -6,20 +6,26 @@
     "uniques": 14
   },
   {
+    "path": "/firmai/scrapers/blob/master/morningstar/morningstarscraper.py",
+    "title": "scrapers/morningstarscraper.py at master · firmai/scrapers · GitHub",
+    "count": 7,
+    "uniques": 4
+  },
+  {
     "path": "/firmai/scrapers/tree/master/glassdoor",
     "title": "scrapers/glassdoor at master · firmai/scrapers · GitHub",
     "count": 4,
     "uniques": 3
   },
   {
-    "path": "/firmai/scrapers/blob/master/morningstar/morningstarscraper.py",
-    "title": "scrapers/morningstarscraper.py at master · firmai/scrapers · GitHub",
+    "path": "/firmai/scrapers/blob/master/similarweb/similarweb_sel.py",
+    "title": "scrapers/similarweb_sel.py at master · firmai/scrapers · GitHub",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/firmai/scrapers/blob/master/similarweb/similarweb_sel.py",
-    "title": "scrapers/similarweb_sel.py at master · firmai/scrapers · GitHub",
+    "path": "/firmai/scrapers/tree/master/morningstar",
+    "title": "scrapers/morningstar at master · firmai/scrapers · GitHub",
     "count": 3,
     "uniques": 3
   },
@@ -32,12 +38,6 @@
   {
     "path": "/firmai/scrapers/pulls",
     "title": "Pull requests · firmai/scrapers · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/scrapers/tree/master/morningstar",
-    "title": "scrapers/morningstar at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
   },
