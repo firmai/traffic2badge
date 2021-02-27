@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 206,
-    "uniques": 128
+    "count": 222,
+    "uniques": 126
   },
   {
     "referrer": "github.com",
-    "count": 108,
-    "uniques": 64
+    "count": 123,
+    "uniques": 63
   },
   {
     "referrer": "firmai.org",
-    "count": 53,
-    "uniques": 22
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 21,
-    "uniques": 16
+    "count": 51,
+    "uniques": 21
   },
   {
     "referrer": "ruanyifeng.com",
-    "count": 19,
-    "uniques": 16
+    "count": 23,
+    "uniques": 19
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 20,
+    "uniques": 15
   },
   {
     "referrer": "Bing",
@@ -30,23 +30,23 @@
     "uniques": 6
   },
   {
-    "referrer": "linkedin.com",
-    "count": 3,
-    "uniques": 2
+    "referrer": "Yahoo",
+    "count": 6,
+    "uniques": 1
   },
   {
-    "referrer": "link.zhihu.com",
-    "count": 3,
+    "referrer": "amp.reddit.com",
+    "count": 4,
     "uniques": 1
   },
   {
     "referrer": "kaggle.com",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
-    "referrer": "newsletter.datasciencedigest.net",
-    "count": 2,
-    "uniques": 1
+    "referrer": "linkedin.com",
+    "count": 3,
+    "uniques": 2
   }
 ]

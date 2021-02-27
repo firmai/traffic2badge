@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 98,
-    "uniques": 62
+    "count": 87,
+    "uniques": 59
   },
   {
     "referrer": "github.com",
-    "count": 46,
-    "uniques": 35
+    "count": 54,
+    "uniques": 38
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 33,
-    "uniques": 14
+    "count": 28,
+    "uniques": 11
   },
   {
     "referrer": "firmai.org",
@@ -20,7 +20,7 @@
     "uniques": 2
   },
   {
-    "referrer": "ecosia.org",
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   },
@@ -30,7 +30,12 @@
     "uniques": 1
   },
   {
-    "referrer": "yandex.ru",
+    "referrer": "ecosia.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   }

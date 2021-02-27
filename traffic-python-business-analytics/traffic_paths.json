@@ -2,8 +2,8 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 241,
-    "uniques": 124
+    "count": 232,
+    "uniques": 127
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
@@ -14,20 +14,26 @@
   {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
     "title": "python-business-analytics/cheatsheets at master · firmai/python-business-anal...",
-    "count": 17,
-    "uniques": 16
+    "count": 18,
+    "uniques": 17
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/online",
     "title": "python-business-analytics/online at master · firmai/python-business-analytics...",
-    "count": 14,
-    "uniques": 12
+    "count": 15,
+    "uniques": 13
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
     "title": "python-business-analytics/Bike_Sharing.ipynb at master · firmai/python-busine...",
-    "count": 9,
-    "uniques": 4
+    "count": 11,
+    "uniques": 6
+  },
+  {
+    "path": "/firmai/python-business-analytics/blob/master/cheatsheets/processing1.jpeg",
+    "title": "python-business-analytics/processing1.jpeg at master · firmai/python-business...",
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/README.md",
@@ -36,26 +42,20 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/python-business-analytics/blob/master/cheatsheets/processing1.jpeg",
-    "title": "python-business-analytics/processing1.jpeg at master · firmai/python-business...",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/firmai/python-business-analytics/projects",
     "title": "Projects · firmai/python-business-analytics · GitHub",
     "count": 4,
     "uniques": 4
   },
   {
-    "path": "/firmai/python-business-analytics/tree/master/data/bike",
-    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
+    "path": "/firmai/python-business-analytics/blob/master/cheatsheets/plots.png",
+    "title": "python-business-analytics/plots.png at master · firmai/python-business-analyt...",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/firmai/python-business-analytics/tree/master/data/customer",
-    "title": "python-business-analytics/data/customer at master · firmai/python-business-an...",
+    "path": "/firmai/python-business-analytics/tree/master/data/bike",
+    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
     "count": 3,
     "uniques": 3
   }

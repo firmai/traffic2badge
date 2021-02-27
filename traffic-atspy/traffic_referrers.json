@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 188,
-    "uniques": 153
+    "count": 211,
+    "uniques": 167
   },
   {
     "referrer": "github.com",
-    "count": 60,
-    "uniques": 31
+    "count": 64,
+    "uniques": 35
   },
   {
     "referrer": "pypi.org",
     "count": 11,
-    "uniques": 5
+    "uniques": 6
   },
   {
     "referrer": "reddit.com",
@@ -20,22 +20,22 @@
     "uniques": 4
   },
   {
+    "referrer": "colab.research.google.com",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "referrer": "DuckDuckGo",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "colab.research.google.com",
+    "referrer": "mail.google.com",
     "count": 2,
     "uniques": 2
   },
   {
     "referrer": "sktime.org",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "mail.google.com",
     "count": 2,
     "uniques": 2
   },

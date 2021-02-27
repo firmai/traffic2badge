@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 958,
-    "uniques": 482
+    "count": 961,
+    "uniques": 488
   },
   {
     "referrer": "github.com",
-    "count": 222,
-    "uniques": 88
+    "count": 229,
+    "uniques": 95
   },
   {
     "referrer": "kaggle.com",
-    "count": 128,
-    "uniques": 75
+    "count": 124,
+    "uniques": 76
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 12,
-    "uniques": 6
+    "count": 10,
+    "uniques": 4
   },
   {
     "referrer": "cn.bing.com",

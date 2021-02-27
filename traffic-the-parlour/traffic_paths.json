@@ -2,13 +2,19 @@
   {
     "path": "/firmai/the-parlour/blob/main/A%20Historical%20Note%20of%20Machine%20Learning%20in%20Finance%20and%20Economics%20-%20Snow.pdf",
     "title": "the-parlour/A Historical Note of Machine Learning in Finance and Economics - ...",
-    "count": 14,
-    "uniques": 12
+    "count": 19,
+    "uniques": 14
   },
   {
     "path": "/firmai/the-parlour",
     "title": "firmai/the-parlour: Long Articles",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/firmai/the-parlour/find/main",
+    "title": "File Finder",
+    "count": 1,
+    "uniques": 1
   }
 ]

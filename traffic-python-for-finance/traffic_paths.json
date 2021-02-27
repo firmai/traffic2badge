@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "path": "/firmai/python-for-finance",
+    "title": "firmai/python-for-finance",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/python-for-finance/blob/master/100%20Monte%20Carlo%20-%20Predicting%20Gross%20Profit%20-%20Part%20I/Python%203/MC%20-%20Predicting%20Gross%20Profit%20-%20Part%20I%20-%20Lecture.ipynb",
+    "title": "python-for-finance/MC - Predicting Gross Profit - Part I - Lecture.ipynb at m...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/python-for-finance/tree/master/100%20Monte%20Carlo%20-%20Predicting%20Gross%20Profit%20-%20Part%20I",
+    "title": "python-for-finance/100 Monte Carlo - Predicting Gross Profit - Part I at mast...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/python-for-finance/tree/master/100%20Monte%20Carlo%20-%20Predicting%20Gross%20Profit%20-%20Part%20I/Python%203",
+    "title": "python-for-finance/100 Monte Carlo - Predicting Gross Profit - Part I/Python ...",
+    "count": 1,
+    "uniques": 1
+  }
+]
