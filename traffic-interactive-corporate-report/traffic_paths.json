@@ -2,14 +2,14 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 48,
-    "uniques": 32
+    "count": 47,
+    "uniques": 30
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/processing",
     "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
-    "count": 5,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/processing/.ipynb_checkpoints/Final%20Real%20Metrics-checkpoint.ipynb",
@@ -36,6 +36,18 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/interactive-corporate-report/blob/master/main.py",
+    "title": "interactive-corporate-report/main.py at master · firmai/interactive-corporate...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/setup.py",
+    "title": "interactive-corporate-report/setup.py at master · firmai/interactive-corporat...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/interactive-corporate-report/tree/master/cache",
     "title": "interactive-corporate-report/cache at master · firmai/interactive-corporate-r...",
     "count": 2,
@@ -46,17 +58,5 @@
     "title": "interactive-corporate-report/functionality at master · firmai/interactive-cor...",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/statics",
-    "title": "interactive-corporate-report/statics at master · firmai/interactive-corporate...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/processing/.ipynb_checkpoints/Additional_Metrics-checkpoint.ipynb",
-    "title": "interactive-corporate-report/Additional_Metrics-checkpoint.ipynb at master · ...",
-    "count": 2,
-    "uniques": 1
   }
 ]

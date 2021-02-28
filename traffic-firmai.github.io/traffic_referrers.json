@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 12,
-    "uniques": 12
+    "count": 10,
+    "uniques": 10
   },
   {
     "referrer": "firmai.org",
@@ -11,7 +11,7 @@
   },
   {
     "referrer": "github.com",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   }
 ]

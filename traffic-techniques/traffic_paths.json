@@ -2,8 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 9,
-    "uniques": 7
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/dInvest-master/trading/trader/TradeHandler.py",
@@ -20,6 +20,12 @@
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Analyze_ab_test_results.ipynb",
     "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/.ipynb_checkpoints/Analyze_ab_test_results-checkpoint.ipynb",
+    "title": "techniques/Analyze_ab_test_results-checkpoint.ipynb at 0b15fd6f424074e369c03e...",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/techniques/find/master",
     "title": "File Finder · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/search",
-    "title": "Search · dowhy",
     "count": 1,
     "uniques": 1
   }

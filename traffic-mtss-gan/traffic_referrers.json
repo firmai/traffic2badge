@@ -1,13 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 64,
-    "uniques": 45
+    "count": 62,
+    "uniques": 43
   },
   {
     "referrer": "github.com",
-    "count": 25,
-    "uniques": 18
+    "count": 26,
+    "uniques": 19
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "linkedin.com",
@@ -15,22 +20,17 @@
     "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "referrer": "Bing",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "colab.research.google.com",
+    "referrer": "reddit.com",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "reddit.com",
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   },

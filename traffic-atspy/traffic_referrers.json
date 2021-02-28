@@ -1,27 +1,27 @@
 [
   {
     "referrer": "Google",
-    "count": 211,
-    "uniques": 167
+    "count": 216,
+    "uniques": 174
   },
   {
     "referrer": "github.com",
-    "count": 64,
-    "uniques": 35
+    "count": 65,
+    "uniques": 37
   },
   {
     "referrer": "pypi.org",
-    "count": 11,
-    "uniques": 6
+    "count": 13,
+    "uniques": 7
   },
   {
     "referrer": "reddit.com",
-    "count": 5,
-    "uniques": 4
+    "count": 6,
+    "uniques": 5
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 3,
+    "count": 4,
     "uniques": 3
   },
   {
