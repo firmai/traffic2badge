@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 216,
-    "uniques": 174
+    "count": 200,
+    "uniques": 162
   },
   {
     "referrer": "github.com",
-    "count": 65,
+    "count": 62,
     "uniques": 37
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 6,
-    "uniques": 5
+    "count": 5,
+    "uniques": 4
   },
   {
     "referrer": "colab.research.google.com",
@@ -25,27 +25,27 @@
     "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "referrer": "mail.google.com",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "sktime.org",
+    "referrer": "DuckDuckGo",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "Baidu",
+    "referrer": "link.zhihu.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "fullstackfeed.com",
+    "referrer": "sktime.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "StartPage",
     "count": 1,
     "uniques": 1
   }

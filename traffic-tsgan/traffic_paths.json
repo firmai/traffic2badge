@@ -2,26 +2,20 @@
   {
     "path": "/firmai/tsgan",
     "title": "GitHub - firmai/tsgan: Time-series Generative Adversarial Networks (fork from...",
-    "count": 82,
-    "uniques": 53
-  },
-  {
-    "path": "/firmai/tsgan/tree/master/alg",
-    "title": "tsgan/alg at master · firmai/tsgan · GitHub",
-    "count": 21,
-    "uniques": 12
+    "count": 74,
+    "uniques": 50
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/timegan",
     "title": "tsgan/alg/timegan at master · firmai/tsgan · GitHub",
-    "count": 20,
+    "count": 21,
     "uniques": 16
   },
   {
-    "path": "/firmai/tsgan/tree/master/alg/invase",
-    "title": "tsgan/alg/invase at master · firmai/tsgan · GitHub",
-    "count": 16,
-    "uniques": 3
+    "path": "/firmai/tsgan/tree/master/alg",
+    "title": "tsgan/alg at master · firmai/tsgan · GitHub",
+    "count": 15,
+    "uniques": 10
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tgan.py",
@@ -30,22 +24,16 @@
     "uniques": 3
   },
   {
+    "path": "/firmai/tsgan/tree/master/alg/invase",
+    "title": "tsgan/alg/invase at master · firmai/tsgan · GitHub",
+    "count": 8,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/tsgan/blob/master/alg/invase/readme.md",
     "title": "tsgan/readme.md at master · firmai/tsgan · GitHub",
     "count": 6,
     "uniques": 2
-  },
-  {
-    "path": "/firmai/tsgan/blob/master/alg/invase/tutorial_invase.ipynb",
-    "title": "tsgan/tutorial_invase.ipynb at master · firmai/tsgan · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/tsgan/blob/b69dfcff5aad4234e2fbcf9f7e875a6a4d376f55/alg/dpbag/DPBag_Tutorial.ipynb",
-    "title": "tsgan/DPBag_Tutorial.ipynb at b69dfcff5aad4234e2fbcf9f7e875a6a4d376f55 · firm...",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/firmai/tsgan/tree/master/data",
@@ -54,9 +42,21 @@
     "uniques": 4
   },
   {
-    "path": "/firmai/tsgan/blob/master/alg/invase/invase.py",
-    "title": "tsgan/invase.py at master · firmai/tsgan · GitHub",
+    "path": "/firmai/tsgan/blob/master/alg/invase/tutorial_invase.ipynb",
+    "title": "tsgan/tutorial_invase.ipynb at master · firmai/tsgan · GitHub",
     "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
+    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/alg/invase/data_generation.py",
+    "title": "tsgan/data_generation.py at master · firmai/tsgan · GitHub",
+    "count": 3,
     "uniques": 2
   }
 ]

@@ -2,14 +2,14 @@
   {
     "path": "/firmai/pandapy",
     "title": "GitHub - firmai/pandapy: PandaPy has the speed of NumPy and the usability of ...",
-    "count": 133,
-    "uniques": 88
+    "count": 129,
+    "uniques": 83
   },
   {
     "path": "/firmai/pandapy/tree/master/PandaPy_files",
     "title": "pandapy/PandaPy_files at master · firmai/pandapy · GitHub",
-    "count": 23,
-    "uniques": 16
+    "count": 22,
+    "uniques": 15
   },
   {
     "path": "/firmai/pandapy/tree/master/pandapy",
@@ -24,6 +24,12 @@
     "uniques": 8
   },
   {
+    "path": "/firmai/pandapy/projects",
+    "title": "Projects · firmai/pandapy · GitHub",
+    "count": 9,
+    "uniques": 5
+  },
+  {
     "path": "/firmai/pandapy/blob/master/pandapy/__init__.py",
     "title": "pandapy/__init__.py at master · firmai/pandapy · GitHub",
     "count": 7,
@@ -34,12 +40,6 @@
     "title": "pandapy/PandaPy_46_0.png at master · firmai/pandapy · GitHub",
     "count": 6,
     "uniques": 6
-  },
-  {
-    "path": "/firmai/pandapy/projects",
-    "title": "Projects · firmai/pandapy · GitHub",
-    "count": 6,
-    "uniques": 4
   },
   {
     "path": "/firmai/pandapy/blob/master/setup.py",

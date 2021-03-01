@@ -30,12 +30,6 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Udacity-Project---AB-testing-master/Analyze_ab_test_results.ipynb",
-    "title": "techniques/Analyze_ab_test_results.ipynb at 0b15fd6f424074e369c03e0e6015c80db...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/NLP/Regulation/CCAF%20Label%201-Copy1.ipynb",
     "title": "techniques/CCAF Label 1-Copy1.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f70...",
     "count": 1,
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/master/NLP/Disclosures/Counts.ipynb",
-    "title": "techniques/Counts.ipynb at master · firmai/techniques",
+    "path": "/firmai/techniques/find/master",
+    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/find/master",
-    "title": "File Finder · GitHub",
+    "path": "/firmai/techniques/search",
+    "title": "Search · dowhy",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
+    "title": "firmai/techniques at 0b15fd6f424074e369c03e0e6015c80dbf6f708e",
     "count": 1,
     "uniques": 1
   }

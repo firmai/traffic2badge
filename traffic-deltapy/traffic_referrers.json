@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 30,
-    "uniques": 21
+    "count": 25,
+    "uniques": 20
   },
   {
     "referrer": "github.com",
-    "count": 13,
-    "uniques": 12
+    "count": 12,
+    "uniques": 11
   },
   {
     "referrer": "sktime.org",
-    "count": 4,
-    "uniques": 4
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
@@ -30,7 +30,7 @@
     "uniques": 1
   },
   {
-    "referrer": "ev.turnitin.com",
+    "referrer": "news.ycombinator.com",
     "count": 1,
     "uniques": 1
   }
