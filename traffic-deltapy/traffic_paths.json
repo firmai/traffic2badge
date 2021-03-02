@@ -2,26 +2,20 @@
   {
     "path": "/firmai/deltapy",
     "title": "GitHub - firmai/deltapy: DeltaPy - Tabular Data Augmentation (by @firmai)",
-    "count": 76,
-    "uniques": 47
-  },
-  {
-    "path": "/firmai/deltapy/blob/851facafbed4fdc3425220fd27a7bbb5118ef635/deltapy/transform.py",
-    "title": "deltapy/transform.py at 851facafbed4fdc3425220fd27a7bbb5118ef635 · firmai/del...",
-    "count": 13,
-    "uniques": 3
+    "count": 70,
+    "uniques": 46
   },
   {
     "path": "/firmai/deltapy/tree/master/deltapy",
     "title": "deltapy/deltapy at master · firmai/deltapy · GitHub",
-    "count": 11,
-    "uniques": 6
+    "count": 9,
+    "uniques": 4
   },
   {
-    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
-    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
-    "count": 6,
-    "uniques": 4
+    "path": "/firmai/deltapy/blob/851facafbed4fdc3425220fd27a7bbb5118ef635/deltapy/transform.py",
+    "title": "deltapy/transform.py at 851facafbed4fdc3425220fd27a7bbb5118ef635 · firmai/del...",
+    "count": 8,
+    "uniques": 2
   },
   {
     "path": "/firmai/deltapy/blob/master/deltapy/interact.py",
@@ -30,16 +24,10 @@
     "uniques": 4
   },
   {
-    "path": "/firmai/deltapy/tree/master/assets",
-    "title": "deltapy/assets at master · firmai/deltapy · GitHub",
-    "count": 4,
+    "path": "/firmai/deltapy/blob/master/deltapy/transform.py",
+    "title": "deltapy/transform.py at master · firmai/deltapy · GitHub",
+    "count": 5,
     "uniques": 3
-  },
-  {
-    "path": "/firmai/deltapy/blob/master/assets/Notebook.ipynb",
-    "title": "deltapy/Notebook.ipynb at master · firmai/deltapy · GitHub",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/firmai/deltapy/issues",
@@ -56,6 +44,18 @@
   {
     "path": "/firmai/deltapy/blob/851facafbed4fdc3425220fd27a7bbb5118ef635/deltapy/extract.py",
     "title": "deltapy/extract.py at 851facafbed4fdc3425220fd27a7bbb5118ef635 · firmai/deltapy",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/deltapy/blob/master/assets/Notebook.ipynb",
+    "title": "deltapy/Notebook.ipynb at master · firmai/deltapy · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/deltapy/blob/master/deltapy/mapper.py",
+    "title": "deltapy/mapper.py at master · firmai/deltapy · GitHub",
     "count": 1,
     "uniques": 1
   }

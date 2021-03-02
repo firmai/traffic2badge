@@ -5,13 +5,13 @@
     "uniques": 3
   },
   {
-    "referrer": "Google",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "referrer": "tvt.phishlabs.com",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "referrer": "Google",
+    "count": 2,
+    "uniques": 2
   }
 ]

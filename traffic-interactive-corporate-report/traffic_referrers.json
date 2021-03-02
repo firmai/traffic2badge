@@ -6,8 +6,8 @@
   },
   {
     "referrer": "Google",
-    "count": 5,
-    "uniques": 4
+    "count": 7,
+    "uniques": 6
   },
   {
     "referrer": "reddit.com",
@@ -15,13 +15,13 @@
     "uniques": 3
   },
   {
-    "referrer": "firmai.org",
-    "count": 3,
+    "referrer": "community.plotly.com",
+    "count": 4,
     "uniques": 3
   },
   {
-    "referrer": "community.plotly.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "firmai.org",
+    "count": 3,
+    "uniques": 3
   }
 ]

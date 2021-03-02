@@ -2,8 +2,8 @@
   {
     "path": "/firmai/tsgan",
     "title": "GitHub - firmai/tsgan: Time-series Generative Adversarial Networks (fork from...",
-    "count": 74,
-    "uniques": 50
+    "count": 68,
+    "uniques": 45
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/timegan",
@@ -14,8 +14,8 @@
   {
     "path": "/firmai/tsgan/tree/master/alg",
     "title": "tsgan/alg at master · firmai/tsgan · GitHub",
-    "count": 15,
-    "uniques": 10
+    "count": 12,
+    "uniques": 8
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tgan.py",
@@ -24,28 +24,16 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/tsgan/tree/master/alg/invase",
-    "title": "tsgan/alg/invase at master · firmai/tsgan · GitHub",
-    "count": 8,
+    "path": "/firmai/tsgan/blob/master/alg/timegan/main.py",
+    "title": "tsgan/main.py at master · firmai/tsgan · GitHub",
+    "count": 4,
     "uniques": 2
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/invase/readme.md",
     "title": "tsgan/readme.md at master · firmai/tsgan · GitHub",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/tsgan/tree/master/data",
-    "title": "tsgan/data at master · firmai/tsgan · GitHub",
     "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/firmai/tsgan/blob/master/alg/invase/tutorial_invase.ipynb",
-    "title": "tsgan/tutorial_invase.ipynb at master · firmai/tsgan · GitHub",
-    "count": 4,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
@@ -54,9 +42,21 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/tsgan/blob/master/alg/invase/data_generation.py",
-    "title": "tsgan/data_generation.py at master · firmai/tsgan · GitHub",
+    "path": "/firmai/tsgan/tree/master/alg/timegan/gendata",
+    "title": "tsgan/alg/timegan/gendata at master · firmai/tsgan · GitHub",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/tsgan/tree/master/data",
+    "title": "tsgan/data at master · firmai/tsgan · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/tsgan/tree/master/alg/invase",
+    "title": "tsgan/alg/invase at master · firmai/tsgan · GitHub",
+    "count": 3,
+    "uniques": 1
   }
 ]
