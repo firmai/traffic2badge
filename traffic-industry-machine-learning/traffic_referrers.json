@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 242,
-    "uniques": 133
+    "count": 262,
+    "uniques": 146
   },
   {
     "referrer": "github.com",
-    "count": 144,
-    "uniques": 75
+    "count": 138,
+    "uniques": 73
   },
   {
     "referrer": "firmai.org",
@@ -16,18 +16,18 @@
   },
   {
     "referrer": "ruanyifeng.com",
-    "count": 25,
-    "uniques": 21
+    "count": 28,
+    "uniques": 23
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 13,
+    "uniques": 10
   },
   {
     "referrer": "Bing",
     "count": 13,
     "uniques": 6
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 12,
-    "uniques": 9
   },
   {
     "referrer": "Yahoo",
@@ -45,7 +45,7 @@
     "uniques": 3
   },
   {
-    "referrer": "linkedin.com",
+    "referrer": "DuckDuckGo",
     "count": 3,
     "uniques": 2
   }

@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 967,
+    "count": 963,
     "uniques": 478
   },
   {
     "referrer": "github.com",
-    "count": 246,
+    "count": 265,
     "uniques": 93
   },
   {
     "referrer": "kaggle.com",
-    "count": 101,
-    "uniques": 67
+    "count": 106,
+    "uniques": 72
   },
   {
     "referrer": "reddit.com",
@@ -21,22 +21,12 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 15,
-    "uniques": 6
+    "count": 14,
+    "uniques": 5
   },
   {
     "referrer": "cn.bing.com",
-    "count": 8,
-    "uniques": 3
-  },
-  {
-    "referrer": "Bing",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "referrer": "web.bale.ai",
-    "count": 3,
+    "count": 11,
     "uniques": 3
   },
   {
@@ -45,8 +35,18 @@
     "uniques": 2
   },
   {
+    "referrer": "Bing",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "referrer": "StartPage",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "referrer": "t.co",
+    "count": 2,
+    "uniques": 2
   }
 ]

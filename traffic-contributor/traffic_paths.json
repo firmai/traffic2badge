@@ -1,14 +1,14 @@
 [
   {
-    "path": "/firmai/contributor/blob/master/README.md",
-    "title": "contributor/README.md at master · firmai/contributor · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/contributor",
     "title": "GitHub - firmai/contributor: Medium Contributor Guidelines",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/contributor/blob/master/README.md",
+    "title": "contributor/README.md at master · firmai/contributor · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
