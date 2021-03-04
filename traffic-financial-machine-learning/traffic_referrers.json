@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 963,
-    "uniques": 478
+    "count": 943,
+    "uniques": 482
   },
   {
     "referrer": "github.com",
-    "count": 265,
-    "uniques": 93
+    "count": 272,
+    "uniques": 95
   },
   {
     "referrer": "kaggle.com",
-    "count": 106,
-    "uniques": 72
+    "count": 96,
+    "uniques": 63
   },
   {
     "referrer": "reddit.com",
@@ -21,21 +21,21 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 14,
-    "uniques": 5
+    "count": 17,
+    "uniques": 6
   },
   {
     "referrer": "cn.bing.com",
-    "count": 11,
-    "uniques": 3
-  },
-  {
-    "referrer": "yandex.ru",
-    "count": 3,
+    "count": 9,
     "uniques": 2
   },
   {
     "referrer": "Bing",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "yandex.ru",
     "count": 3,
     "uniques": 2
   },

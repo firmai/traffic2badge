@@ -2,26 +2,26 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 202,
-    "uniques": 110
+    "count": 207,
+    "uniques": 109
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
     "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 24,
-    "uniques": 15
+    "count": 26,
+    "uniques": 17
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/online",
     "title": "python-business-analytics/online at master · firmai/python-business-analytics...",
-    "count": 15,
-    "uniques": 12
+    "count": 16,
+    "uniques": 13
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
     "title": "python-business-analytics/Bike_Sharing.ipynb at master · firmai/python-busine...",
-    "count": 15,
-    "uniques": 8
+    "count": 16,
+    "uniques": 9
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
@@ -32,8 +32,8 @@
   {
     "path": "/firmai/python-business-analytics/tree/master/data/bike",
     "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
-    "count": 7,
-    "uniques": 5
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data/customer",
@@ -48,15 +48,15 @@
     "uniques": 5
   },
   {
+    "path": "/firmai/python-business-analytics/projects",
+    "title": "Projects · firmai/python-business-analytics · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/firmai/python-business-analytics/blob/master/data/customer/HR_comma_sep.csv",
     "title": "python-business-analytics/HR_comma_sep.csv at master · firmai/python-business...",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/firmai/python-business-analytics/blob/master/cheatsheets/datascience.png",
-    "title": "python-business-analytics/datascience.png at master · firmai/python-business-...",
-    "count": 2,
-    "uniques": 2
   }
 ]
