@@ -2,44 +2,50 @@
   {
     "path": "/firmai/financial-machine-learning",
     "title": "GitHub - firmai/financial-machine-learning: A curated list of practical finan...",
-    "count": 1870,
-    "uniques": 814
+    "count": 1820,
+    "uniques": 805
   },
   {
     "path": "/firmai/financial-machine-learning/blob/master/README.md",
     "title": "financial-machine-learning/README.md at master · firmai/financial-machine-lea...",
-    "count": 77,
-    "uniques": 34
-  },
-  {
-    "path": "/firmai/financial-machine-learning/search",
-    "title": "Search · marlin firmware · GitHub",
-    "count": 7,
-    "uniques": 6
+    "count": 80,
+    "uniques": 37
   },
   {
     "path": "/firmai/financial-machine-learning/commit/1cd8db7b0fd1152c8319f0b8b1e78425878c07f2",
     "title": "Merge pull request #2 from AJV009/master · firmai/financial-machine-learning@...",
-    "count": 6,
-    "uniques": 6
+    "count": 7,
+    "uniques": 7
+  },
+  {
+    "path": "/firmai/financial-machine-learning/commits/master",
+    "title": "Commits · firmai/financial-machine-learning · GitHub",
+    "count": 7,
+    "uniques": 2
   },
   {
     "path": "/firmai/financial-machine-learning/pulls",
     "title": "Pull requests · firmai/financial-machine-learning",
-    "count": 6,
+    "count": 7,
     "uniques": 2
   },
   {
-    "path": "/firmai/financial-machine-learning/issues",
-    "title": "Issues · firmai/financial-machine-learning · GitHub",
+    "path": "/firmai/financial-machine-learning/search",
+    "title": "Search · marlin firmware · GitHub",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/firmai/financial-machine-learning/find/master",
+    "title": "File Finder · GitHub",
     "count": 4,
     "uniques": 4
   },
   {
-    "path": "/firmai/financial-machine-learning/branches",
-    "title": "Branches · firmai/financial-machine-learning · GitHub",
+    "path": "/firmai/financial-machine-learning/watchers",
+    "title": "Watchers · firmai/financial-machine-learning",
     "count": 4,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "path": "/firmai/financial-machine-learning/compare/master...sn1p3r46:patch-1",
@@ -48,15 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/financial-machine-learning/find/master",
-    "title": "File Finder · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/financial-machine-learning/pull/3",
-    "title": "Added PyPortfolioOpt repo by sn1p3r46 · Pull Request #3 · firmai/financial-ma...",
-    "count": 2,
-    "uniques": 2
+    "path": "/firmai/financial-machine-learning/issues",
+    "title": "Issues · firmai/financial-machine-learning · GitHub",
+    "count": 3,
+    "uniques": 3
   }
 ]

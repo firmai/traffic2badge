@@ -2,20 +2,14 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 207,
-    "uniques": 109
+    "count": 223,
+    "uniques": 118
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
     "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 26,
-    "uniques": 17
-  },
-  {
-    "path": "/firmai/python-business-analytics/tree/master/online",
-    "title": "python-business-analytics/online at master · firmai/python-business-analytics...",
-    "count": 16,
-    "uniques": 13
+    "count": 28,
+    "uniques": 19
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
@@ -24,16 +18,22 @@
     "uniques": 9
   },
   {
+    "path": "/firmai/python-business-analytics/tree/master/online",
+    "title": "python-business-analytics/online at master · firmai/python-business-analytics...",
+    "count": 15,
+    "uniques": 12
+  },
+  {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
     "title": "python-business-analytics/cheatsheets at master · firmai/python-business-anal...",
-    "count": 14,
-    "uniques": 13
+    "count": 13,
+    "uniques": 12
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data/bike",
     "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
-    "count": 8,
-    "uniques": 6
+    "count": 9,
+    "uniques": 7
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data/customer",
@@ -44,8 +44,8 @@
   {
     "path": "/firmai/python-business-analytics/blob/master/cheatsheets/processing1.jpeg",
     "title": "python-business-analytics/processing1.jpeg at master · firmai/python-business...",
-    "count": 5,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/firmai/python-business-analytics/projects",

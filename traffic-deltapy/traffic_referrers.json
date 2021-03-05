@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 24,
-    "uniques": 19
+    "count": 27,
+    "uniques": 22
   },
   {
     "referrer": "github.com",
-    "count": 11,
-    "uniques": 10
+    "count": 10,
+    "uniques": 9
   },
   {
     "referrer": "DuckDuckGo",
@@ -15,12 +15,17 @@
     "uniques": 1
   },
   {
-    "referrer": "fullstackfeed.com",
+    "referrer": "vinid-team.atlassian.net",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "sktime.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "fullstackfeed.com",
     "count": 1,
     "uniques": 1
   },

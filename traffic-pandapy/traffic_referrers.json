@@ -1,12 +1,12 @@
 [
   {
     "referrer": "github.com",
-    "count": 12,
+    "count": 13,
     "uniques": 10
   },
   {
     "referrer": "Google",
-    "count": 9,
+    "count": 10,
     "uniques": 9
   },
   {
@@ -16,11 +16,6 @@
   },
   {
     "referrer": "pypi.org",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "com.google.android.gm",
     "count": 1,
     "uniques": 1
   }

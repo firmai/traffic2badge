@@ -2,8 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 12,
-    "uniques": 6
+    "count": 11,
+    "uniques": 5
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/new_ex/first_causal_notebook.ipynb",
@@ -14,12 +14,6 @@
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/dInvest-master/trading/trader/TradeHandler.py",
     "title": "techniques/TradeHandler.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/Tutorials-master/Mean%20reversion.ipynb",
-    "title": "techniques/Mean reversion.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f708e ·...",
     "count": 1,
     "uniques": 1
   },
@@ -36,14 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/NLP/Regulation/CCAF%20Label%201-Copy1.ipynb",
-    "title": "techniques/CCAF Label 1-Copy1.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f70...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/NLP/Regulation/CCAF%20Label%201-Copy2.ipynb",
-    "title": "techniques/CCAF Label 1-Copy2.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6f70...",
+    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks/code_networks/jri_code.py",
+    "title": "techniques/jri_code.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/t...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/firmai/techniques/search",
     "title": "Search · dowhy",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
+    "title": "firmai/techniques at 0b15fd6f424074e369c03e0e6015c80dbf6f708e",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/techniques/tree/master/Customer",
+    "title": "techniques/Customer at master · firmai/techniques · GitHub",
     "count": 1,
     "uniques": 1
   }
