@@ -2,8 +2,8 @@
   {
     "path": "/firmai/firmai.github.io",
     "title": "GitHub - firmai/firmai.github.io: Open Business Analytics and Data Science Re...",
-    "count": 10,
-    "uniques": 4
+    "count": 8,
+    "uniques": 3
   },
   {
     "path": "/firmai/firmai.github.io/blob/master/documents/Credit-Card-Fraud-Model.md",
@@ -18,6 +18,18 @@
     "uniques": 6
   },
   {
+    "path": "/firmai/firmai.github.io/tree/master/documents",
+    "title": "firmai.github.io/documents at master · firmai/firmai.github.io · GitHub",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/firmai.github.io/blob/master/articles/index.md",
+    "title": "firmai.github.io/index.md at master · firmai/firmai.github.io",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "path": "/firmai/firmai.github.io/blob/master/documents/Insurance-Model.md",
     "title": "firmai.github.io/Insurance-Model.md at master · firmai/firmai.github.io · Git...",
     "count": 3,
@@ -30,10 +42,10 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/firmai.github.io/tree/master/pages",
-    "title": "firmai.github.io/pages at master · firmai/firmai.github.io",
+    "path": "/firmai/firmai.github.io/blob/master/documents/soda_promotion-adapted-cp.md",
+    "title": "firmai.github.io/soda_promotion-adapted-cp.md at master · firmai/firmai.githu...",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/firmai/firmai.github.io/blob/master/assets/credit_card/output_3_1.png",
@@ -42,20 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/firmai.github.io/blob/master/documents/Insurance.md",
-    "title": "firmai.github.io/Insurance.md at master · firmai/firmai.github.io · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/firmai.github.io/blob/master/documents/Textual-Stock-Prediction-Model.md",
-    "title": "firmai.github.io/Textual-Stock-Prediction-Model.md at master · firmai/firmai....",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/firmai.github.io/tree/master/documents",
-    "title": "firmai.github.io/documents at master · firmai/firmai.github.io",
+    "path": "/firmai/firmai.github.io/blob/master/documents/Ads%20Works%20Multi-Step%20LSTM%20RNN_files/Ads%20Works%20Multi-Step%20LSTM%20RNN_20_0.png",
+    "title": "firmai.github.io/Ads Works Multi-Step LSTM RNN_20_0.png at master · firmai/fi...",
     "count": 1,
     "uniques": 1
   }
