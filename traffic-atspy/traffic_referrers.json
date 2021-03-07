@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 180,
-    "uniques": 139
+    "count": 196,
+    "uniques": 149
   },
   {
     "referrer": "github.com",
-    "count": 74,
-    "uniques": 39
+    "count": 62,
+    "uniques": 37
   },
   {
     "referrer": "pypi.org",
-    "count": 9,
-    "uniques": 5
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "reddit.com",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "link.zhihu.com",

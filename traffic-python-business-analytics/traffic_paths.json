@@ -2,14 +2,14 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 229,
-    "uniques": 119
+    "count": 221,
+    "uniques": 118
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
     "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 32,
-    "uniques": 20
+    "count": 34,
+    "uniques": 19
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/online/Bike_Sharing.ipynb",
@@ -26,8 +26,14 @@
   {
     "path": "/firmai/python-business-analytics/tree/master/data/bike",
     "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
-    "count": 14,
+    "count": 15,
     "uniques": 8
+  },
+  {
+    "path": "/firmai/python-business-analytics/tree/master/data/customer",
+    "title": "python-business-analytics/data/customer at master · firmai/python-business-an...",
+    "count": 15,
+    "uniques": 4
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
@@ -36,10 +42,10 @@
     "uniques": 12
   },
   {
-    "path": "/firmai/python-business-analytics/tree/master/data/customer",
-    "title": "python-business-analytics/data/customer at master · firmai/python-business-an...",
-    "count": 11,
-    "uniques": 4
+    "path": "/firmai/python-business-analytics/blob/master/data/customer/data.csv",
+    "title": "python-business-analytics/data.csv at master · firmai/python-business-analyti...",
+    "count": 6,
+    "uniques": 2
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/cheatsheets/processing1.jpeg",
@@ -52,11 +58,5 @@
     "title": "python-business-analytics/day.csv at master · firmai/python-business-analytics",
     "count": 4,
     "uniques": 3
-  },
-  {
-    "path": "/firmai/python-business-analytics/blob/master/data/customer/data.csv",
-    "title": "python-business-analytics/data.csv at master · firmai/python-business-analyti...",
-    "count": 4,
-    "uniques": 2
   }
 ]
