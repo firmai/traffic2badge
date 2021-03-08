@@ -2,20 +2,8 @@
   {
     "path": "/firmai/firmai.github.io/blob/master/articles/index.md",
     "title": "firmai.github.io/index.md at master · firmai/firmai.github.io",
-    "count": 7,
+    "count": 9,
     "uniques": 1
-  },
-  {
-    "path": "/firmai/firmai.github.io",
-    "title": "GitHub - firmai/firmai.github.io: Open Business Analytics and Data Science Re...",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/firmai.github.io/blob/master/documents/Time-Series.md",
-    "title": "firmai.github.io/Time-Series.md at master · firmai/firmai.github.io · GitHub",
-    "count": 5,
-    "uniques": 5
   },
   {
     "path": "/firmai/firmai.github.io/tree/master/documents",
@@ -24,15 +12,21 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/firmai.github.io/blob/master/documents/Time-Series.md",
+    "title": "firmai.github.io/Time-Series.md at master · firmai/firmai.github.io · GitHub",
+    "count": 4,
+    "uniques": 4
+  },
+  {
     "path": "/firmai/firmai.github.io/blob/master/documents/Insurance-Model.md",
     "title": "firmai.github.io/Insurance-Model.md at master · firmai/firmai.github.io · Git...",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/firmai/firmai.github.io/blob/master/documents/Credit-Card-Fraud-Model.md",
-    "title": "firmai.github.io/Credit-Card-Fraud-Model.md at master · firmai/firmai.github.io",
-    "count": 2,
+    "path": "/firmai/firmai.github.io",
+    "title": "GitHub - firmai/firmai.github.io: Open Business Analytics and Data Science Re...",
+    "count": 3,
     "uniques": 2
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/firmai.github.io/blob/master/documents/Ads%20Works%20Multi-Step%20LSTM%20RNN_files/Ads%20Works%20Multi-Step%20LSTM%20RNN_20_0.png",
     "title": "firmai.github.io/Ads Works Multi-Step LSTM RNN_20_0.png at master · firmai/fi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/firmai.github.io/blob/master/documents/Credit-Card-Fraud-Model.md",
+    "title": "firmai.github.io/Credit-Card-Fraud-Model.md at master · firmai/firmai.github.io",
     "count": 1,
     "uniques": 1
   }

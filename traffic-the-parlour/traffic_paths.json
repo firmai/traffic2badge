@@ -8,6 +8,12 @@
   {
     "path": "/firmai/the-parlour",
     "title": "firmai/the-parlour: Long Articles",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/the-parlour/commits",
+    "title": "Commits · firmai/the-parlour",
     "count": 1,
     "uniques": 1
   },

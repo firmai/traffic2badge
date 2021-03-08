@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 66,
-    "uniques": 47
+    "count": 65,
+    "uniques": 46
   },
   {
     "referrer": "github.com",
@@ -31,11 +31,6 @@
   },
   {
     "referrer": "linkedin.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   },
