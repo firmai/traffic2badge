@@ -2,42 +2,42 @@
   {
     "path": "/firmai/industry-machine-learning",
     "title": "GitHub - firmai/industry-machine-learning: A curated list of applied machine ...",
-    "count": 744,
-    "uniques": 347
+    "count": 730,
+    "uniques": 340
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/README.md",
     "title": "industry-machine-learning/README.md at master · firmai/industry-machine-learn...",
-    "count": 32,
-    "uniques": 16
+    "count": 30,
+    "uniques": 17
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/assets",
     "title": "industry-machine-learning/assets at master · firmai/industry-machine-learning...",
-    "count": 29,
-    "uniques": 22
+    "count": 25,
+    "uniques": 18
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/.github",
     "title": "industry-machine-learning/.github at master · firmai/industry-machine-learning",
-    "count": 13,
-    "uniques": 13
+    "count": 11,
+    "uniques": 11
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/empty.ipynb",
     "title": "industry-machine-learning/empty.ipynb at master · firmai/industry-machine-lea...",
-    "count": 10,
-    "uniques": 7
-  },
-  {
-    "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
-    "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
-    "count": 2,
-    "uniques": 2
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/firmai/industry-machine-learning/search",
     "title": "Search · social ML · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
+    "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
     "count": 2,
     "uniques": 2
   },
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/industry-machine-learning/issues",
-    "title": "Issues · firmai/industry-machine-learning",
+    "path": "/firmai/industry-machine-learning/pulls",
+    "title": "Pull requests · firmai/industry-machine-learning · GitHub",
     "count": 1,
     "uniques": 1
   }

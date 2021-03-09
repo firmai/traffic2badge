@@ -2,20 +2,14 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 42,
-    "uniques": 24
+    "count": 38,
+    "uniques": 23
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/processing",
     "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
-    "count": 6,
+    "count": 4,
     "uniques": 3
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/processing/.ipynb_checkpoints",
-    "title": "interactive-corporate-report/processing/.ipynb_checkpoints at master · firmai...",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data",
@@ -24,20 +18,8 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/interactive-corporate-report/blob/master/processing/.ipynb_checkpoints/Final%20Real%20Metrics-checkpoint.ipynb",
-    "title": "interactive-corporate-report/Final Real Metrics-checkpoint.ipynb at master · ...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/interactive-corporate-report/blob/master/processing/.ipynb_checkpoints/processing_df_stock-checkpoint.ipynb",
     "title": "interactive-corporate-report/processing_df_stock-checkpoint.ipynb at master ·...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/statics",
-    "title": "interactive-corporate-report/statics at master · firmai/interactive-corporate...",
     "count": 3,
     "uniques": 1
   },
@@ -48,15 +30,33 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/interactive-corporate-report/issues",
-    "title": "Issues · firmai/interactive-corporate-report · GitHub",
+    "path": "/firmai/interactive-corporate-report/tree/master/data/county",
+    "title": "interactive-corporate-report/data/county at master · firmai/interactive-corpo...",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/firmai/interactive-corporate-report/pulls",
-    "title": "Pull requests · firmai/interactive-corporate-report · GitHub",
+    "path": "/firmai/interactive-corporate-report/tree/master/data/cpickle",
+    "title": "interactive-corporate-report/data/cpickle at master · firmai/interactive-corp...",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/processing/county_test_drug_data.html",
+    "title": "interactive-corporate-report/county_test_drug_data.html at master · firmai/in...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/processing/.ipynb_checkpoints",
+    "title": "interactive-corporate-report/processing/.ipynb_checkpoints at master · firmai...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/tree/master/statics",
+    "title": "interactive-corporate-report/statics at master · firmai/interactive-corporate...",
+    "count": 2,
+    "uniques": 1
   }
 ]

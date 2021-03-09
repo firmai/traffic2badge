@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 195,
-    "uniques": 137
+    "count": 202,
+    "uniques": 136
   },
   {
     "referrer": "github.com",
-    "count": 60,
-    "uniques": 36
+    "count": 62,
+    "uniques": 38
   },
   {
     "referrer": "blog.etereo.io",
     "count": 9,
-    "uniques": 4
-  },
-  {
-    "referrer": "analyticsindiamag.com",
-    "count": 8,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "referrer": "1point3acres.com",
     "count": 6,
     "uniques": 5
+  },
+  {
+    "referrer": "analyticsindiamag.com",
+    "count": 6,
+    "uniques": 3
   },
   {
     "referrer": "reddit.com",
@@ -35,17 +35,17 @@
     "uniques": 2
   },
   {
-    "referrer": "github.com.cnpmjs.org",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "inf.ufpr.br",
+    "referrer": "StartPage",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "StartPage",
+    "referrer": "radiant-brushlands-42789.herokuapp.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }

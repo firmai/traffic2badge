@@ -1,27 +1,32 @@
 [
   {
     "referrer": "Google",
-    "count": 244,
-    "uniques": 139
+    "count": 253,
+    "uniques": 136
   },
   {
     "referrer": "github.com",
-    "count": 126,
+    "count": 122,
     "uniques": 51
   },
   {
     "referrer": "firmai.org",
-    "count": 23,
+    "count": 22,
     "uniques": 12
   },
   {
-    "referrer": "ruanyifeng.com",
+    "referrer": "DuckDuckGo",
     "count": 10,
-    "uniques": 8
+    "uniques": 6
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 8,
+    "referrer": "ruanyifeng.com",
+    "count": 9,
+    "uniques": 7
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 7,
     "uniques": 5
   },
   {
@@ -30,19 +35,14 @@
     "uniques": 1
   },
   {
-    "referrer": "reddit.com",
+    "referrer": "kaggle.com",
     "count": 5,
-    "uniques": 5
-  },
-  {
-    "referrer": "Bing",
-    "count": 4,
     "uniques": 4
   },
   {
-    "referrer": "kaggle.com",
-    "count": 4,
-    "uniques": 3
+    "referrer": "Bing",
+    "count": 5,
+    "uniques": 4
   },
   {
     "referrer": "StartPage",

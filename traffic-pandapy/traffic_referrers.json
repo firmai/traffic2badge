@@ -1,21 +1,26 @@
 [
   {
     "referrer": "github.com",
-    "count": 14,
-    "uniques": 11
-  },
-  {
-    "referrer": "Google",
-    "count": 12,
+    "count": 13,
     "uniques": 10
   },
   {
-    "referrer": "pypi.org",
+    "referrer": "Google",
+    "count": 10,
+    "uniques": 8
+  },
+  {
+    "referrer": "weekly.pychina.org",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "news.ycombinator.com",
+    "referrer": "t.co",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "pypi.org",
     "count": 1,
     "uniques": 1
   }
