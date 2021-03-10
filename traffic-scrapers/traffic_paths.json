@@ -2,14 +2,14 @@
   {
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
-    "count": 14,
-    "uniques": 13
+    "count": 16,
+    "uniques": 14
   },
   {
-    "path": "/firmai/scrapers/blob/master/morningstar/morningstarscraper.py",
-    "title": "scrapers/morningstarscraper.py at master · firmai/scrapers · GitHub",
-    "count": 5,
-    "uniques": 2
+    "path": "/firmai/scrapers/tree/master/facebook",
+    "title": "scrapers/facebook at master · firmai/scrapers · GitHub",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/firmai/scrapers/tree/master/linkedin",
@@ -36,26 +36,26 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/tree/master/facebook",
-    "title": "scrapers/facebook at master · firmai/scrapers · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/scrapers/tree/master/instagram",
     "title": "scrapers/instagram at master · firmai/scrapers",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/tree/master/morningstar",
-    "title": "scrapers/morningstar at master · firmai/scrapers · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/scrapers/blob/master/angellist/angel_sel.py",
     "title": "scrapers/angel_sel.py at master · firmai/scrapers",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/blob/master/instagram/Instagram.csv",
+    "title": "scrapers/Instagram.csv at master · firmai/scrapers",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/scrapers/blob/master/instagram/insta.py",
+    "title": "scrapers/insta.py at master · firmai/scrapers",
     "count": 1,
     "uniques": 1
   }

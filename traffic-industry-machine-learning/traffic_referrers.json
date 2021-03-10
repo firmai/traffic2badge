@@ -1,32 +1,32 @@
 [
   {
     "referrer": "Google",
-    "count": 253,
-    "uniques": 136
+    "count": 268,
+    "uniques": 144
   },
   {
     "referrer": "github.com",
-    "count": 122,
-    "uniques": 51
+    "count": 109,
+    "uniques": 54
   },
   {
     "referrer": "firmai.org",
-    "count": 22,
-    "uniques": 12
+    "count": 20,
+    "uniques": 11
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 10,
+    "referrer": "reddit.com",
+    "count": 12,
     "uniques": 6
   },
   {
     "referrer": "ruanyifeng.com",
-    "count": 9,
-    "uniques": 7
+    "count": 11,
+    "uniques": 8
   },
   {
-    "referrer": "reddit.com",
-    "count": 7,
+    "referrer": "DuckDuckGo",
+    "count": 8,
     "uniques": 5
   },
   {
@@ -35,18 +35,18 @@
     "uniques": 1
   },
   {
-    "referrer": "kaggle.com",
-    "count": 5,
-    "uniques": 4
-  },
-  {
     "referrer": "Bing",
     "count": 5,
     "uniques": 4
   },
   {
-    "referrer": "StartPage",
+    "referrer": "kaggle.com",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "referrer": "akoios.substack.com",
     "count": 4,
-    "uniques": 1
+    "uniques": 2
   }
 ]

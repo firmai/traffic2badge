@@ -2,8 +2,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 12,
-    "uniques": 6
+    "count": 9,
+    "uniques": 5
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/examples/cdt/causality/graph/GIES.py",
@@ -15,12 +15,6 @@
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/Experiments/new_ex/first_causal_notebook.ipynb",
     "title": "techniques/first_causal_notebook.ipynb at 0b15fd6f424074e369c03e0e6015c80dbf6...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Alternative%20Investments/dInvest-master/trading/trader/TradeHandler.py",
-    "title": "techniques/TradeHandler.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firm...",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -36,20 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/find/master",
-    "title": "File Finder · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/techniques/search",
     "title": "Search · dowhy",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/techniques/tree/0b15fd6f424074e369c03e0e6015c80dbf6f708e",
-    "title": "firmai/techniques at 0b15fd6f424074e369c03e0e6015c80dbf6f708e",
     "count": 1,
     "uniques": 1
   },

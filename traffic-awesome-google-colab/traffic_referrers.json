@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 202,
-    "uniques": 136
+    "count": 205,
+    "uniques": 134
   },
   {
     "referrer": "github.com",
-    "count": 62,
-    "uniques": 38
+    "count": 61,
+    "uniques": 37
   },
   {
     "referrer": "blog.etereo.io",
-    "count": 9,
-    "uniques": 5
+    "count": 8,
+    "uniques": 4
   },
   {
     "referrer": "1point3acres.com",
@@ -20,14 +20,14 @@
     "uniques": 5
   },
   {
+    "referrer": "reddit.com",
+    "count": 6,
+    "uniques": 5
+  },
+  {
     "referrer": "analyticsindiamag.com",
     "count": 6,
     "uniques": 3
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 4,
-    "uniques": 4
   },
   {
     "referrer": "medium.com",
