@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 13,
-    "uniques": 10
+    "count": 14,
+    "uniques": 12
   },
   {
     "referrer": "Google",
@@ -10,7 +10,17 @@
     "uniques": 8
   },
   {
+    "referrer": "pypi.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "weekly.pychina.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   },
@@ -20,7 +30,7 @@
     "uniques": 1
   },
   {
-    "referrer": "pypi.org",
+    "referrer": "news.ycombinator.com",
     "count": 1,
     "uniques": 1
   }

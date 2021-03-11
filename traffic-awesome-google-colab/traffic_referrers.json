@@ -1,22 +1,17 @@
 [
   {
     "referrer": "Google",
-    "count": 205,
-    "uniques": 134
+    "count": 207,
+    "uniques": 139
   },
   {
     "referrer": "github.com",
-    "count": 61,
-    "uniques": 37
+    "count": 54,
+    "uniques": 34
   },
   {
     "referrer": "blog.etereo.io",
-    "count": 8,
-    "uniques": 4
-  },
-  {
-    "referrer": "1point3acres.com",
-    "count": 6,
+    "count": 9,
     "uniques": 5
   },
   {
@@ -25,13 +20,18 @@
     "uniques": 5
   },
   {
-    "referrer": "analyticsindiamag.com",
+    "referrer": "1point3acres.com",
     "count": 6,
-    "uniques": 3
+    "uniques": 4
+  },
+  {
+    "referrer": "analyticsindiamag.com",
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "medium.com",
-    "count": 4,
+    "count": 3,
     "uniques": 2
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "radiant-brushlands-42789.herokuapp.com",
+    "referrer": "link.zhihu.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "radiant-brushlands-42789.herokuapp.com",
     "count": 1,
     "uniques": 1
   }

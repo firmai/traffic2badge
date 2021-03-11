@@ -2,44 +2,50 @@
   {
     "path": "/firmai/tsgan",
     "title": "GitHub - firmai/tsgan: Time-series Generative Adversarial Networks (fork from...",
-    "count": 79,
-    "uniques": 49
+    "count": 88,
+    "uniques": 55
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/timegan",
     "title": "tsgan/alg/timegan at master · firmai/tsgan · GitHub",
-    "count": 21,
+    "count": 27,
     "uniques": 15
   },
   {
     "path": "/firmai/tsgan/tree/master/alg",
-    "title": "tsgan/alg at master · firmai/tsgan · GitHub",
-    "count": 13,
-    "uniques": 10
+    "title": "tsgan/alg at master · firmai/tsgan",
+    "count": 15,
+    "uniques": 11
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tgan.py",
     "title": "tsgan/tgan.py at master · firmai/tsgan · GitHub",
-    "count": 5,
-    "uniques": 5
+    "count": 6,
+    "uniques": 6
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
+    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan",
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/timegan/main.py",
     "title": "tsgan/main.py at master · firmai/tsgan · GitHub",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/firmai/tsgan/tree/master/alg/knockoffgan",
+    "title": "tsgan/alg/knockoffgan at master · firmai/tsgan",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/invase",
     "title": "tsgan/alg/invase at master · firmai/tsgan · GitHub",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "path": "/firmai/tsgan/tree/master/data",
-    "title": "tsgan/data at master · firmai/tsgan · GitHub",
-    "count": 3,
-    "uniques": 3
   },
   {
     "path": "/firmai/tsgan/network/members",
@@ -52,11 +58,5 @@
     "title": "tsgan/alg/dpbag at master · firmai/tsgan",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
-    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan",
-    "count": 2,
-    "uniques": 2
   }
 ]
