@@ -6,22 +6,17 @@
   },
   {
     "referrer": "github.com",
-    "count": 47,
-    "uniques": 28
+    "count": 48,
+    "uniques": 29
   },
   {
     "referrer": "reddit.com",
-    "count": 11,
-    "uniques": 6
+    "count": 12,
+    "uniques": 7
   },
   {
     "referrer": "medium.com",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "referrer": "l.facebook.com",
-    "count": 2,
     "uniques": 2
   },
   {
@@ -30,7 +25,7 @@
     "uniques": 1
   },
   {
-    "referrer": "m.facebook.com",
+    "referrer": "l.facebook.com",
     "count": 1,
     "uniques": 1
   }

@@ -1,27 +1,32 @@
 [
   {
     "referrer": "Google",
-    "count": 256,
-    "uniques": 144
+    "count": 255,
+    "uniques": 140
   },
   {
     "referrer": "github.com",
-    "count": 93,
-    "uniques": 55
+    "count": 90,
+    "uniques": 54
   },
   {
     "referrer": "firmai.org",
-    "count": 25,
+    "count": 23,
     "uniques": 13
   },
   {
     "referrer": "reddit.com",
-    "count": 13,
-    "uniques": 7
+    "count": 12,
+    "uniques": 6
   },
   {
     "referrer": "Bing",
-    "count": 10,
+    "count": 11,
+    "uniques": 6
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 8,
     "uniques": 5
   },
   {
@@ -30,9 +35,9 @@
     "uniques": 5
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 7,
-    "uniques": 4
+    "referrer": "Yahoo",
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "kaggle.com",
@@ -43,10 +48,5 @@
     "referrer": "akoios.substack.com",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "referrer": "StartPage",
-    "count": 4,
-    "uniques": 1
   }
 ]

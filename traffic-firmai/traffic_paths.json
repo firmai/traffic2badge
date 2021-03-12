@@ -18,14 +18,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/firmai/commits",
-    "title": "Commits · firmai/firmai · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/firmai/firmai/edit/main/README.md",
     "title": "Editing firmai/README.md at main · firmai/firmai",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/firmai/commits",
+    "title": "Commits · firmai/firmai · GitHub",
     "count": 2,
     "uniques": 1
   },

@@ -2,26 +2,20 @@
   {
     "path": "/firmai/industry-machine-learning",
     "title": "GitHub - firmai/industry-machine-learning: A curated list of applied machine ...",
-    "count": 736,
-    "uniques": 342
-  },
-  {
-    "path": "/firmai/industry-machine-learning/blob/master/README.md",
-    "title": "industry-machine-learning/README.md at master · firmai/industry-machine-learn...",
-    "count": 30,
-    "uniques": 16
+    "count": 743,
+    "uniques": 340
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/assets",
     "title": "industry-machine-learning/assets at master · firmai/industry-machine-learning...",
     "count": 27,
-    "uniques": 20
+    "uniques": 21
   },
   {
-    "path": "/firmai/industry-machine-learning/blob/master/assets/empty.ipynb",
-    "title": "industry-machine-learning/empty.ipynb at master · firmai/industry-machine-lea...",
-    "count": 11,
-    "uniques": 8
+    "path": "/firmai/industry-machine-learning/blob/master/README.md",
+    "title": "industry-machine-learning/README.md at master · firmai/industry-machine-learn...",
+    "count": 26,
+    "uniques": 13
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/.github",
@@ -30,10 +24,10 @@
     "uniques": 10
   },
   {
-    "path": "/firmai/industry-machine-learning/search",
-    "title": "Search · supply chain · GitHub",
-    "count": 4,
-    "uniques": 4
+    "path": "/firmai/industry-machine-learning/blob/master/assets/empty.ipynb",
+    "title": "industry-machine-learning/empty.ipynb at master · firmai/industry-machine-lea...",
+    "count": 10,
+    "uniques": 7
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/first.txt",
@@ -42,9 +36,21 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
-    "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
+    "path": "/firmai/industry-machine-learning/search",
+    "title": "Search · supply chain · GitHub",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/firmai/industry-machine-learning/blob/master/assets/industry.png",
+    "title": "industry-machine-learning/industry.png at master · firmai/industry-machine-le...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/firmai/industry-machine-learning/blob/master/.github/FUNDING.yml",
+    "title": "industry-machine-learning/FUNDING.yml at master · firmai/industry-machine-lea...",
+    "count": 1,
+    "uniques": 1
   }
 ]

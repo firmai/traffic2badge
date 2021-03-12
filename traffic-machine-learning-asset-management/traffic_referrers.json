@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 134,
-    "uniques": 67
+    "count": 133,
+    "uniques": 70
   },
   {
     "referrer": "github.com",
-    "count": 96,
-    "uniques": 59
-  },
-  {
-    "referrer": "news.ycombinator.com",
-    "count": 15,
-    "uniques": 1
+    "count": 91,
+    "uniques": 55
   },
   {
     "referrer": "reddit.com",
-    "count": 7,
-    "uniques": 5
+    "count": 16,
+    "uniques": 10
+  },
+  {
+    "referrer": "news.ycombinator.com",
+    "count": 14,
+    "uniques": 1
   },
   {
     "referrer": "Baidu",
@@ -31,6 +31,16 @@
   },
   {
     "referrer": "theparlour.substack.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "awesomeopensource.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }

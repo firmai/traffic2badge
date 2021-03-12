@@ -2,12 +2,12 @@
   {
     "referrer": "Google",
     "count": 207,
-    "uniques": 139
+    "uniques": 138
   },
   {
     "referrer": "github.com",
     "count": 54,
-    "uniques": 34
+    "uniques": 36
   },
   {
     "referrer": "blog.etereo.io",
@@ -25,14 +25,14 @@
     "uniques": 4
   },
   {
-    "referrer": "analyticsindiamag.com",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "referrer": "medium.com",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "referrer": "analyticsindiamag.com",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "StartPage",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "link.zhihu.com",
+    "referrer": "radiant-brushlands-42789.herokuapp.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "radiant-brushlands-42789.herokuapp.com",
+    "referrer": "link.zhihu.com",
     "count": 1,
     "uniques": 1
   }
