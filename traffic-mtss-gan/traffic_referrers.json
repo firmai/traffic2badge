@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 44,
-    "uniques": 31
+    "count": 47,
+    "uniques": 33
   },
   {
     "referrer": "github.com",
-    "count": 12,
+    "count": 11,
     "uniques": 10
   },
   {
@@ -15,7 +15,7 @@
     "uniques": 5
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "amp-reddit-com.cdn.ampproject.org",
     "count": 1,
     "uniques": 1
   },
@@ -25,17 +25,12 @@
     "uniques": 1
   },
   {
-    "referrer": "linkedin.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "amp-reddit-com.cdn.ampproject.org",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }

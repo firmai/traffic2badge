@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 79,
-    "uniques": 47
+    "count": 80,
+    "uniques": 48
   },
   {
     "referrer": "github.com",
-    "count": 61,
-    "uniques": 35
+    "count": 66,
+    "uniques": 37
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 37,
-    "uniques": 16
+    "count": 39,
+    "uniques": 18
   },
   {
     "referrer": "firmai.org",
@@ -20,9 +20,9 @@
     "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "Bing",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "referrer": "awesomeopensource.com",
@@ -30,12 +30,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Bing",
-    "count": 2,
-    "uniques": 2
+    "referrer": "getpocket.com",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "referrer": "getpocket.com",
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }

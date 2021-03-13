@@ -2,14 +2,14 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 39,
-    "uniques": 27
+    "count": 47,
+    "uniques": 32
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data",
     "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/processing",
@@ -22,6 +22,12 @@
     "title": "interactive-corporate-report/processing_df_stock-checkpoint.ipynb at master ·...",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/issues",
+    "title": "Issues · firmai/interactive-corporate-report · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data/county",
@@ -51,12 +57,6 @@
     "path": "/firmai/interactive-corporate-report/tree/master/statics",
     "title": "interactive-corporate-report/statics at master · firmai/interactive-corporate...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/app.yaml",
-    "title": "interactive-corporate-report/app.yaml at master · firmai/interactive-corporat...",
-    "count": 1,
     "uniques": 1
   }
 ]
