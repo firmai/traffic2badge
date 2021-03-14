@@ -1,13 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 15,
-    "uniques": 14
+    "count": 17,
+    "uniques": 16
   },
   {
     "referrer": "Google",
     "count": 8,
     "uniques": 6
+  },
+  {
+    "referrer": "cn.bing.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "news.ycombinator.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "weekly.pychina.org",
@@ -16,16 +26,6 @@
   },
   {
     "referrer": "t.co",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "cn.bing.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "news.ycombinator.com",
     "count": 1,
     "uniques": 1
   }

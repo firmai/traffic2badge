@@ -1,8 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 25,
-    "uniques": 22
+    "count": 28,
+    "uniques": 24
+  },
+  {
+    "referrer": "github.com",
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "amitness.com",
@@ -10,12 +15,12 @@
     "uniques": 2
   },
   {
-    "referrer": "github.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "weekly.pychina.org",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "referrer": "weekly.pychina.org",
+    "referrer": "madewithml.com",
     "count": 1,
     "uniques": 1
   },
@@ -26,11 +31,6 @@
   },
   {
     "referrer": "vinid-team.atlassian.net",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "madewithml.com",
     "count": 1,
     "uniques": 1
   }

@@ -1,22 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 135,
-    "uniques": 75
+    "count": 141,
+    "uniques": 78
   },
   {
     "referrer": "github.com",
-    "count": 94,
+    "count": 85,
     "uniques": 57
   },
   {
     "referrer": "reddit.com",
-    "count": 17,
-    "uniques": 11
+    "count": 16,
+    "uniques": 10
   },
   {
     "referrer": "news.ycombinator.com",
-    "count": 13,
+    "count": 12,
     "uniques": 1
   },
   {

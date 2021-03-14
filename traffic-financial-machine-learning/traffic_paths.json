@@ -2,14 +2,20 @@
   {
     "path": "/firmai/financial-machine-learning",
     "title": "GitHub - firmai/financial-machine-learning: A curated list of practical finan...",
-    "count": 1465,
-    "uniques": 661
+    "count": 1480,
+    "uniques": 672
   },
   {
     "path": "/firmai/financial-machine-learning/blob/master/README.md",
     "title": "financial-machine-learning/README.md at master · firmai/financial-machine-lea...",
-    "count": 69,
-    "uniques": 40
+    "count": 71,
+    "uniques": 43
+  },
+  {
+    "path": "/firmai/financial-machine-learning/commits/master",
+    "title": "Commits · firmai/financial-machine-learning · GitHub",
+    "count": 9,
+    "uniques": 3
   },
   {
     "path": "/firmai/financial-machine-learning/pulls",
@@ -20,8 +26,8 @@
   {
     "path": "/firmai/financial-machine-learning/find/master",
     "title": "File Finder · GitHub",
-    "count": 8,
-    "uniques": 7
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/firmai/financial-machine-learning/commit/1cd8db7b0fd1152c8319f0b8b1e78425878c07f2",
@@ -30,16 +36,10 @@
     "uniques": 5
   },
   {
-    "path": "/firmai/financial-machine-learning/commits/master",
-    "title": "Commits · firmai/financial-machine-learning · GitHub",
+    "path": "/firmai/financial-machine-learning/edit/master/README.md",
+    "title": "Editing financial-machine-learning/README.md at master · firmai/financial-mac...",
     "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/financial-machine-learning/watchers",
-    "title": "Watchers · firmai/financial-machine-learning",
-    "count": 4,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/firmai/financial-machine-learning/compare/master...sn1p3r46:patch-1",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/financial-machine-learning/branches",
-    "title": "Branches · firmai/financial-machine-learning",
+    "path": "/firmai/financial-machine-learning/search",
+    "title": "Search · 金融大数据分析第二版",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
-    "path": "/firmai/financial-machine-learning/edit/master/README.md",
-    "title": "Editing financial-machine-learning/README.md at master · firmai/financial-mac...",
+    "path": "/firmai/financial-machine-learning/branches",
+    "title": "Branches · firmai/financial-machine-learning",
     "count": 3,
     "uniques": 2
   }
