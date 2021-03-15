@@ -2,18 +2,12 @@
   {
     "path": "/firmai/random-assets-two",
     "title": "GitHub - firmai/random-assets-two",
-    "count": 2,
+    "count": 3,
     "uniques": 2
   },
   {
-    "path": "/firmai/random-assets-two/blob/master/fairput/train.csv",
-    "title": "random-assets-two/train.csv at master · firmai/random-assets-two · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/random-assets-two/tree/master/fairput",
-    "title": "random-assets-two/fairput at master · firmai/random-assets-two · GitHub",
+    "path": "/firmai/random-assets-two/blob/master/numpy/multiple_stocks.csv",
+    "title": "random-assets-two/multiple_stocks.csv at master · firmai/random-assets-two · ...",
     "count": 1,
     "uniques": 1
   }

@@ -2,42 +2,18 @@
   {
     "path": "/firmai/firmai",
     "title": "GitHub - firmai/firmai",
-    "count": 20,
-    "uniques": 15
+    "count": 15,
+    "uniques": 13
   },
   {
     "path": "/firmai/firmai/tree/main/.github/workflows",
-    "title": "firmai/.github/workflows at main · firmai/firmai · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/firmai/firmai/commits",
-    "title": "Commits · firmai/firmai · GitHub",
+    "title": "firmai/.github/workflows at main · firmai/firmai",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/firmai/commit/7a52417112bd6bdd0946261e93ab8805b9eec118",
-    "title": "Update TEMPLATE.md · firmai/firmai@7a52417 · GitHub",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/firmai/firmai/edit/main/README.md",
     "title": "Editing firmai/README.md at main · firmai/firmai",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/firmai/issues",
-    "title": "Issues · firmai/firmai · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/firmai/pulls",
-    "title": "Pull requests · firmai/firmai · GitHub",
     "count": 1,
     "uniques": 1
   }

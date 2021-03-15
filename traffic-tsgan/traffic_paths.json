@@ -2,20 +2,20 @@
   {
     "path": "/firmai/tsgan",
     "title": "GitHub - firmai/tsgan: Time-series Generative Adversarial Networks (fork from...",
-    "count": 99,
+    "count": 94,
     "uniques": 61
   },
   {
     "path": "/firmai/tsgan/tree/master/alg",
     "title": "tsgan/alg at master · firmai/tsgan · GitHub",
-    "count": 26,
-    "uniques": 18
+    "count": 28,
+    "uniques": 19
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/timegan",
     "title": "tsgan/alg/timegan at master · firmai/tsgan · GitHub",
-    "count": 25,
-    "uniques": 14
+    "count": 23,
+    "uniques": 12
   },
   {
     "path": "/firmai/tsgan/tree/master/alg/knockoffgan",
@@ -30,16 +30,16 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
-    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan · GitHub",
-    "count": 7,
-    "uniques": 4
-  },
-  {
     "path": "/firmai/tsgan/blob/master/alg/timegan/tgan.py",
     "title": "tsgan/tgan.py at master · firmai/tsgan · GitHub",
     "count": 6,
     "uniques": 6
+  },
+  {
+    "path": "/firmai/tsgan/blob/master/alg/timegan/tutorial_timegan.ipynb",
+    "title": "tsgan/tutorial_timegan.ipynb at master · firmai/tsgan · GitHub",
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/firmai/tsgan/blob/master/alg/attentivess/Tutorial_for_Attentive_State-space_Models.ipynb",
@@ -54,9 +54,9 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/tsgan/blob/master/alg/timegan/main.py",
-    "title": "tsgan/main.py at master · firmai/tsgan · GitHub",
+    "path": "/firmai/tsgan/blob/master/alg/knockoffgan/initpath_alg.py",
+    "title": "tsgan/initpath_alg.py at master · firmai/tsgan · GitHub",
     "count": 3,
-    "uniques": 3
+    "uniques": 2
   }
 ]

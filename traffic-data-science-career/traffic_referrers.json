@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "Google",
+    "referrer": "github.com",
     "count": 36,
-    "uniques": 23
+    "uniques": 19
   },
   {
-    "referrer": "github.com",
-    "count": 35,
-    "uniques": 18
+    "referrer": "Google",
+    "count": 27,
+    "uniques": 22
   },
   {
     "referrer": "xscode.com",

@@ -2,20 +2,26 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 248,
-    "uniques": 126
+    "count": 240,
+    "uniques": 120
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
     "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 44,
-    "uniques": 22
+    "count": 43,
+    "uniques": 21
+  },
+  {
+    "path": "/firmai/python-business-analytics/tree/master/data/bike",
+    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
+    "count": 24,
+    "uniques": 12
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data/customer",
     "title": "python-business-analytics/data/customer at master · firmai/python-business-an...",
-    "count": 29,
-    "uniques": 11
+    "count": 24,
+    "uniques": 10
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
@@ -24,39 +30,33 @@
     "uniques": 17
   },
   {
-    "path": "/firmai/python-business-analytics/tree/master/data/bike",
-    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
-    "count": 21,
-    "uniques": 13
-  },
-  {
     "path": "/firmai/python-business-analytics/tree/master/online",
     "title": "python-business-analytics/online at master · firmai/python-business-analytics...",
-    "count": 13,
-    "uniques": 9
-  },
-  {
-    "path": "/firmai/python-business-analytics/blob/master/README.md",
-    "title": "python-business-analytics/README.md at master · firmai/python-business-analyt...",
-    "count": 6,
-    "uniques": 5
+    "count": 12,
+    "uniques": 8
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/data/bike/hour.csv",
     "title": "python-business-analytics/hour.csv at master · firmai/python-business-analyti...",
-    "count": 6,
-    "uniques": 2
+    "count": 11,
+    "uniques": 3
   },
   {
-    "path": "/firmai/python-business-analytics/blob/master/data/customer/data.csv",
-    "title": "python-business-analytics/data.csv at master · firmai/python-business-analyti...",
-    "count": 6,
-    "uniques": 2
+    "path": "/firmai/python-business-analytics/blob/master/data/bike/day.csv",
+    "title": "python-business-analytics/day.csv at master · firmai/python-business-analytics",
+    "count": 8,
+    "uniques": 4
   },
   {
-    "path": "/firmai/python-business-analytics/blob/master/data/customer/HR_comma_sep.csv",
-    "title": "python-business-analytics/HR_comma_sep.csv at master · firmai/python-business...",
-    "count": 6,
-    "uniques": 2
+    "path": "/firmai/python-business-analytics/blob/master/README.md",
+    "title": "python-business-analytics/README.md at master · firmai/python-business-analyt...",
+    "count": 7,
+    "uniques": 6
+  },
+  {
+    "path": "/firmai/python-business-analytics/blob/master/cheatsheets/datascience.png",
+    "title": "python-business-analytics/datascience.png at master · firmai/python-business-...",
+    "count": 5,
+    "uniques": 5
   }
 ]

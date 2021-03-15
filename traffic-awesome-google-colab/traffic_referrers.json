@@ -1,23 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 189,
-    "uniques": 129
+    "count": 181,
+    "uniques": 124
   },
   {
     "referrer": "github.com",
-    "count": 50,
-    "uniques": 38
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "referrer": "1point3acres.com",
-    "count": 6,
-    "uniques": 4
+    "count": 48,
+    "uniques": 37
   },
   {
     "referrer": "blog.etereo.io",
@@ -25,7 +15,17 @@
     "uniques": 4
   },
   {
+    "referrer": "1point3acres.com",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "referrer": "medium.com",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "reddit.com",
     "count": 3,
     "uniques": 2
   },
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "link.zhihu.com",
+    "referrer": "radiant-brushlands-42789.herokuapp.com",
     "count": 1,
     "uniques": 1
   }

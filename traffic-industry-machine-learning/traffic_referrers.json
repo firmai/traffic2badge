@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 257,
-    "uniques": 136
+    "count": 250,
+    "uniques": 123
   },
   {
     "referrer": "github.com",
-    "count": 86,
-    "uniques": 53
+    "count": 88,
+    "uniques": 55
   },
   {
     "referrer": "firmai.org",
-    "count": 39,
-    "uniques": 16
+    "count": 41,
+    "uniques": 17
   },
   {
     "referrer": "reddit.com",
@@ -30,7 +30,7 @@
     "uniques": 4
   },
   {
-    "referrer": "ruanyifeng.com",
+    "referrer": "t.co",
     "count": 5,
     "uniques": 3
   },
