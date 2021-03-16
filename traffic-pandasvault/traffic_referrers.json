@@ -10,6 +10,11 @@
     "uniques": 2
   },
   {
+    "referrer": "DuckDuckGo",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "referrer": "pypi.org",
     "count": 2,
     "uniques": 1

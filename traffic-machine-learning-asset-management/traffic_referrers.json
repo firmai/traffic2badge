@@ -1,22 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 146,
-    "uniques": 81
+    "count": 159,
+    "uniques": 83
   },
   {
     "referrer": "github.com",
-    "count": 81,
+    "count": 83,
     "uniques": 60
   },
   {
     "referrer": "reddit.com",
-    "count": 15,
+    "count": 18,
     "uniques": 10
   },
   {
     "referrer": "news.ycombinator.com",
-    "count": 11,
+    "count": 10,
     "uniques": 1
   },
   {
@@ -25,9 +25,14 @@
     "uniques": 3
   },
   {
+    "referrer": "DuckDuckGo",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "referrer": "colab.research.google.com",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "theparlour.substack.com",
@@ -36,11 +41,6 @@
   },
   {
     "referrer": "awesomeopensource.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }

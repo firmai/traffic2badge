@@ -2,26 +2,26 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 240,
-    "uniques": 120
+    "count": 219,
+    "uniques": 109
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
     "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 43,
-    "uniques": 21
-  },
-  {
-    "path": "/firmai/python-business-analytics/tree/master/data/bike",
-    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
-    "count": 24,
-    "uniques": 12
+    "count": 41,
+    "uniques": 19
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data/customer",
     "title": "python-business-analytics/data/customer at master · firmai/python-business-an...",
     "count": 24,
     "uniques": 10
+  },
+  {
+    "path": "/firmai/python-business-analytics/tree/master/data/bike",
+    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
+    "count": 23,
+    "uniques": 11
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
@@ -32,8 +32,8 @@
   {
     "path": "/firmai/python-business-analytics/tree/master/online",
     "title": "python-business-analytics/online at master · firmai/python-business-analytics...",
-    "count": 12,
-    "uniques": 8
+    "count": 11,
+    "uniques": 7
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/data/bike/hour.csv",

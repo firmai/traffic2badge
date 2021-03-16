@@ -2,14 +2,8 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 45,
-    "uniques": 31
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/data",
-    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
-    "count": 4,
-    "uniques": 4
+    "count": 43,
+    "uniques": 30
   },
   {
     "path": "/firmai/interactive-corporate-report/issues",
@@ -18,28 +12,10 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/interactive-corporate-report/tree/master/processing",
-    "title": "interactive-corporate-report/processing at master · firmai/interactive-corpor...",
+    "path": "/firmai/interactive-corporate-report/tree/master/data",
+    "title": "interactive-corporate-report/data at master · firmai/interactive-corporate-re...",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/processing/.ipynb_checkpoints/processing_df_stock-checkpoint.ipynb",
-    "title": "interactive-corporate-report/processing_df_stock-checkpoint.ipynb at master ·...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/data/county",
-    "title": "interactive-corporate-report/data/county at master · firmai/interactive-corpo...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/tree/master/data/cpickle",
-    "title": "interactive-corporate-report/data/cpickle at master · firmai/interactive-corp...",
-    "count": 2,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/firmai/interactive-corporate-report/blob/master/processing/county_test_drug_data.html",
@@ -48,15 +24,39 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/tree/master/processing/.ipynb_checkpoints",
-    "title": "interactive-corporate-report/processing/.ipynb_checkpoints at master · firmai...",
-    "count": 2,
+    "path": "/firmai/interactive-corporate-report/blob/14ec2b553d54d48aca173ad6d86cc49781130187/functionality/libraries.py",
+    "title": "interactive-corporate-report/libraries.py at 14ec2b553d54d48aca173ad6d86cc497...",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/tree/master/statics",
-    "title": "interactive-corporate-report/statics at master · firmai/interactive-corporate...",
-    "count": 2,
+    "path": "/firmai/interactive-corporate-report/blob/master/data/._BJRI_gd_interviews.csv",
+    "title": "interactive-corporate-report/._BJRI_gd_interviews.csv at master · firmai/inte...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/data/cpickle/APPB_benefits.p",
+    "title": "interactive-corporate-report/APPB_benefits.p at master · firmai/interactive-c...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/data/cpickle/shareholder.p",
+    "title": "interactive-corporate-report/shareholder.p at master · firmai/interactive-cor...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/data/financial/._ass_pca.xlsx",
+    "title": "interactive-corporate-report/._ass_pca.xlsx at master · firmai/interactive-co...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/blob/master/data/financial/._bjs_gd_extra.csv",
+    "title": "interactive-corporate-report/._bjs_gd_extra.csv at master · firmai/interactiv...",
+    "count": 1,
     "uniques": 1
   }
 ]
