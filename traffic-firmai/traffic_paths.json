@@ -2,18 +2,24 @@
   {
     "path": "/firmai/firmai",
     "title": "GitHub - firmai/firmai",
-    "count": 16,
-    "uniques": 14
+    "count": 15,
+    "uniques": 13
   },
   {
-    "path": "/firmai/firmai/tree/main/.github/workflows",
-    "title": "firmai/.github/workflows at main · firmai/firmai",
+    "path": "/firmai/firmai/projects",
+    "title": "Projects · firmai/firmai",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/firmai/firmai/edit/main/README.md",
     "title": "Editing firmai/README.md at main · firmai/firmai",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/firmai/tree/main/.github/workflows",
+    "title": "firmai/.github/workflows at main · firmai/firmai",
     "count": 1,
     "uniques": 1
   }

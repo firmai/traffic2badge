@@ -8,8 +8,8 @@
   {
     "path": "/firmai/techniques",
     "title": "GitHub - firmai/techniques: Jupyter Notebook and Python business intelligence...",
-    "count": 2,
-    "uniques": 2
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Causal%20Inference/CausalDiscoveryToolbox-master/examples/cdt/causality/graph/GIES.py",
@@ -24,8 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/techniques/blob/0b15fd6f424074e369c03e0e6015c80dbf6f708e/Networks/code_networks/jri_code.py",
-    "title": "techniques/jri_code.py at 0b15fd6f424074e369c03e0e6015c80dbf6f708e · firmai/t...",
+    "path": "/firmai/techniques/blob/master/NLP/Disclosures/Counts.ipynb",
+    "title": "techniques/Counts.ipynb at master · firmai/techniques · GitHub",
     "count": 1,
     "uniques": 1
   }

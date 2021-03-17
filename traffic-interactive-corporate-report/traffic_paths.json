@@ -2,8 +2,8 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 43,
-    "uniques": 30
+    "count": 45,
+    "uniques": 31
   },
   {
     "path": "/firmai/interactive-corporate-report/issues",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/blob/master/data/financial/._ass_pca.xlsx",
-    "title": "interactive-corporate-report/._ass_pca.xlsx at master · firmai/interactive-co...",
+    "path": "/firmai/interactive-corporate-report/blob/master/data/morningstar/BJRI_sample.json",
+    "title": "interactive-corporate-report/BJRI_sample.json at master · firmai/interactive-...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/firmai/interactive-corporate-report/blob/master/data/financial/._bjs_gd_extra.csv",
-    "title": "interactive-corporate-report/._bjs_gd_extra.csv at master · firmai/interactiv...",
+    "path": "/firmai/interactive-corporate-report/blob/master/.dockerignore",
+    "title": "interactive-corporate-report/.dockerignore at master · firmai/interactive-cor...",
     "count": 1,
     "uniques": 1
   }

@@ -1,28 +1,33 @@
 [
   {
     "referrer": "Google",
-    "count": 684,
-    "uniques": 353
+    "count": 715,
+    "uniques": 375
   },
   {
     "referrer": "github.com",
-    "count": 221,
-    "uniques": 77
+    "count": 230,
+    "uniques": 85
   },
   {
     "referrer": "kaggle.com",
-    "count": 92,
-    "uniques": 56
+    "count": 93,
+    "uniques": 57
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 20,
-    "uniques": 11
+    "count": 21,
+    "uniques": 12
+  },
+  {
+    "referrer": "blybly.atlassian.net",
+    "count": 7,
+    "uniques": 1
   },
   {
     "referrer": "cn.bing.com",
-    "count": 6,
-    "uniques": 4
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "t.co",
@@ -31,21 +36,16 @@
   },
   {
     "referrer": "firmai.org",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
-    "referrer": "andreaprovino.it",
+    "referrer": "symbaloo.com",
     "count": 2,
     "uniques": 1
   },
   {
     "referrer": "es.search.yahoo.com",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "symbaloo.com",
     "count": 2,
     "uniques": 1
   }
