@@ -1,11 +1,16 @@
 [
   {
     "referrer": "Google",
-    "count": 12,
-    "uniques": 11
+    "count": 13,
+    "uniques": 12
   },
   {
     "referrer": "github.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "reddit.com",
     "count": 2,
     "uniques": 2
   },
@@ -17,11 +22,6 @@
   {
     "referrer": "pypi.org",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 1,
     "uniques": 1
   }
 ]

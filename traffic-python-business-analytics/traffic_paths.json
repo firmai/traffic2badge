@@ -2,32 +2,32 @@
   {
     "path": "/firmai/python-business-analytics",
     "title": "GitHub - firmai/python-business-analytics: Python solutions to solve practica...",
-    "count": 204,
+    "count": 208,
     "uniques": 110
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/data",
     "title": "python-business-analytics/data at master · firmai/python-business-analytics ·...",
-    "count": 38,
+    "count": 34,
     "uniques": 17
-  },
-  {
-    "path": "/firmai/python-business-analytics/tree/master/data/customer",
-    "title": "python-business-analytics/data/customer at master · firmai/python-business-an...",
-    "count": 24,
-    "uniques": 10
-  },
-  {
-    "path": "/firmai/python-business-analytics/tree/master/data/bike",
-    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
-    "count": 22,
-    "uniques": 10
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/cheatsheets",
     "title": "python-business-analytics/cheatsheets at master · firmai/python-business-anal...",
     "count": 21,
     "uniques": 16
+  },
+  {
+    "path": "/firmai/python-business-analytics/tree/master/data/customer",
+    "title": "python-business-analytics/data/customer at master · firmai/python-business-an...",
+    "count": 20,
+    "uniques": 10
+  },
+  {
+    "path": "/firmai/python-business-analytics/tree/master/data/bike",
+    "title": "python-business-analytics/data/bike at master · firmai/python-business-analyt...",
+    "count": 17,
+    "uniques": 10
   },
   {
     "path": "/firmai/python-business-analytics/tree/master/online",
@@ -38,14 +38,8 @@
   {
     "path": "/firmai/python-business-analytics/blob/master/data/bike/hour.csv",
     "title": "python-business-analytics/hour.csv at master · firmai/python-business-analyti...",
-    "count": 11,
-    "uniques": 3
-  },
-  {
-    "path": "/firmai/python-business-analytics/blob/master/data/bike/day.csv",
-    "title": "python-business-analytics/day.csv at master · firmai/python-business-analytic...",
-    "count": 7,
-    "uniques": 3
+    "count": 8,
+    "uniques": 2
   },
   {
     "path": "/firmai/python-business-analytics/blob/master/README.md",
@@ -58,5 +52,11 @@
     "title": "python-business-analytics/datascience.png at master · firmai/python-business-...",
     "count": 5,
     "uniques": 5
+  },
+  {
+    "path": "/firmai/python-business-analytics/blob/master/data/bike/day.csv",
+    "title": "python-business-analytics/day.csv at master · firmai/python-business-analytic...",
+    "count": 5,
+    "uniques": 2
   }
 ]
