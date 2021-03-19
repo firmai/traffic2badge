@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 180,
-    "uniques": 126
+    "count": 190,
+    "uniques": 140
   },
   {
     "referrer": "github.com",
-    "count": 38,
-    "uniques": 31
+    "count": 37,
+    "uniques": 30
   },
   {
     "referrer": "reddit.com",
-    "count": 6,
-    "uniques": 6
+    "count": 7,
+    "uniques": 7
   },
   {
     "referrer": "pypi.org",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "sktime.org",
@@ -25,12 +25,12 @@
     "uniques": 2
   },
   {
-    "referrer": "yandex.ru",
+    "referrer": "Baidu",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "fullstackfeed.com",
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   },

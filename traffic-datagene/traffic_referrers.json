@@ -1,13 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 11,
-    "uniques": 10
-  },
-  {
-    "referrer": "DuckDuckGo",
-    "count": 2,
-    "uniques": 2
+    "count": 13,
+    "uniques": 12
   },
   {
     "referrer": "weekly.pychina.org",
@@ -16,6 +11,11 @@
   },
   {
     "referrer": "Google",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }

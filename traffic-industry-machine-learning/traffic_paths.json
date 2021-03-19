@@ -2,26 +2,26 @@
   {
     "path": "/firmai/industry-machine-learning",
     "title": "GitHub - firmai/industry-machine-learning: A curated list of applied machine ...",
-    "count": 1320,
-    "uniques": 616
+    "count": 1406,
+    "uniques": 663
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/assets",
     "title": "industry-machine-learning/assets at master · firmai/industry-machine-learning...",
-    "count": 34,
-    "uniques": 26
+    "count": 37,
+    "uniques": 28
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/README.md",
     "title": "industry-machine-learning/README.md at master · firmai/industry-machine-learn...",
-    "count": 32,
+    "count": 33,
     "uniques": 15
   },
   {
     "path": "/firmai/industry-machine-learning/tree/master/.github",
     "title": "industry-machine-learning/.github at master · firmai/industry-machine-learnin...",
-    "count": 13,
-    "uniques": 10
+    "count": 17,
+    "uniques": 12
   },
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/empty.ipynb",
@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/firmai/industry-machine-learning/blob/master/.github/FUNDING.yml",
+    "title": "industry-machine-learning/FUNDING.yml at master · firmai/industry-machine-lea...",
+    "count": 5,
+    "uniques": 5
+  },
+  {
     "path": "/firmai/industry-machine-learning/search",
     "title": "Search · supply chain · GitHub",
     "count": 5,
@@ -50,13 +56,7 @@
   {
     "path": "/firmai/industry-machine-learning/blob/master/assets/first.txt",
     "title": "industry-machine-learning/first.txt at master · firmai/industry-machine-learn...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/firmai/industry-machine-learning/blob/master/.github/FUNDING.yml",
-    "title": "industry-machine-learning/FUNDING.yml at master · firmai/industry-machine-lea...",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   }
 ]

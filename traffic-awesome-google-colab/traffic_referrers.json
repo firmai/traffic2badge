@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 185,
-    "uniques": 132
+    "count": 201,
+    "uniques": 135
   },
   {
     "referrer": "github.com",
-    "count": 52,
-    "uniques": 37
+    "count": 45,
+    "uniques": 34
   },
   {
     "referrer": "1point3acres.com",
@@ -15,19 +15,9 @@
     "uniques": 8
   },
   {
-    "referrer": "blog.etereo.io",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "referrer": "DuckDuckGo",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "referrer": "medium.com",
-    "count": 3,
-    "uniques": 2
   },
   {
     "referrer": "reddit.com",
@@ -40,8 +30,18 @@
     "uniques": 2
   },
   {
+    "referrer": "blog.etereo.io",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "referrer": "flipboard.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "link.zhihu.com",
+    "count": 1,
     "uniques": 1
   },
   {
