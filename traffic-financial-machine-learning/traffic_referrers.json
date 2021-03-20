@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 799,
-    "uniques": 406
+    "count": 864,
+    "uniques": 448
   },
   {
     "referrer": "github.com",
-    "count": 266,
-    "uniques": 90
+    "count": 242,
+    "uniques": 88
   },
   {
     "referrer": "kaggle.com",
-    "count": 87,
-    "uniques": 59
+    "count": 86,
+    "uniques": 58
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 19,
-    "uniques": 10
+    "count": 21,
+    "uniques": 11
   },
   {
     "referrer": "blybly.atlassian.net",
@@ -40,13 +40,13 @@
     "uniques": 3
   },
   {
-    "referrer": "github.com.cnpmjs.org",
+    "referrer": "hub.fastgit.org",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "andreaprovino.it",
-    "count": 2,
+    "referrer": "github.com.cnpmjs.org",
+    "count": 3,
     "uniques": 1
   }
 ]

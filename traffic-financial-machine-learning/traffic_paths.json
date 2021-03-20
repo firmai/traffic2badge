@@ -2,20 +2,32 @@
   {
     "path": "/firmai/financial-machine-learning",
     "title": "GitHub - firmai/financial-machine-learning: A curated list of practical finan...",
-    "count": 1573,
-    "uniques": 707
+    "count": 1641,
+    "uniques": 752
   },
   {
     "path": "/firmai/financial-machine-learning/blob/master/README.md",
     "title": "financial-machine-learning/README.md at master · firmai/financial-machine-lea...",
-    "count": 73,
-    "uniques": 40
+    "count": 71,
+    "uniques": 41
   },
   {
     "path": "/firmai/financial-machine-learning/edit/master/README.md",
     "title": "Editing financial-machine-learning/README.md at master · firmai/financial-mac...",
     "count": 8,
     "uniques": 2
+  },
+  {
+    "path": "/firmai/financial-machine-learning/pulls",
+    "title": "Pull requests · firmai/financial-machine-learning · GitHub",
+    "count": 7,
+    "uniques": 5
+  },
+  {
+    "path": "/firmai/financial-machine-learning/search",
+    "title": "Search · 金融大数据分析第二版",
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/firmai/financial-machine-learning/find/master",
@@ -30,28 +42,16 @@
     "uniques": 3
   },
   {
-    "path": "/firmai/financial-machine-learning/pulls",
-    "title": "Pull requests · firmai/financial-machine-learning · GitHub",
+    "path": "/firmai/financial-machine-learning/pulse",
+    "title": "Pulse · firmai/financial-machine-learning",
     "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/firmai/financial-machine-learning/search",
-    "title": "Search · 金融大数据分析第二版",
-    "count": 4,
-    "uniques": 4
+    "uniques": 1
   },
   {
     "path": "/firmai/financial-machine-learning/commit/1cd8db7b0fd1152c8319f0b8b1e78425878c07f2",
     "title": "Merge pull request #2 from AJV009/master · firmai/financial-machine-learning@...",
     "count": 4,
     "uniques": 3
-  },
-  {
-    "path": "/firmai/financial-machine-learning/pulse",
-    "title": "Pulse · firmai/financial-machine-learning",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/firmai/financial-machine-learning/graphs/traffic",

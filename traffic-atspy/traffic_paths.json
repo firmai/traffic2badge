@@ -2,38 +2,50 @@
   {
     "path": "/firmai/atspy",
     "title": "GitHub - firmai/atspy: AtsPy: Automated Time Series Models in Python (by @fir...",
-    "count": 206,
-    "uniques": 114
+    "count": 233,
+    "uniques": 128
   },
   {
     "path": "/firmai/atspy/issues/12",
     "title": "\"ERROR: Could not find a version that satisfies the requirement dataclasses==...",
-    "count": 106,
-    "uniques": 97
+    "count": 114,
+    "uniques": 101
   },
   {
     "path": "/firmai/atspy/tree/master/atspy",
     "title": "atspy/atspy at master · firmai/atspy · GitHub",
-    "count": 32,
-    "uniques": 19
-  },
-  {
-    "path": "/firmai/atspy/tree/master/atspy/TS",
-    "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
-    "count": 17,
-    "uniques": 12
-  },
-  {
-    "path": "/firmai/atspy/issues",
-    "title": "Issues · firmai/atspy · GitHub",
-    "count": 16,
-    "uniques": 9
+    "count": 39,
+    "uniques": 22
   },
   {
     "path": "/firmai/atspy/search",
     "title": "Search · stat 474 · GitHub",
-    "count": 15,
-    "uniques": 7
+    "count": 22,
+    "uniques": 8
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy/TS",
+    "title": "atspy/atspy/TS at master · firmai/atspy · GitHub",
+    "count": 20,
+    "uniques": 14
+  },
+  {
+    "path": "/firmai/atspy/issues",
+    "title": "Issues · firmai/atspy · GitHub",
+    "count": 17,
+    "uniques": 9
+  },
+  {
+    "path": "/firmai/atspy/tree/master/atspy_files",
+    "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
+    "count": 8,
+    "uniques": 8
+  },
+  {
+    "path": "/firmai/atspy/blob/master/atspy/ssa.py",
+    "title": "atspy/ssa.py at master · firmai/atspy · GitHub",
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/firmai/atspy/issues/7",
@@ -42,21 +54,9 @@
     "uniques": 5
   },
   {
-    "path": "/firmai/atspy/tree/master/atspy_files",
-    "title": "atspy/atspy_files at master · firmai/atspy · GitHub",
-    "count": 7,
-    "uniques": 7
-  },
-  {
-    "path": "/firmai/atspy/blob/master/atspy/ssa.py",
-    "title": "atspy/ssa.py at master · firmai/atspy · GitHub",
+    "path": "/firmai/atspy/blob/master/atspy/__init__.py",
+    "title": "atspy/__init__.py at master · firmai/atspy · GitHub",
     "count": 6,
     "uniques": 4
-  },
-  {
-    "path": "/firmai/atspy/blob/master/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf",
-    "title": "atspy/AtsPy_Automated_Time_Series_Forecasting_in_Python.pdf at master · firma...",
-    "count": 5,
-    "uniques": 5
   }
 ]

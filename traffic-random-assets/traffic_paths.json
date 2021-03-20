@@ -2,7 +2,13 @@
   {
     "path": "/firmai/random-assets",
     "title": "GitHub - firmai/random-assets",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/firmai/random-assets/blob/b0d0938bb9b0b95cbf0eb2b15964875ce0cb2973/vendors_only_with_public_reference.json",
+    "title": "random-assets/vendors_only_with_public_reference.json at b0d0938bb9b0b95cbf0e...",
+    "count": 1,
+    "uniques": 1
   }
 ]
