@@ -2,8 +2,8 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 61,
-    "uniques": 41
+    "count": 62,
+    "uniques": 42
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data",
@@ -30,6 +30,12 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/interactive-corporate-report/pull/2",
+    "title": "Bump pillow from 4.2.1 to 6.2.0 by dependabot · Pull Request #2 · firmai/inte...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/interactive-corporate-report/tree/master/data/glassdoor",
     "title": "interactive-corporate-report/data/glassdoor at master · firmai/interactive-co...",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/firmai/interactive-corporate-report/blob/master/data/._BJRI_gd_interviews.csv",
     "title": "interactive-corporate-report/._BJRI_gd_interviews.csv at master · firmai/inte...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/data/facebook/RRGB_facebook.csv",
-    "title": "interactive-corporate-report/RRGB_facebook.csv at master · firmai/interactive...",
     "count": 1,
     "uniques": 1
   }

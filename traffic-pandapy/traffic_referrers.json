@@ -6,8 +6,8 @@
   },
   {
     "referrer": "Google",
-    "count": 6,
-    "uniques": 6
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "cn.bing.com",
@@ -18,15 +18,5 @@
     "referrer": "news.ycombinator.com",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "referrer": "weekly.pychina.org",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "t.co",
-    "count": 1,
-    "uniques": 1
   }
 ]

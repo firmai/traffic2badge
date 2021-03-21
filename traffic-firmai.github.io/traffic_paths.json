@@ -8,8 +8,8 @@
   {
     "path": "/firmai/firmai.github.io/blob/master/documents/Time-Series.md",
     "title": "firmai.github.io/Time-Series.md at master · firmai/firmai.github.io · GitHub",
-    "count": 16,
-    "uniques": 14
+    "count": 17,
+    "uniques": 15
   },
   {
     "path": "/firmai/firmai.github.io/tree/master/documents",
@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/firmai/firmai.github.io/blob/master/documents/Insurance-Model.md",
-    "title": "firmai.github.io/Insurance-Model.md at master · firmai/firmai.github.io · Git...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/firmai.github.io/tree/master/about",
     "title": "firmai.github.io/about at master · firmai/firmai.github.io",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/firmai/firmai.github.io/blob/9f5e792ca5d59e612e162fad5d5a81e4a146bd34/articles/index.md",
     "title": "firmai.github.io/index.md at 9f5e792ca5d59e612e162fad5d5a81e4a146bd34 · firma...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/firmai/firmai.github.io/blob/master/about/index.md",
+    "title": "firmai.github.io/index.md at master · firmai/firmai.github.io",
     "count": 1,
     "uniques": 1
   }

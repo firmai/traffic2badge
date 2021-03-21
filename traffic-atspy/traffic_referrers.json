@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 207,
-    "uniques": 150
+    "count": 206,
+    "uniques": 156
   },
   {
     "referrer": "github.com",
-    "count": 47,
-    "uniques": 36
+    "count": 43,
+    "uniques": 34
   },
   {
     "referrer": "reddit.com",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "pypi.org",
-    "count": 5,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "sktime.org",
@@ -30,22 +30,22 @@
     "uniques": 1
   },
   {
-    "referrer": "link.zhihu.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "ctolib.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "referrer": "Baidu",
     "count": 1,
     "uniques": 1
   },
   {
+    "referrer": "link.zhihu.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "ctolib.com",
     "count": 1,
     "uniques": 1
   }

@@ -1,23 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 85,
-    "uniques": 47
+    "count": 73,
+    "uniques": 41
   },
   {
     "referrer": "github.com",
-    "count": 45,
-    "uniques": 27
+    "count": 47,
+    "uniques": 28
   },
   {
     "referrer": "colab.research.google.com",
     "count": 35,
-    "uniques": 17
-  },
-  {
-    "referrer": "firmai.org",
-    "count": 3,
-    "uniques": 3
+    "uniques": 19
   },
   {
     "referrer": "Bing",
@@ -30,7 +25,17 @@
     "uniques": 2
   },
   {
-    "referrer": "cn.bing.com",
+    "referrer": "firmai.org",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "yandex.ru",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "l.facebook.com",
     "count": 1,
     "uniques": 1
   },
@@ -40,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "yandex.ru",
+    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   }

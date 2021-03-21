@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 864,
-    "uniques": 448
+    "count": 877,
+    "uniques": 461
   },
   {
     "referrer": "github.com",
-    "count": 242,
-    "uniques": 88
+    "count": 256,
+    "uniques": 98
   },
   {
     "referrer": "kaggle.com",
-    "count": 86,
+    "count": 88,
     "uniques": 58
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 21,
-    "uniques": 11
+    "count": 20,
+    "uniques": 10
   },
   {
     "referrer": "blybly.atlassian.net",
@@ -30,23 +30,23 @@
     "uniques": 2
   },
   {
+    "referrer": "review.udacity.com",
+    "count": 5,
+    "uniques": 2
+  },
+  {
     "referrer": "firmai.org",
     "count": 4,
     "uniques": 3
   },
   {
-    "referrer": "cn.bing.com",
+    "referrer": "yandex.ru",
     "count": 3,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "referrer": "hub.fastgit.org",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "referrer": "github.com.cnpmjs.org",
-    "count": 3,
-    "uniques": 1
   }
 ]

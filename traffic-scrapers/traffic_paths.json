@@ -2,8 +2,8 @@
   {
     "path": "/firmai/scrapers",
     "title": "GitHub - firmai/scrapers: Scrapers from a project in 2018. Yelp, Spyfu, Simil...",
-    "count": 27,
-    "uniques": 17
+    "count": 29,
+    "uniques": 19
   },
   {
     "path": "/firmai/scrapers/tree/master/doordash",
@@ -24,12 +24,6 @@
     "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/blob/master/angellist/angel_sel.py",
-    "title": "scrapers/angel_sel.py at master · firmai/scrapers · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/firmai/scrapers/blob/master/morningstar/morningstarscraper.py",
     "title": "scrapers/morningstarscraper.py at master · firmai/scrapers · GitHub",
     "count": 2,
@@ -42,20 +36,26 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/scrapers/tree/master/Inside%20VC",
+    "title": "scrapers/Inside VC at master · firmai/scrapers · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/scrapers/tree/master/linkedin",
     "title": "scrapers/linkedin at master · firmai/scrapers · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/blob/master/.gitattributes",
-    "title": "scrapers/.gitattributes at master · firmai/scrapers · GitHub",
-    "count": 1,
-    "uniques": 1
+    "path": "/firmai/scrapers/tree/master/yelp",
+    "title": "scrapers/yelp at master · firmai/scrapers · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "path": "/firmai/scrapers/blob/master/Inside%20VC/vc_scraper.py",
-    "title": "scrapers/vc_scraper.py at master · firmai/scrapers",
+    "path": "/firmai/scrapers/blob/master/angellist/angel_sel.py",
+    "title": "scrapers/angel_sel.py at master · firmai/scrapers · GitHub",
     "count": 1,
     "uniques": 1
   }
