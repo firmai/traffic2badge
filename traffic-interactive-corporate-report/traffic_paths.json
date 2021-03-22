@@ -2,8 +2,14 @@
   {
     "path": "/firmai/interactive-corporate-report",
     "title": "GitHub - firmai/interactive-corporate-report: ICR - Automated and Intelligent...",
-    "count": 62,
-    "uniques": 42
+    "count": 58,
+    "uniques": 40
+  },
+  {
+    "path": "/firmai/interactive-corporate-report/search",
+    "title": "Search · stakeholder",
+    "count": 12,
+    "uniques": 1
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/data",
@@ -14,8 +20,8 @@
   {
     "path": "/firmai/interactive-corporate-report/issues",
     "title": "Issues · firmai/interactive-corporate-report · GitHub",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/firmai/interactive-corporate-report/tree/master/files",
@@ -36,6 +42,12 @@
     "uniques": 2
   },
   {
+    "path": "/firmai/interactive-corporate-report/pulls",
+    "title": "Pull requests · firmai/interactive-corporate-report · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/firmai/interactive-corporate-report/tree/master/data/glassdoor",
     "title": "interactive-corporate-report/data/glassdoor at master · firmai/interactive-co...",
     "count": 2,
@@ -46,17 +58,5 @@
     "title": "interactive-corporate-report/extra_css at master · firmai/interactive-corpora...",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/14ec2b553d54d48aca173ad6d86cc49781130187/functionality/libraries.py",
-    "title": "interactive-corporate-report/libraries.py at 14ec2b553d54d48aca173ad6d86cc497...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/firmai/interactive-corporate-report/blob/master/data/._BJRI_gd_interviews.csv",
-    "title": "interactive-corporate-report/._BJRI_gd_interviews.csv at master · firmai/inte...",
-    "count": 1,
-    "uniques": 1
   }
 ]

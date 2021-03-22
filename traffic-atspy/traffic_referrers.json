@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 206,
-    "uniques": 156
+    "count": 196,
+    "uniques": 149
   },
   {
     "referrer": "github.com",
-    "count": 43,
-    "uniques": 34
+    "count": 37,
+    "uniques": 29
   },
   {
     "referrer": "reddit.com",
@@ -16,13 +16,13 @@
   },
   {
     "referrer": "pypi.org",
-    "count": 4,
-    "uniques": 2
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "sktime.org",
-    "count": 2,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "libhunt.com",

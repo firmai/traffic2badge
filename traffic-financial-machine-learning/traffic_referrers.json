@@ -1,33 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 877,
-    "uniques": 461
+    "count": 855,
+    "uniques": 467
   },
   {
     "referrer": "github.com",
-    "count": 256,
-    "uniques": 98
+    "count": 239,
+    "uniques": 95
   },
   {
     "referrer": "kaggle.com",
-    "count": 88,
-    "uniques": 58
+    "count": 78,
+    "uniques": 53
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 20,
-    "uniques": 10
+    "count": 19,
+    "uniques": 9
   },
   {
     "referrer": "blybly.atlassian.net",
     "count": 7,
     "uniques": 1
-  },
-  {
-    "referrer": "t.co",
-    "count": 5,
-    "uniques": 2
   },
   {
     "referrer": "review.udacity.com",
@@ -40,12 +35,17 @@
     "uniques": 3
   },
   {
-    "referrer": "yandex.ru",
+    "referrer": "t.co",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "referrer": "hub.fastgit.org",
     "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "hub.fastgit.org",
+    "referrer": "yandex.ru",
     "count": 3,
     "uniques": 2
   }
