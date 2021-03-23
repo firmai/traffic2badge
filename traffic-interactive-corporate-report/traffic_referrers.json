@@ -1,23 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 21,
+    "count": 24,
     "uniques": 18
   },
   {
     "referrer": "Google",
-    "count": 13,
-    "uniques": 10
+    "count": 12,
+    "uniques": 9
   },
   {
     "referrer": "firmai.org",
-    "count": 5,
-    "uniques": 2
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "community.plotly.com",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "reddit.com",
